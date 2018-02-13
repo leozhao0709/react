@@ -10,13 +10,20 @@ interface BurgerProps {
 }
 
 const Burger: StatelessComponent<BurgerProps> = (props: BurgerProps) => {
-  const transformedIngredients = Object.keys(props.ingredients)
+  let transformedIngredients: JSX.Element[] | JSX.Element = Object.keys(props.ingredients)
     .map((igKey) => {
       return [...Array(props.ingredients[igKey]).fill(0)].map((_, index) => {
         return <BurgerIngredient type={igKey} key={igKey + index} />;
       });
-    });
+    })
+    .reduce((prev, el) => {
+      return [...prev, ...el];
+      // tslint:disable-next-line:align
+    }, []);
 
+  if (transformedIngredients.length === 0) {
+    transformedIngredients = <p>Please start adding ingredients!</p>;
+  }
   return (
     <div className={styles.burger} >
       <BurgerIngredient type={BurgerIngredientType.BreadTop} />
