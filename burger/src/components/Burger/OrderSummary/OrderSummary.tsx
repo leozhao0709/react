@@ -1,8 +1,11 @@
 import * as React from 'react';
 import { StatelessComponent } from 'react';
+import Button from '../../UI/Button/Button';
+import { ButtonType } from '../../UI/Button/Button';
 
 interface OrderSummaryProps {
   ingredients: {};
+  price: number;
 }
 
 const OrderSummary: StatelessComponent<OrderSummaryProps> = (props: OrderSummaryProps) => {
@@ -20,7 +23,10 @@ const OrderSummary: StatelessComponent<OrderSummaryProps> = (props: OrderSummary
           })
         }
       </ul>
+      <p><strong>Current price: {props.price}</strong></p>
       <p>Continue to check out?</p>
+      <Button btnType={ButtonType.success} >Continue</Button>
+      <Button btnType={ButtonType.cancel} >Cancel</Button>
     </>
   );
 };

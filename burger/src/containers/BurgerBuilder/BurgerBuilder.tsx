@@ -12,6 +12,7 @@ interface BurgerBuildState {
   ingredients: {};
   totalPrice: number;
   purchasable: boolean;
+  purchasing: boolean;
 }
 
 const INGREDIENT_PRICES = {
@@ -35,6 +36,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     },
     totalPrice: 4,
     purchasable: false,
+    purchasing: false,
   };
 
   updatePurchasable = (ingredients: {}) => {
@@ -54,7 +56,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
 
   addIngredientHandler = (type: BurgerIngredientType) => {
     const updateCount = this.state.ingredients[type] + 1;
-    const newPrice = this.state.totalPrice + INGREDIENT_PRICES[type];
+    const newPrice = +(this.state.totalPrice + INGREDIENT_PRICES[type]).toFixed(2);
     const updateIngredients = {
       ...this.state.ingredients,
     };
@@ -74,7 +76,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     }
 
     const updateCount = this.state.ingredients[type] - 1;
-    const newPrice = this.state.totalPrice - INGREDIENT_PRICES[type];
+    const newPrice = +(this.state.totalPrice - INGREDIENT_PRICES[type]).toFixed(2);
     const updateIngredients = {
       ...this.state.ingredients,
     };
@@ -88,6 +90,14 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     this.updatePurchasable(updateIngredients);
   }
 
+  purchaseHandler = () => {
+    this.setState({ purchasing: true });
+  }
+
+  purchaseCancelHandler = () => {
+    this.setState({ purchasing: false });
+  }
+
   render() {
     let disabledInfo = { ...this.state.ingredients };
     for (const key in disabledInfo) {
@@ -98,8 +108,11 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
 
     return (
       <>
-        <Modal>
-          <OrderSummary ingredients={this.state.ingredients} />
+        <Modal show={this.state.purchasing} modalClosed={this.purchaseCancelHandler} >
+          <OrderSummary
+            ingredients={this.state.ingredients}
+            price={this.state.totalPrice}
+          />
         </Modal>
         <Burger ingredients={this.state.ingredients} />
         <BuildControls
@@ -108,6 +121,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
           disabled={disabledInfo}
           price={this.state.totalPrice}
           purchasable={this.state.purchasable}
+          ordered={this.purchaseHandler}
         />
       </>
     );
