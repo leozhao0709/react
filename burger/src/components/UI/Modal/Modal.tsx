@@ -1,5 +1,4 @@
 import * as React from 'react';
-import { StatelessComponent } from 'react';
 import * as styles from './Modal.css';
 import Backdrop from '../Backdrop/Backdrop';
 
@@ -9,30 +8,36 @@ interface ModalProps {
   modalClosed: () => void;
 }
 
-const Modal: StatelessComponent<ModalProps> = (props: ModalProps) => {
-  let style = {
-    transform: 'translateY(-100vh)',
-    opacity: 0,
-  };
-  if (props.show) {
-    style = {
-      transform: 'translateY(0)',
-      opacity: 1
-    };
+interface ModalState {
+}
+
+class Modal extends React.Component<ModalProps, ModalState> {
+
+  shouldComponentUpdate?(nextProps: ModalProps) {
+    return this.props.show !== nextProps.show;
   }
 
-  return (
-    <>
-      <Backdrop show={props.show} clicked={props.modalClosed} />
-      <div className={styles.modal} style={style} >
-        {props.children}
-      </div>
-    </>
-  );
-};
+  render() {
+    let style = {
+      transform: 'translateY(-100vh)',
+      opacity: 0,
+    };
+    if (this.props.show) {
+      style = {
+        transform: 'translateY(0)',
+        opacity: 1
+      };
+    }
 
-Modal.defaultProps = {
-  show: false,
-};
+    return (
+      <>
+        <Backdrop show={this.props.show} clicked={this.props.modalClosed} />
+        <div className={styles.modal} style={style} >
+          {this.props.children}
+        </div>
+      </>
+    );
+  }
+}
 
 export default Modal;

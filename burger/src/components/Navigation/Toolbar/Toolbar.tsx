@@ -3,16 +3,22 @@ import { StatelessComponent } from 'react';
 import * as styles from './Toolbar.css';
 import Logo from '../../Logo/Logo';
 import NavigationItems from '../NavigationItems/NavigationItems';
+import DrawerToggle from '../SideDrawer/DrawerToggle/DrawerToggle';
 
 interface ToolbarProps {
+  drawerToggle: () => void;
 }
 
 const Toolbar: StatelessComponent<ToolbarProps> = (props: ToolbarProps) => {
   return (
     <header className={styles.toolbar} >
-      <div>MEANU</div>
-      <Logo />
-      <NavigationItems />
+      <DrawerToggle drawerToggleClicked={props.drawerToggle} />
+      <div className={styles.logo} >
+        <Logo />
+      </div>
+      <nav className={styles.desktopOnly} >
+        <NavigationItems />
+      </nav>
     </header>
   );
 };

@@ -3,6 +3,12 @@
   margin: 0;
   padding: 0;
   display: flex;
+  flex-flow: column;
   height: 100%;
-  align-items: center;
+}
+
+@media(min-width: 500px) {
+  .NavigationItems {
+    flex-flow: row;
+  }
 }
