@@ -6,8 +6,10 @@ import Modal from '../../components/UI/Modal/Modal';
 import OrderSummary from '../../components/Burger/OrderSummary/OrderSummary';
 import ordersAxios from '../../axios-orders';
 import Spinner from '../../components/UI/Spinner/Spinner';
+import WithErrorHandler from '../../hoc/WithErrorHandler/WithErrorHandler';
 
 interface BurgerBuildProps {
+    a: number;
 }
 
 interface BurgerBuildState {
@@ -26,9 +28,6 @@ const INGREDIENT_PRICES = {
 };
 
 class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
-
-    static defaultProps: BurgerBuildProps = {
-    };
 
     state: BurgerBuildState = {
         ingredients: {
@@ -170,4 +169,4 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     }
 }
 
-export default BurgerBuild;
+export default WithErrorHandler(BurgerBuild);

@@ -1,11 +1,12 @@
 import * as React from 'react';
 
-const WithErrorHandler = (WrappedComponent) => {
+const WithErrorHandler = <P extends {}>(WrappedComponent: React.ComponentType<P>) => {
     return class extends React.Component {
         render() {
             return (
                 <>
-                    <WrappedComponent />
+                    <h1>2222</h1>
+                    <WrappedComponent {...this.props} />
                 </>
             );
         }
