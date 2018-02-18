@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <Layout>
-        <BurgerBuild a={22} />
+        <BurgerBuild />
       </Layout>
     );
   }

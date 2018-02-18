@@ -1,17 +1,18 @@
 import * as React from 'react';
+import { AxiosInstance } from 'axios';
 
-const WithErrorHandler = <P extends {}>(WrappedComponent: React.ComponentType<P>) => {
-    return class extends React.Component {
+const WithErrorHandler = <P extends {}>(WrappedComponent: React.ComponentType<P>, AxionsInstance: AxiosInstance) => {
+
+    return class extends React.Component<P, {}> {
+
         render() {
             return (
                 <>
-                    <h1>2222</h1>
                     <WrappedComponent {...this.props} />
                 </>
             );
         }
     };
-
 };
 
 export default WithErrorHandler;

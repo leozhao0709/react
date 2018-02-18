@@ -9,7 +9,6 @@ import Spinner from '../../components/UI/Spinner/Spinner';
 import WithErrorHandler from '../../hoc/WithErrorHandler/WithErrorHandler';
 
 interface BurgerBuildProps {
-    a: number;
 }
 
 interface BurgerBuildState {
@@ -102,7 +101,6 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     }
 
     purchaseContinueHandler = () => {
-        // alert('Purchase continued!!!');
         this.setState({ loading: true });
         const orders = {
             ingredients: this.state.ingredients,
@@ -119,7 +117,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
             deliveryMethod: 'fastest'
         };
 
-        ordersAxios.post('/orders.json', orders)
+        ordersAxios.post('/orders.jso', orders)
             .then(response => {
                 this.setState({ loading: false, purchasing: false });
             })
@@ -169,4 +167,4 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     }
 }
 
-export default WithErrorHandler(BurgerBuild);
+export default WithErrorHandler(BurgerBuild, ordersAxios);
