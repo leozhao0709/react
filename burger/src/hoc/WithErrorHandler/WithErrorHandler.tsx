@@ -15,10 +15,20 @@ const WithErrorHandler =
                 error: null,
             };
 
-            componentDidMount() {
-                AxionsInstance.interceptors.response.use(res => res, err => {
+            private responseInterceptor: number;
+
+            componentWillMount() {
+                this.responseInterceptor = AxionsInstance.interceptors.response.use(res => res, err => {
                     this.setState({ error: err });
                 });
+            }
+
+            componentWillUnmount() {
+                // tslint:disable-next-line:no-console
+                console.log(`before eject interceptors: ${this.responseInterceptor}`);
+                AxionsInstance.interceptors.response.eject(this.responseInterceptor);
+                // tslint:disable-next-line:no-console
+                console.log(`after eject interceptors: ${this.responseInterceptor}`);
             }
 
             errorConfirmedHandler = () => {
