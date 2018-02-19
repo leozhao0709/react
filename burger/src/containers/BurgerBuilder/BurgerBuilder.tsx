@@ -13,7 +13,12 @@ interface BurgerBuildProps {
 }
 
 interface BurgerBuildState {
-    ingredients: {} | null;
+    ingredients: {
+        ingredientsType: {
+            amount: number;
+            unitPrice: number;
+        }
+    } | null;
     totalPrice: number;
     purchasable: boolean;
     purchasing: boolean;
@@ -21,12 +26,12 @@ interface BurgerBuildState {
     errMsg: string | null;
 }
 
-const INGREDIENT_PRICES = {
-    salad: 0.5,
-    cheese: 0.4,
-    meat: 1.3,
-    bacon: 0.7
-};
+// const INGREDIENT_PRICES = {
+//     salad: 0.5,
+//     cheese: 0.4,
+//     meat: 1.3,
+//     bacon: 0.7
+// };
 
 class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
 
@@ -40,7 +45,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     };
 
     componentDidMount() {
-        ordersAxios.get('/ingredients.jso')
+        ordersAxios.get('/ingredients.json')
             .then(res => {
                 this.setState({ ingredients: res.data });
             })
@@ -52,7 +57,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     updatePurchasable = (ingredients: {}) => {
         const sum = Object.keys(ingredients)
             .map((igKey) => {
-                return ingredients[igKey];
+                return ingredients[igKey].amount;
             })
             .reduce((prev, el) => {
                 return prev + el;
@@ -65,12 +70,12 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     }
 
     addIngredientHandler = (type: BurgerIngredientType) => {
-        const updateCount = this.state.ingredients![type] + 1;
-        const newPrice = +(this.state.totalPrice + INGREDIENT_PRICES[type]).toFixed(2);
+        const updateCount = this.state.ingredients![type].amount + 1;
+        const newPrice = +(this.state.totalPrice + this.state.ingredients![type].unitPrice).toFixed(2);
         const updateIngredients = {
-            ...this.state.ingredients,
+            ...this.state.ingredients!,
         };
-        updateIngredients[type] = updateCount;
+        updateIngredients[type].amount = updateCount;
 
         this.setState({
             ingredients: updateIngredients,
@@ -81,16 +86,16 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     }
 
     removeIngredientHandler = (type: BurgerIngredientType) => {
-        if (this.state.ingredients![type] <= 0) {
+        if (this.state.ingredients![type].amount <= 0) {
             return;
         }
 
-        const updateCount = this.state.ingredients![type] - 1;
-        const newPrice = +(this.state.totalPrice - INGREDIENT_PRICES[type]).toFixed(2);
+        const updateCount = this.state.ingredients![type].amount - 1;
+        const newPrice = +(this.state.totalPrice - this.state.ingredients![type].unitPrice).toFixed(2);
         const updateIngredients = {
-            ...this.state.ingredients,
+            ...this.state.ingredients!,
         };
-        updateIngredients[type] = updateCount;
+        updateIngredients[type].amount = updateCount;
 
         this.setState({
             ingredients: updateIngredients,
@@ -139,7 +144,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
         let disabledInfo = { ...this.state.ingredients };
         for (const key in disabledInfo) {
             if (disabledInfo.hasOwnProperty(key)) {
-                disabledInfo[key] = disabledInfo[key] <= 0;
+                disabledInfo[key] = disabledInfo[key].amount <= 0;
             }
         }
 

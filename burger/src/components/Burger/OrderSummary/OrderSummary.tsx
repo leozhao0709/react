@@ -11,11 +11,6 @@ interface OrderSummaryProps {
 
 class OrderSummary extends React.Component<OrderSummaryProps, {}> {
 
-  // componentWillUpdate() {
-  //   // tslint:disable-next-line:no-console
-  //   console.log('OrderSummary update!!');
-  // }
-
   render() {
     return (
       <>
@@ -26,7 +21,7 @@ class OrderSummary extends React.Component<OrderSummaryProps, {}> {
             Object.keys(this.props.ingredients).map(igKey => {
               return (
                 <li key={igKey}>
-                  <span style={{ textTransform: 'capitalize' }} >{igKey}</span>: {this.props.ingredients[igKey]}
+                  <span style={{ textTransform: 'capitalize' }} >{igKey}</span>: {this.props.ingredients[igKey].amount}
                 </li>);
             })
           }
