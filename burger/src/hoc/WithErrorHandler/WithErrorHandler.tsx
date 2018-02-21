@@ -24,11 +24,7 @@ const WithErrorHandler =
             }
 
             componentWillUnmount() {
-                // tslint:disable-next-line:no-console
-                console.log(`before eject interceptors: ${this.responseInterceptor}`);
                 AxionsInstance.interceptors.response.eject(this.responseInterceptor);
-                // tslint:disable-next-line:no-console
-                console.log(`after eject interceptors: ${this.responseInterceptor}`);
             }
 
             errorConfirmedHandler = () => {

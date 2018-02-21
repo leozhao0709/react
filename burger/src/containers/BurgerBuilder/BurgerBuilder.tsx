@@ -8,13 +8,15 @@ import ordersAxios from '../../axios-orders';
 import Spinner from '../../components/UI/Spinner/Spinner';
 import WithErrorHandler from '../../hoc/WithErrorHandler/WithErrorHandler';
 import { AxiosError } from 'axios';
+import { RouteComponentProps } from 'react-router';
+import * as queryString from 'query-string';
 
-interface BurgerBuildProps {
+interface BurgerBuildProps extends RouteComponentProps<{}> {
 }
 
 interface BurgerBuildState {
     ingredients: {
-        ingredientsType: {
+        [ingredientsType: string]: {
             amount: number;
             unitPrice: number;
         }
@@ -25,13 +27,6 @@ interface BurgerBuildState {
     loading: boolean;
     errMsg: string | null;
 }
-
-// const INGREDIENT_PRICES = {
-//     salad: 0.5,
-//     cheese: 0.4,
-//     meat: 1.3,
-//     bacon: 0.7
-// };
 
 class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
 
@@ -114,30 +109,40 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     }
 
     purchaseContinueHandler = () => {
-        this.setState({ loading: true });
-        const orders = {
-            ingredients: this.state.ingredients,
-            price: this.state.totalPrice,
-            customer: {
-                name: 'Lei Zhao',
-                address: {
-                    street: 'Test Street 1',
-                    zipCode: '94065',
-                    country: 'US'
-                },
-                email: 'test@test.com'
-            },
-            deliveryMethod: 'fastest'
-        };
+        // this.setState({ loading: true });
+        // const orders = {
+        //     ingredients: this.state.ingredients,
+        //     price: this.state.totalPrice,
+        //     customer: {
+        //         name: 'Lei Zhao',
+        //         address: {
+        //             street: 'Test Street 1',
+        //             zipCode: '94065',
+        //             country: 'US'
+        //         },
+        //         email: 'test@test.com'
+        //     },
+        //     deliveryMethod: 'fastest'
+        // };
 
-        ordersAxios.post('/orders.json', orders)
-            .then(response => {
-                this.setState({ loading: false, purchasing: false });
-            })
-            .catch(err => {
-                this.setState({ loading: false, purchasing: false });
-            })
-            ;
+        // ordersAxios.post('/orders.json', orders)
+        //     .then(response => {
+        //         this.setState({ loading: false, purchasing: false });
+        //     })
+        //     .catch(err => {
+        //         this.setState({ loading: false, purchasing: false });
+        //     })
+        //     ;
+
+        const ingredients = {
+            ingredients: JSON.stringify(this.state.ingredients)
+        };
+        const queryParams = queryString.stringify(ingredients);
+
+        this.props.history.push({
+            pathname: '/checkout',
+            search: queryParams
+        });
     }
 
     render() {

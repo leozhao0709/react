@@ -6,13 +6,18 @@ import { BurgerIngredientType } from './BurgerIngredient/BurgerIngredientType';
 
 interface BurgerProps {
   children?: ReactNode;
-  ingredients: {};
+  ingredients: {
+    [ingredientsType: string]: {
+      amount: number;
+      unitPrice: number;
+    }
+  };
 }
 
 const Burger: StatelessComponent<BurgerProps> = (props: BurgerProps) => {
   let transformedIngredients: JSX.Element[] | JSX.Element = Object.keys(props.ingredients)
     .map((igKey) => {
-      return [...Array(props.ingredients[igKey]).fill(0)].map((_, index) => {
+      return [...Array(props.ingredients[igKey].amount).fill(0)].map((_, index) => {
         return <BurgerIngredient type={igKey} key={igKey + index} />;
       });
     })
