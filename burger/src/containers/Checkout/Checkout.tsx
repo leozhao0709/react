@@ -15,18 +15,21 @@ interface CheckoutState {
             unitPrice: number;
         }
     } | null;
+    totalPrice: number;
 }
 
 class Checkout extends React.Component<CheckoutProps, CheckoutState> {
 
     state: CheckoutState = {
-        ingredients: null
+        ingredients: null,
+        totalPrice: 4.00
     };
 
     componentDidMount() {
         if (this.props.location.search) {
             const ingredients = JSON.parse(queryString.parse(this.props.location.search).ingredients);
-            this.setState({ ingredients: ingredients });
+            const totalPrice = queryString.parse(this.props.location.search).totalPrice;
+            this.setState({ ingredients: ingredients, totalPrice: totalPrice });
         }
     }
 
@@ -39,18 +42,29 @@ class Checkout extends React.Component<CheckoutProps, CheckoutState> {
     }
 
     render() {
+
         return (
             <div>
                 {
                     this.state.ingredients &&
-                    <CheckoutSummary
-                        ingredients={this.state.ingredients}
-                        checkoutCancelled={this.checkoutCancelledHandler}
-                        checkoutContinued={this.checkoutContinuedHandler}
-                    />
+                    (
+                        <>
+                            <CheckoutSummary
+                                ingredients={this.state.ingredients}
+                                checkoutCancelled={this.checkoutCancelledHandler}
+                                checkoutContinued={this.checkoutContinuedHandler}
+                            />
+                            <Route
+                                path={this.props.match.url + '/contact-data'}
+                                render={() => (
+                                    <ContactData
+                                        ingredients={this.state.ingredients}
+                                        totalPrice={this.state.totalPrice}
+                                    />)}
+                            />
+                        </>
+                    )
                 }
-
-                <Route path={this.props.match.url + '/contact-data'} component={ContactData} />
             </div>
         );
     }

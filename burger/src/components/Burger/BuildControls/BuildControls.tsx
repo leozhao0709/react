@@ -23,7 +23,7 @@ interface BuildControlsProps {
 const BuildControls: StatelessComponent<BuildControlsProps> = (props: BuildControlsProps) => {
   return (
     <div className={styles.buildControls} >
-      <p>Current Price: <strong>{props.price}</strong> </p>
+      <p>Current Price: <strong>{props.price.toFixed(2)}</strong> </p>
       {controls.map((ctrl) => {
         return <BuildControl
           key={ctrl.label}

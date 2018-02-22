@@ -1,6 +1,7 @@
 import * as React from 'react';
 import { StatelessComponent, ReactNode } from 'react';
 import * as styles from './NavigationItem.css';
+import { NavLink } from 'react-router-dom';
 
 interface NavigationItemProps {
   children: ReactNode;
@@ -11,12 +12,13 @@ interface NavigationItemProps {
 const NavigationItem: StatelessComponent<NavigationItemProps> = (props: NavigationItemProps) => {
   return (
     <li className={styles.navigationItem} >
-      <a
-        href={props.link}
-        className={props.active ? styles.active : ''}
+      <NavLink
+        to={props.link}
+        exact
+        activeClassName={styles.active}
       >
         {props.children}
-      </a>
+      </NavLink>
     </li>
   );
 };

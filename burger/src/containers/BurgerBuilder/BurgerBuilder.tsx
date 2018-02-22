@@ -67,6 +67,7 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
     addIngredientHandler = (type: BurgerIngredientType) => {
         const updateCount = this.state.ingredients![type].amount + 1;
         const newPrice = +(this.state.totalPrice + this.state.ingredients![type].unitPrice).toFixed(2);
+
         const updateIngredients = {
             ...this.state.ingredients!,
         };
@@ -134,10 +135,11 @@ class BurgerBuild extends React.Component<BurgerBuildProps, BurgerBuildState> {
         //     })
         //     ;
 
-        const ingredients = {
-            ingredients: JSON.stringify(this.state.ingredients)
+        const params = {
+            ingredients: JSON.stringify(this.state.ingredients),
+            totalPrice: this.state.totalPrice
         };
-        const queryParams = queryString.stringify(ingredients);
+        const queryParams = queryString.stringify(params);
 
         this.props.history.push({
             pathname: '/checkout',

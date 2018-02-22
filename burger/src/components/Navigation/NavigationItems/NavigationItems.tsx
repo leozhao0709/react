@@ -10,7 +10,7 @@ const NavigationItems: StatelessComponent<NavigationItemsProps> = (props: Naviga
   return (
     <ul className={styles.navigationItems}>
       <NavigationItem link="/" active >Burger Builder</NavigationItem>
-      <NavigationItem link="/" >Checkout</NavigationItem>
+      <NavigationItem link="/orders" >Orders</NavigationItem>
     </ul>
   );
 };
