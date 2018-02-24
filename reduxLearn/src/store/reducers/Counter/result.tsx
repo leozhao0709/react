@@ -1,5 +1,11 @@
-import { CounterResultState } from '../../types/Counter/index';
-import { CounterResultAction, CounterResultActionType } from '../../actions/Counter/index';
+import { CounterResultAction, CounterResultActionType } from '../../actions/Counter';
+
+export interface CounterResultState {
+    result: {
+        id: Date;
+        val: number;
+    }[];
+}
 
 const initialState: CounterResultState = {
     result: [],

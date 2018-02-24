@@ -1,5 +1,8 @@
 import { CounterAction, CounterActionType } from '../../actions/Counter/index';
-import { CounterState } from '../../types/Counter';
+
+export interface CounterState {
+    counter: number;
+}
 
 const initialState: CounterState = {
     counter: 0,
