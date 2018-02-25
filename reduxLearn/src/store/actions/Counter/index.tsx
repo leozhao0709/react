@@ -1,4 +1,3 @@
-import { Dispatch } from 'redux';
 export enum CounterActionType {
     Inc = 'inc',
     Dec = 'dec',
@@ -38,6 +37,7 @@ export const sub = (val: number): CounterAction => {
 };
 
 export enum CounterResultActionType {
+    STORE_RESULT_INIT = 'STORE_RESULT_INIT',
     STORE_RESULT = 'STORE_RESULT',
     DELETE_RESULT = 'DELETE_RESULT',
 }
@@ -48,18 +48,9 @@ export interface CounterResultAction {
     id?: Date;
 }
 
-export const saveResult = (res: number): CounterResultAction => {
+export const storeResult = (res: number): CounterResultAction => {
     return {
-        type: CounterResultActionType.STORE_RESULT,
+        type: CounterResultActionType.STORE_RESULT_INIT,
         result: res,
-    };
-};
-
-export const storeResult = (res: number) => {
-    return (dispatch: Dispatch) => {
-        setTimeout(() => {
-            dispatch(saveResult(res));
-            // tslint:disable-next-line:align
-        }, 2000);
     };
 };

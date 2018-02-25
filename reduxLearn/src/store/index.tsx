@@ -1,7 +1,8 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux';
 import CounterReducer, { CounterState } from './reducers/Counter/counter';
 import CounterResultReducer, { CounterResultState } from './reducers/Counter/result';
-import thunk from 'redux-thunk';
+import createSagaMiddleware from 'redux-saga';
+import { watchCounterResult } from './saga/index';
 
 export interface StoreState {
     ctr: CounterState;
@@ -13,6 +14,10 @@ const rootReducer = combineReducers({
     res: CounterResultReducer,
 });
 
-const Store = createStore(rootReducer, applyMiddleware(thunk));
+const sagaMiddleware = createSagaMiddleware();
+
+const Store = createStore(rootReducer, applyMiddleware(sagaMiddleware));
+
+sagaMiddleware.run(watchCounterResult);
 
 export default Store;
