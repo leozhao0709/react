@@ -1,9 +1,9 @@
 import { takeEvery, all } from 'redux-saga/effects';
-import { CounterResultActionType } from '../actions/Counter/index';
 import { storeResultSaga } from './Counter/counter';
+import { CounterResultActionType } from '../actions/Counter/result';
 
 export function* watchCounterResult() {
     yield all([
-        takeEvery(CounterResultActionType.STORE_RESULT_INIT, storeResultSaga),
+        takeEvery(CounterResultActionType.STORE_RESULT, storeResultSaga),
     ]);
 }

@@ -2,15 +2,10 @@ import * as React from 'react';
 import CounterOutput from '../../components/CounterOutput/CounterOutput';
 import CounterControl from '../../components/CounterControl/CounterControl';
 import { connect } from 'react-redux';
-import {
-    increment,
-    decrement,
-    add,
-    sub,
-    storeResult
-} from '../../store/actions/Counter/index';
-import { StoreState } from '../../store';
 import { Dispatch } from 'redux';
+import { CounterActions } from '../../store/actions/Counter/counter';
+import { CounterResultActions } from '../../store/actions/Counter/result';
+import { StoreState } from '../../store/Store';
 
 interface CounterStateProps {
     ctr: number;
@@ -61,11 +56,11 @@ const mapStateToProps = (state: StoreState): CounterStateProps => {
 
 const mapDispatchToProps = (dispatch: Dispatch): CounterDispatchProps => {
     return {
-        onIncCounter: () => dispatch(increment()),
-        onDecCounter: () => dispatch(decrement()),
-        onAddCounter: (val) => dispatch(add(val)),
-        onSubCounter: (val) => dispatch(sub(val)),
-        onStoreResult: (result) => dispatch(storeResult(result))
+        onIncCounter: () => dispatch(CounterActions.increment()),
+        onDecCounter: () => dispatch(CounterActions.decrement()),
+        onAddCounter: (val) => dispatch(CounterActions.add(val)),
+        onSubCounter: (val) => dispatch(CounterActions.sub(val)),
+        onStoreResult: (result) => dispatch(CounterResultActions.storeResult(result))
     };
 };
 

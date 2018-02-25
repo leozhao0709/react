@@ -1,4 +1,4 @@
-import { CounterResultAction, CounterResultActionType } from '../../actions/Counter';
+import { CounterResultAction, CounterResultActionType } from '../../actions/Counter/result';
 
 export interface CounterResultState {
     result: {
@@ -13,7 +13,7 @@ const initialState: CounterResultState = {
 
 const CounterResultReducer = (state = initialState, action: CounterResultAction): CounterResultState => {
     switch (action.type) {
-        case CounterResultActionType.STORE_RESULT:
+        case CounterResultActionType.STORE_RESULT_SUCCEED:
             return {
                 ...state,
                 result: [...state.result, { id: new Date(), val: action.result! }]

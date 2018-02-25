@@ -1,4 +1,4 @@
-import { CounterAction, CounterActionType } from '../../actions/Counter/index';
+import { CounterAction, CounterActionType } from '../../actions/Counter/counter';
 
 export interface CounterState {
     counter: number;
