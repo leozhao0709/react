@@ -1,4 +1,4 @@
-import { createStore, combineReducers, applyMiddleware } from 'redux';
+import { createStore, combineReducers, applyMiddleware, compose } from 'redux';
 import CounterReducer, { CounterState } from './reducers/Counter/counter';
 import CounterResultReducer, { CounterResultState } from './reducers/Counter/result';
 import createSagaMiddleware from 'redux-saga';
@@ -14,9 +14,16 @@ const rootReducer = combineReducers({
     res: CounterResultReducer,
 });
 
+// tslint:disable-next-line:no-console
+console.log(process.env.NODE_ENV);
+
 const sagaMiddleware = createSagaMiddleware();
 
-const Store = createStore(rootReducer, applyMiddleware(sagaMiddleware));
+const composeEnhancers = compose;
+
+const Store = createStore(rootReducer, composeEnhancers(
+    applyMiddleware(sagaMiddleware)
+));
 
 sagaMiddleware.run(watchCounterResult);
 
