@@ -7,7 +7,7 @@ interface ToggleAnimationProps {
     showToggle: boolean;
     toggleClicked: () => void;
     updateClicked: () => void;
-    datas: { id: number, backgroundColor: string }[];
+    datas: { id: number, backgroundColor: string, className?: string }[];
 }
 
 const ToggleAnimation: StatelessComponent<ToggleAnimationProps> = (props: ToggleAnimationProps) => {
@@ -21,15 +21,15 @@ const ToggleAnimation: StatelessComponent<ToggleAnimationProps> = (props: Toggle
                 fadeInTime={500}
                 fadeOutTime={500}
             >
-                {
+                {/* {
                     props.datas.map((_, index) => {
                         return <div className={styles[`content${index + 1}`]} key={index} />;
                     })
-                }
+                } */}
 
-                {/* <div className={styles.content1} />
+                <div className={styles.content1} />
                 <div className={styles.content2} />
-                <div className={styles.content3} /> */}
+                <div className={styles.content3} />
             </FadeAnimationGroup>
 
             {/* <FadeAnimation
