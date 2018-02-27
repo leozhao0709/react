@@ -31,7 +31,7 @@ const FadeAnimation: StatelessComponent<FadeAnimationProps> = (props: FadeAnimat
                     timing: { duration: props.fadeOutTime, ease: easeExpInOut }
                 }}
             >
-                {({ opacity }: React.CSSProperties) => {
+                {({ opacity }) => {
                     return React.cloneElement(props.children, { style: { opacity } });
                 }}
             </Animate>

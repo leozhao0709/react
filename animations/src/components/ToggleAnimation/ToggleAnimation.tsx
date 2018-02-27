@@ -1,7 +1,8 @@
 import * as React from 'react';
 import { StatelessComponent } from 'react';
 import * as styles from './ToggleAnimation.css';
-import FadeAnimationGroup from '../UI/Animations/FadeAnimationGroup/FadeAnimationGroup';
+// import FadeAnimationGroup from '../UI/Animations/FadeAnimationGroup/FadeAnimationGroup';
+import FadeAnimation from '../UI/Animations/FadeAnimation/FadeAnimation';
 
 interface ToggleAnimationProps {
     showToggle: boolean;
@@ -16,31 +17,27 @@ const ToggleAnimation: StatelessComponent<ToggleAnimationProps> = (props: Toggle
         <>
             <button onClick={props.toggleClicked} >Toggle</button>
             <button onClick={props.updateClicked} >Update</button>
-            <FadeAnimationGroup
+            {/* <FadeAnimationGroup
                 data={props.datas}
                 fadeInTime={500}
                 fadeOutTime={500}
             >
-                {/* {
+                {
                     props.datas.map((_, index) => {
                         return <div className={styles[`content${index + 1}`]} key={index} />;
                     })
-                } */}
+                }
+            </FadeAnimationGroup> */}
 
-                <div className={styles.content1} />
-                <div className={styles.content2} />
-                <div className={styles.content3} />
-            </FadeAnimationGroup>
-
-            {/* <FadeAnimation
+            <FadeAnimation
                 show={props.showToggle}
                 fadeInTime={500}
                 fadeOutTime={500}
             >
-                <div className={[styles.content1, styles.content].join(' ')} >
+                <div className={[styles.content1].join(' ')} >
                     <p>aaaaaaaaa</p>
                 </div>
-            </FadeAnimation> */}
+            </FadeAnimation>
 
             {/* <NodeGroup
                 data={props.datas}

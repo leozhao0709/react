@@ -24,35 +24,19 @@ class ToggleAnimationControl extends React.Component<ToggleAnimationControlProps
     state: ToggleAnimationControlState = {
         showToggle: false,
         datas: Array(3).fill(0).map((_, index) => {
-            return {
-                id: index,
-                backgroundColor: getRandomColor()
-            };
+            return { id: index, backgroundColor: getRandomColor() };
         }),
     };
 
     toggleClickHandler = () => {
-        // this.setState({ showToggle: !this.state.showToggle });
-        // if (this.state.showToggle) {
-        //     this.setState({
-        //         datas: Array(3).fill(0).map((_, index) => {
-        //             return { id: index, backgroundColor: getRandomColor() };
-        //         })
-        //     });
-        // } else {
-        //     this.setState({ datas: [] });
-        // }
-
         this.setState((prev) => {
             return {
                 showToggle: !prev.showToggle,
-                datas: prev.showToggle ? [] : Array(3).fill(0).map((_, index) => {
-                    return { id: index, background: getRandomColor() };
+                datas: Array(3).fill(0).map((_, index) => {
+                    return { id: index, backgroundColor: getRandomColor() };
                 })
             };
         });
-        // tslint:disable-next-line:no-console
-        console.log(`toggle handler: ${this.state.showToggle}`);
     }
 
     updateClickHandler = () => {
@@ -62,8 +46,6 @@ class ToggleAnimationControl extends React.Component<ToggleAnimationControlProps
                 return { id: index, backgroundColor: getRandomColor() };
             })
         });
-        // tslint:disable-next-line:no-console
-        console.log(`update handler: ${this.state.showToggle}`);
     }
 
     render() {
