@@ -1,0 +1,6 @@
+.SvgContainer {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  border: 1px solid #000;
+  box-sizing: border-box; }
