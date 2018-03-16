@@ -23,7 +23,6 @@ const Burger: StatelessComponent<BurgerProps> = (props: BurgerProps) => {
     })
     .reduce((prev, el) => {
       return [...prev, ...el];
-      // tslint:disable-next-line:align
     }, []);
 
   if (transformedIngredients.length === 0) {
