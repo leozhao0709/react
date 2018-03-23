@@ -5,9 +5,9 @@ import Logo from '../../Logo/Logo';
 import NavigationItems from '../NavigationItems/NavigationItems';
 import DrawerToggle from '../SideDrawer/DrawerToggle/DrawerToggle';
 
-interface ToolbarProps {
+type ToolbarProps = {
   drawerToggle: () => void;
-}
+};
 
 const Toolbar: StatelessComponent<ToolbarProps> = (props: ToolbarProps) => {
   return (
