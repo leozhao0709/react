@@ -1,22 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.scss';
+import { Todo } from './components/Todo';
+import { Header } from './components/Header';
+import { Auth } from './components/Auth';
+import { AuthContext } from './context/auth-context';
+import Counter from './components/Counter';
 
 const App: React.FC = () => {
-  let a = 123;
-  console.log(a);
+  const [page, setPage] = useState('auth');
+  const [authStatus, setAuthStatus] = useState(false);
+
+  const login = () => setAuthStatus(true);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AuthContext.Provider value={{ authStatus, login }}>
+      <Header onLoadTodos={() => setPage('todo')} onLoadAuth={() => setPage('auth')} />
+      <hr />
+      {page === 'todo' ? <Todo /> : <Auth />}
+      <Counter />
+    </AuthContext.Provider>
   );
 };
 
