@@ -5,6 +5,7 @@ import { Header } from './components/Header';
 import { Auth } from './components/Auth';
 import { AuthContext } from './context/auth-context';
 import Counter from './components/Counter';
+import CounterExtraBtn from './components/CounterExtraBtn';
 
 const App: React.FC = () => {
   const [page, setPage] = useState('auth');
@@ -17,6 +18,7 @@ const App: React.FC = () => {
       <hr />
       {page === 'todo' ? <Todo /> : <Auth />}
       <Counter />
+      <CounterExtraBtn />
     </AuthContext.Provider>
   );
 };
