@@ -1,4 +1,8 @@
-export const counterReducer = (state: { count: number }, action: { type: string; payload?: { count: number } }) => {
+export interface CounterState {
+  count: number;
+}
+
+export const counterReducer = (state = { count: 0 }, action: { type: string; payload?: { count: number } }) => {
   switch (action.type) {
     case 'increament':
       return { count: state.count + 1 };

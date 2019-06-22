@@ -1,10 +1,10 @@
 import * as React from 'react';
-import { counterReducer } from '../reducer/CounterReducer';
+import { useDispatch } from 'react-redux';
 
 interface CounterExtraBtnProps extends React.HtmlHTMLAttributes<{}> {}
 
 const CounterExtraBtn: React.FC<CounterExtraBtnProps> = (props: CounterExtraBtnProps) => {
-  const [, dispatch] = React.useReducer(counterReducer, { count: 0 });
+  const dispatch = useDispatch();
 
   return (
     <React.Fragment>
