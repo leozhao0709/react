@@ -1,7 +1,6 @@
-import axios from 'axios';
-import { Dispatch } from 'redux';
 export enum UserActionType {
-  FETCH_USER = 'FETCH_USER'
+  FETCH_ONE_USER = 'FETCH_ONE_USER',
+  FETCH_USERS = 'FETCH_USERS'
 }
 
 export interface User {
@@ -13,17 +12,20 @@ export interface User {
 
 export interface UserAction {
   type: UserActionType;
-  payload?: User;
+  payload?: User | User[];
 }
 
 export const UserActions = {
-  fetchUser: (userId: number) => {
-    return async (dispatch: Dispatch) => {
-      const response = await axios.get(`https://jsonplaceholder.typicode.com/users/${userId}`);
-      dispatch({
-        type: UserActionType.FETCH_USER,
-        payload: response.data as User
-      });
-    };
-  }
+  // fetchUser: (userId: number) => {
+  //   return async (dispatch: Dispatch, getState: () => StoreState) => {
+  //     console.log(getState().usersState.users);
+  //     if (!getState().usersState.users.some(user => user.id === userId)) {
+  //       const response = await axios.get(`https://jsonplaceholder.typicode.com/users/${userId}`);
+  //       await dispatch({
+  //         type: UserActionType.FETCH_USER,
+  //         payload: response.data as User
+  //       });
+  //     }
+  //   };
+  // }
 };

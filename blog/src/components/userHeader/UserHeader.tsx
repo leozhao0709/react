@@ -1,23 +1,16 @@
 import * as React from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import { UserActions } from '../../actions/user-action';
-import { StoreState } from '../../store/index';
+import { User } from '../../actions/user-action';
 
 interface UserHeaderProps extends React.HtmlHTMLAttributes<{}> {
-  userId: number;
+  user?: User;
 }
 
 const UserHeader: React.FC<UserHeaderProps> = (props: UserHeaderProps) => {
-  const dispatch = useDispatch();
-  const currentUser = useSelector((state: StoreState) => state.users.lastFetchedUser);
-
-  React.useEffect(() => {
-    dispatch(UserActions.fetchUser(props.userId));
-  }, [dispatch, props.userId]);
-
+  console.log('...render userHeader...');
+  const user = props.user;
   return (
     <React.Fragment>
-      <div>{currentUser && currentUser.username}</div>
+      <h4>{user && <div>{user.name}</div>}</h4>
     </React.Fragment>
   );
 };

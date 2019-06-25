@@ -7,20 +7,21 @@ import UserHeader from '../userHeader/UserHeader';
 interface PostListProps extends React.HtmlHTMLAttributes<{}> {}
 
 export const PostList: React.FC<PostListProps> = (props: PostListProps) => {
-  const posts = useSelector((state: StoreState) => state.posts.posts);
+  const posts = useSelector((state: StoreState) => state.postsState.posts);
+  const users = useSelector((state: StoreState) => state.usersState.users);
   const dispatch = useDispatch();
 
   React.useEffect(() => {
-    dispatch(PostActions.fetchPost());
+    dispatch(PostActions.fetchPostAndUser());
   }, [dispatch]);
-
+  console.log('...render posts...');
   return (
     <React.Fragment>
-      {posts.map(post => {
+      {posts.map((post, index) => {
         return (
           <div key={post.id}>
-            {post.body}
-            <UserHeader userId={post.userId} />
+            {index}. {post.body}
+            <UserHeader user={users.find(user => user.id === post.userId)} />
             <hr />
           </div>
         );

@@ -2,7 +2,6 @@ import { UserAction, UserActionType, User } from '../actions/user-action';
 
 export interface UserState {
   users: User[];
-  lastFetchedUser?: User;
 }
 
 const initialState: UserState = {
@@ -11,10 +10,15 @@ const initialState: UserState = {
 
 const UserReducer = (state = initialState, action: UserAction): UserState => {
   switch (action.type) {
-    case UserActionType.FETCH_USER:
+    case UserActionType.FETCH_ONE_USER:
       return {
         ...state,
-        lastFetchedUser: action.payload
+        users: [...state.users, action.payload as User]
+      };
+    case UserActionType.FETCH_USERS:
+      return {
+        ...state,
+        users: action.payload as User[]
       };
     default:
       return state;

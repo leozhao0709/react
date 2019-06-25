@@ -6,8 +6,8 @@ import { composeWithDevTools } from 'redux-devtools-extension';
 import { UserState } from '../reducers/user-reducer';
 
 export interface StoreState {
-  posts: PostState;
-  users: UserState;
+  postsState: PostState;
+  usersState: UserState;
 }
 
 const store = createStore(reducers, composeWithDevTools(applyMiddleware(thunk)));
