@@ -3,6 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { StoreState } from '../../store/index';
 import { PostActions } from '../../actions/posts-action';
 import UserHeader from '../userHeader/UserHeader';
+import { UserActions } from '../../actions/user-action';
 
 interface PostListProps extends React.HtmlHTMLAttributes<{}> {}
 
