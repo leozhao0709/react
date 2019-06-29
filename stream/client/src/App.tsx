@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Route, HashRouter, Redirect, Switch } from 'react-router-dom';
+import { Route, HashRouter, Redirect, Switch, BrowserRouter } from 'react-router-dom';
 import StreamList from './components/container/StreamList';
 import StreamCreate from './components/container/StreamCreate';
 import StreamEdit from './components/container/StreamEdit';
