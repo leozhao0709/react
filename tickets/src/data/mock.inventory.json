@@ -1,0 +1,4565 @@
+{
+  "eventId": 104011747,
+  "genreId": 145,
+  "totalListings": 257,
+  "totalTickets": 807,
+  "minQuantity": 1,
+  "blendedLogicApplied": false,
+  "blendedEvent": false,
+  "maxQuantity": 18,
+  "start": 0,
+  "rows": 20,
+  "currency": "USD",
+  "listing": [
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 89.00,
+        "currency": "USD"
+      },
+      "sectionId": 40393,
+      "sectionName": "Upper Reserved Corner 226",
+      "dirtyTicketInd": false,
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "splitVector": [
+        1
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        12
+      ],
+      "deliveryMethodList": [
+        41
+      ],
+      "valuePercentage": 81.0,
+      "seats": [
+        {
+          "listingId": 1459447730,
+          "row": "13",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "321EDF421AF5217AE0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 95.00,
+        "currency": "USD"
+      },
+      "sectionId": 40387,
+      "sectionName": "Upper Reserved Goal 220",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 44.0,
+      "seats": [
+        {
+          "seatNumber": "3",
+          "listingId": 1459368372,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "4",
+          "listingId": 1459368372,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "5",
+          "listingId": 1459368372,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "6",
+          "listingId": 1459368372,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "7",
+          "listingId": 1459368372,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "8",
+          "listingId": 1459368372,
+          "row": "14",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 95.00,
+        "currency": "USD"
+      },
+      "sectionId": 40387,
+      "sectionName": "Upper Reserved Goal 220",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        4
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 44.0,
+      "seats": [
+        {
+          "seatNumber": "19",
+          "listingId": 1459368383,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "20",
+          "listingId": 1459368383,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "21",
+          "listingId": 1459368383,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "22",
+          "listingId": 1459368383,
+          "row": "14",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 96.00,
+        "currency": "USD"
+      },
+      "sectionId": 40391,
+      "sectionName": "Upper Reserved Goal 224",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 51.0,
+      "seats": [
+        {
+          "seatNumber": "5",
+          "listingId": 1459033361,
+          "row": "13",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "6",
+          "listingId": 1459033361,
+          "row": "13",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 96.00,
+        "currency": "USD"
+      },
+      "sectionId": 40392,
+      "sectionName": "Upper Reserved Goal 225",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 49.0,
+      "seats": [
+        {
+          "seatNumber": "9",
+          "listingId": 1459033383,
+          "row": "13",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "10",
+          "listingId": 1459033383,
+          "row": "13",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 96.78,
+        "currency": "USD"
+      },
+      "sectionId": 40378,
+      "sectionName": "Upper Reserved Goal 208",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        4
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "c2cListing",
+      "listingAttributeList": [
+        101
+      ],
+      "listingAttributeCategoryList": [
+        6
+      ],
+      "deliveryTypeList": [
+        12
+      ],
+      "deliveryMethodList": [
+        41
+      ],
+      "valuePercentage": 52.0,
+      "seats": [
+        {
+          "seatNumber": "18",
+          "listingId": 1459455308,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "19",
+          "listingId": 1459455308,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "20",
+          "listingId": 1459455308,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "21",
+          "listingId": 1459455308,
+          "row": "14",
+          "isGA": 0
+        }
+      ],
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 97.00,
+        "currency": "USD"
+      },
+      "sectionId": 40392,
+      "sectionName": "Upper Reserved Goal 225",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 60.0,
+      "seats": [
+        {
+          "seatNumber": "5",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "6",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "7",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "8",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "9",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "10",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "11",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "12",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "13",
+          "listingId": 1459340675,
+          "row": "10",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 97.00,
+        "currency": "USD"
+      },
+      "sectionId": 40389,
+      "sectionName": "Upper Reserved Goal 222",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        4
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 59.0,
+      "seats": [
+        {
+          "seatNumber": "1",
+          "listingId": 1459368421,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "2",
+          "listingId": 1459368421,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "3",
+          "listingId": 1459368421,
+          "row": "10",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "4",
+          "listingId": 1459368421,
+          "row": "10",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 97.00,
+        "currency": "USD"
+      },
+      "sectionId": 40387,
+      "sectionName": "Upper Reserved Goal 220",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        4
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 54.0,
+      "seats": [
+        {
+          "seatNumber": "11",
+          "listingId": 1459368365,
+          "row": "11",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "12",
+          "listingId": 1459368365,
+          "row": "11",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "13",
+          "listingId": 1459368365,
+          "row": "11",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "14",
+          "listingId": 1459368365,
+          "row": "11",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 97.00,
+        "currency": "USD"
+      },
+      "sectionId": 40390,
+      "sectionName": "Upper Reserved Goal 223",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 49.0,
+      "seats": [
+        {
+          "seatNumber": "1",
+          "listingId": 1458993973,
+          "row": "12",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "2",
+          "listingId": 1458993973,
+          "row": "12",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 98.00,
+        "currency": "USD"
+      },
+      "sectionId": 40392,
+      "sectionName": "Upper Reserved Goal 225",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        4
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 64.0,
+      "seats": [
+        {
+          "seatNumber": "7",
+          "listingId": 1458993976,
+          "row": "9",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "8",
+          "listingId": 1458993976,
+          "row": "9",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "9",
+          "listingId": 1458993976,
+          "row": "9",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "10",
+          "listingId": 1458993976,
+          "row": "9",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 98.00,
+        "currency": "USD"
+      },
+      "sectionId": 40392,
+      "sectionName": "Upper Reserved Goal 225",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 64.0,
+      "seats": [
+        {
+          "seatNumber": "3",
+          "listingId": 1459033378,
+          "row": "9",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "4",
+          "listingId": 1459033378,
+          "row": "9",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 98.00,
+        "currency": "USD"
+      },
+      "sectionId": 40390,
+      "sectionName": "Upper Reserved Goal 223",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 59.0,
+      "seats": [
+        {
+          "seatNumber": "7",
+          "listingId": 1456733720,
+          "row": "9",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "8",
+          "listingId": 1456733720,
+          "row": "9",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 98.00,
+        "currency": "USD"
+      },
+      "sectionId": 40387,
+      "sectionName": "Upper Reserved Goal 220",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 39.0,
+      "seats": [
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        },
+        {
+          "listingId": 1453029767,
+          "row": "14",
+          "isGA": 0
+        }
+      ],
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 98.48,
+        "currency": "USD"
+      },
+      "sectionId": 40392,
+      "sectionName": "Upper Reserved Goal 225",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "faceValue": {
+        "amount": 19.50,
+        "currency": "USD"
+      },
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 27.0,
+      "seats": [
+        {
+          "seatNumber": "300",
+          "listingId": 1459457200,
+          "row": "18",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "301",
+          "listingId": 1459457200,
+          "row": "18",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8157C90032DD5084E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 99.00,
+        "currency": "USD"
+      },
+      "sectionId": 40391,
+      "sectionName": "Upper Reserved Goal 224",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 69.0,
+      "seats": [
+        {
+          "seatNumber": "9",
+          "listingId": 1459427420,
+          "row": "8",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 99.00,
+        "currency": "USD"
+      },
+      "sectionId": 40390,
+      "sectionName": "Upper Reserved Goal 223",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        1,
+        2,
+        4
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 62.0,
+      "seats": [
+        {
+          "seatNumber": "1",
+          "listingId": 1459368437,
+          "row": "8",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "2",
+          "listingId": 1459368437,
+          "row": "8",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "3",
+          "listingId": 1459368437,
+          "row": "8",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "4",
+          "listingId": 1459368437,
+          "row": "8",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 99.00,
+        "currency": "USD"
+      },
+      "sectionId": 40388,
+      "sectionName": "Upper Reserved Goal 221",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 60.0,
+      "seats": [
+        {
+          "seatNumber": "6",
+          "listingId": 1458966588,
+          "row": "8",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "7",
+          "listingId": 1458966588,
+          "row": "8",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 99.00,
+        "currency": "USD"
+      },
+      "sectionId": 40390,
+      "sectionName": "Upper Reserved Goal 223",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        10
+      ],
+      "deliveryMethodList": [
+        43
+      ],
+      "valuePercentage": 58.0,
+      "seats": [
+        {
+          "seatNumber": "3",
+          "listingId": 1459033350,
+          "row": "9",
+          "isGA": 0
+        },
+        {
+          "seatNumber": "4",
+          "listingId": 1459033350,
+          "row": "9",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "8130361C47DBD1B3E0540010E056A2AC",
+      "isGA": 0
+    },
+    {
+      "multipleListing": false,
+      "price": {
+        "amount": 99.00,
+        "currency": "USD"
+      },
+      "sectionId": 40389,
+      "sectionName": "Upper Reserved Goal 222",
+      "dirtyTicketInd": false,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "splitVector": [
+        2
+      ],
+      "sellerOwnInd": 0,
+      "listingType": "otherListingTypes",
+      "listingAttributeList": [],
+      "listingAttributeCategoryList": [],
+      "deliveryTypeList": [
+        12
+      ],
+      "deliveryMethodList": [
+        41
+      ],
+      "valuePercentage": 46.0,
+      "seats": [
+        {
+          "listingId": 1459432788,
+          "row": "12",
+          "isGA": 0
+        },
+        {
+          "listingId": 1459432788,
+          "row": "12",
+          "isGA": 0
+        }
+      ],
+      "businessGuid": "7F163ECC35F17D90E0540010E056A2AC",
+      "isGA": 0
+    }
+  ],
+  "sectionStats": [
+    {
+      "sectionId": 40223,
+      "sectionName": "Lower Reserved Corner 103",
+      "minTicketPrice": 170.0,
+      "maxTicketPrice": 246.0,
+      "medianTicketPrice": 208.0,
+      "averageTicketPrice": 208.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 242.2
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 170.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 208.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 208.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 246.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40213,
+      "sectionName": "Premium Lower Center 101",
+      "minTicketPrice": 225.0,
+      "maxTicketPrice": 364.5,
+      "medianTicketPrice": 258.75,
+      "averageTicketPrice": 268.2739990234375,
+      "maxTicketQuantity": 6,
+      "totalTickets": 28,
+      "totalListings": 10,
+      "zoneId": 9216,
+      "zoneName": "Premium Lower Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 330.9749999999999
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 225.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 258.75,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 268.27,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 364.50,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40379,
+      "sectionName": "Upper Reserved Goal 209",
+      "minTicketPrice": 115.0,
+      "maxTicketPrice": 149.99000549316406,
+      "medianTicketPrice": 149.99000549316406,
+      "averageTicketPrice": 138.32667032877603,
+      "maxTicketQuantity": 4,
+      "totalTickets": 11,
+      "totalListings": 3,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 149.99000549316406
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 115.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 149.99,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 138.33,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 149.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 452122,
+      "sectionName": "Upper Rim Corner 226",
+      "minTicketPrice": 175.0,
+      "maxTicketPrice": 175.0,
+      "medianTicketPrice": 175.0,
+      "averageTicketPrice": 175.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88841,
+      "zoneName": "Upper Rim Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 175.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022964,
+      "sectionName": "Chairman's Lounge 101",
+      "minTicketPrice": 434.6099853515625,
+      "maxTicketPrice": 9456.0,
+      "medianTicketPrice": 4945.304992675781,
+      "averageTicketPrice": 4945.304992675781,
+      "maxTicketQuantity": 2,
+      "totalTickets": 3,
+      "totalListings": 2,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 9004.930499267577
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 434.61,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 4945.30,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 4945.30,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 9456.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022971,
+      "sectionName": "Chairman's Lounge 104",
+      "minTicketPrice": 726.0,
+      "maxTicketPrice": 726.0,
+      "medianTicketPrice": 726.0,
+      "averageTicketPrice": 726.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 726.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 726.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 726.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 726.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 726.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40217,
+      "sectionName": "Premium Lower Center 116",
+      "minTicketPrice": 219.75,
+      "maxTicketPrice": 295.0,
+      "medianTicketPrice": 241.9749984741211,
+      "averageTicketPrice": 249.67499923706055,
+      "maxTicketQuantity": 3,
+      "totalTickets": 9,
+      "totalListings": 4,
+      "zoneId": 9216,
+      "zoneName": "Premium Lower Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 287.2
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 219.75,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 241.97,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 249.67,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 295.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40391,
+      "sectionName": "Upper Reserved Goal 224",
+      "minTicketPrice": 96.0,
+      "maxTicketPrice": 114.0,
+      "medianTicketPrice": 104.5,
+      "averageTicketPrice": 104.83333333333333,
+      "maxTicketQuantity": 6,
+      "totalTickets": 18,
+      "totalListings": 6,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 113.25
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 96.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 104.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 104.83,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 114.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40234,
+      "sectionName": "Lower Reserved Goal 121",
+      "minTicketPrice": 145.0,
+      "maxTicketPrice": 250.0,
+      "medianTicketPrice": 160.0,
+      "averageTicketPrice": 175.0999993218316,
+      "maxTicketQuantity": 6,
+      "totalTickets": 25,
+      "totalListings": 9,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 230.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 145.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 160.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 175.10,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 250.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40197,
+      "sectionName": "Sideline Club 102 - Rows 4-16",
+      "minTicketPrice": 367.010009765625,
+      "maxTicketPrice": 679.0,
+      "medianTicketPrice": 441.5,
+      "averageTicketPrice": 462.89499918619794,
+      "maxTicketQuantity": 5,
+      "totalTickets": 19,
+      "totalListings": 6,
+      "zoneId": 9214,
+      "zoneName": "Sideline Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 625.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 367.01,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 441.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 462.89,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 679.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40233,
+      "sectionName": "Lower Reserved Goal 120",
+      "minTicketPrice": 159.0,
+      "maxTicketPrice": 186.0,
+      "medianTicketPrice": 160.0,
+      "averageTicketPrice": 169.3279998779297,
+      "maxTicketQuantity": 10,
+      "totalTickets": 22,
+      "totalListings": 5,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 185.12799987792968
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 159.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 160.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 169.33,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 186.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40204,
+      "sectionName": "Lower End Club 106",
+      "minTicketPrice": 316.0,
+      "maxTicketPrice": 316.0,
+      "medianTicketPrice": 316.0,
+      "averageTicketPrice": 316.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88838,
+      "zoneName": "Lower End Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 316.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 316.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 316.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 316.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 316.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022958,
+      "sectionName": "Chairman's Lounge 116",
+      "minTicketPrice": 460.0,
+      "maxTicketPrice": 524.0,
+      "medianTicketPrice": 467.0,
+      "averageTicketPrice": 479.5,
+      "maxTicketQuantity": 4,
+      "totalTickets": 15,
+      "totalListings": 4,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 515.75
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 460.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 467.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 479.50,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 524.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40368,
+      "sectionName": "Upper Reserved Center 202",
+      "minTicketPrice": 125.0,
+      "maxTicketPrice": 262.0,
+      "medianTicketPrice": 260.0,
+      "averageTicketPrice": 215.66666666666666,
+      "maxTicketQuantity": 9,
+      "totalTickets": 13,
+      "totalListings": 3,
+      "zoneId": 9219,
+      "zoneName": "Upper Reserved Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 261.8
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 125.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 260.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 215.67,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 262.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40231,
+      "sectionName": "Lower Reserved Corner 117",
+      "minTicketPrice": 233.0,
+      "maxTicketPrice": 233.0,
+      "medianTicketPrice": 233.0,
+      "averageTicketPrice": 233.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 233.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 233.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 233.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 233.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 233.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40179,
+      "sectionName": "Chairman's Lounge Glass Center 115",
+      "minTicketPrice": 439.0,
+      "maxTicketPrice": 439.0,
+      "medianTicketPrice": 439.0,
+      "averageTicketPrice": 439.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9211,
+      "zoneName": "VIP Club Glass Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 439.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 439.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 439.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 439.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 439.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40220,
+      "sectionName": "Premium Lower Goal 121",
+      "minTicketPrice": 185.0,
+      "maxTicketPrice": 274.0,
+      "medianTicketPrice": 229.5,
+      "averageTicketPrice": 229.5,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "zoneId": 9217,
+      "zoneName": "Premium Lower Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 269.55
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 185.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 229.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 229.50,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 274.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40184,
+      "sectionName": "Chairman's Lounge Glass Goal 106",
+      "minTicketPrice": 645.0,
+      "maxTicketPrice": 645.0,
+      "medianTicketPrice": 645.0,
+      "averageTicketPrice": 645.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9212,
+      "zoneName": "VIP Club Glass Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 645.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40222,
+      "sectionName": "Premium Lower Goal 124",
+      "minTicketPrice": 230.0,
+      "maxTicketPrice": 230.0,
+      "medianTicketPrice": 230.0,
+      "averageTicketPrice": 230.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9217,
+      "zoneName": "Premium Lower Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 230.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 230.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 230.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 230.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 230.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40210,
+      "sectionName": "Lower Corner Club 117",
+      "minTicketPrice": 315.0,
+      "maxTicketPrice": 315.0,
+      "medianTicketPrice": 315.0,
+      "averageTicketPrice": 315.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88837,
+      "zoneName": "Lower Corner Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 315.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 315.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 315.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 315.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 315.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40384,
+      "sectionName": "Upper Reserved Corner 217",
+      "minTicketPrice": 105.0,
+      "maxTicketPrice": 138.64999389648438,
+      "medianTicketPrice": 107.0,
+      "averageTicketPrice": 116.88333129882812,
+      "maxTicketQuantity": 5,
+      "totalTickets": 10,
+      "totalListings": 3,
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 135.48499450683593
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 105.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 107.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 116.88,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 138.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40387,
+      "sectionName": "Upper Reserved Goal 220",
+      "minTicketPrice": 95.0,
+      "maxTicketPrice": 114.9800033569336,
+      "medianTicketPrice": 97.5,
+      "averageTicketPrice": 100.83000055948894,
+      "maxTicketQuantity": 8,
+      "totalTickets": 31,
+      "totalListings": 6,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 112.4850025177002
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 95.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 97.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 100.83,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 114.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40381,
+      "sectionName": "Upper Reserved Goal 211",
+      "minTicketPrice": 130.1199951171875,
+      "maxTicketPrice": 130.1199951171875,
+      "medianTicketPrice": 130.1199951171875,
+      "averageTicketPrice": 130.1199951171875,
+      "maxTicketQuantity": 4,
+      "totalTickets": 4,
+      "totalListings": 1,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 130.1199951171875
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 130.12,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 130.12,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 130.12,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 130.12,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40386,
+      "sectionName": "Upper Reserved Goal 219",
+      "minTicketPrice": 106.0,
+      "maxTicketPrice": 115.0,
+      "medianTicketPrice": 111.13999938964844,
+      "averageTicketPrice": 110.81999969482422,
+      "maxTicketQuantity": 8,
+      "totalTickets": 22,
+      "totalListings": 4,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 114.85
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 106.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 111.14,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 110.82,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 115.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40201,
+      "sectionName": "Sideline Club 128 - Rows 4-16",
+      "minTicketPrice": 350.0,
+      "maxTicketPrice": 355.0,
+      "medianTicketPrice": 355.0,
+      "averageTicketPrice": 353.3333333333333,
+      "maxTicketQuantity": 2,
+      "totalTickets": 6,
+      "totalListings": 3,
+      "zoneId": 9214,
+      "zoneName": "Sideline Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 355.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 350.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 355.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 353.33,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 355.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40218,
+      "sectionName": "Premium Lower Center 128",
+      "minTicketPrice": 280.0,
+      "maxTicketPrice": 280.0,
+      "medianTicketPrice": 280.0,
+      "averageTicketPrice": 280.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9216,
+      "zoneName": "Premium Lower Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 280.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 280.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 280.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 280.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 280.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40373,
+      "sectionName": "Upper Reserved Corner 203",
+      "minTicketPrice": 127.5999984741211,
+      "maxTicketPrice": 127.5999984741211,
+      "medianTicketPrice": 127.5999984741211,
+      "averageTicketPrice": 127.5999984741211,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 127.5999984741211
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 127.60,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 127.60,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 127.60,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 127.60,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022967,
+      "sectionName": "Chairman's Lounge 107",
+      "minTicketPrice": 2031.0,
+      "maxTicketPrice": 2031.0,
+      "medianTicketPrice": 2031.0,
+      "averageTicketPrice": 2031.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 2031.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 2031.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 2031.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 2031.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 2031.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40392,
+      "sectionName": "Upper Reserved Goal 225",
+      "minTicketPrice": 96.0,
+      "maxTicketPrice": 125.0,
+      "medianTicketPrice": 98.2400016784668,
+      "averageTicketPrice": 104.0600004196167,
+      "maxTicketQuantity": 9,
+      "totalTickets": 28,
+      "totalListings": 8,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 120.79999999999998
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 96.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 98.24,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 104.06,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 125.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40369,
+      "sectionName": "Upper Reserved Center 214",
+      "minTicketPrice": 120.0,
+      "maxTicketPrice": 180.0,
+      "medianTicketPrice": 149.77000427246094,
+      "averageTicketPrice": 149.88500213623047,
+      "maxTicketQuantity": 6,
+      "totalTickets": 17,
+      "totalListings": 4,
+      "zoneId": 9219,
+      "zoneName": "Upper Reserved Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 177.75750045776368
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 120.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 149.77,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 149.89,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 180.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40375,
+      "sectionName": "Upper Reserved Goal 205",
+      "minTicketPrice": 199.0,
+      "maxTicketPrice": 199.0,
+      "medianTicketPrice": 199.0,
+      "averageTicketPrice": 199.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 199.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 199.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 199.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 199.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 199.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022963,
+      "sectionName": "Chairman's Lounge 102",
+      "minTicketPrice": 713.0,
+      "maxTicketPrice": 713.0,
+      "medianTicketPrice": 713.0,
+      "averageTicketPrice": 713.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 713.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 713.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 713.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 713.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 713.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40196,
+      "sectionName": "Sideline Club 101 - Rows 4-16",
+      "minTicketPrice": 679.0,
+      "maxTicketPrice": 679.0,
+      "medianTicketPrice": 679.0,
+      "averageTicketPrice": 679.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9214,
+      "zoneName": "Sideline Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 679.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 679.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 679.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 679.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 679.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40180,
+      "sectionName": "Chairman's Lounge Glass Center 116",
+      "minTicketPrice": 999.989990234375,
+      "maxTicketPrice": 999.989990234375,
+      "medianTicketPrice": 999.989990234375,
+      "averageTicketPrice": 999.989990234375,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9211,
+      "zoneName": "VIP Club Glass Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 999.989990234375
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 999.99,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 999.99,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 999.99,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 999.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40371,
+      "sectionName": "Upper Reserved Center 216",
+      "minTicketPrice": 104.0,
+      "maxTicketPrice": 135.0,
+      "medianTicketPrice": 112.5,
+      "averageTicketPrice": 116.0,
+      "maxTicketQuantity": 5,
+      "totalTickets": 13,
+      "totalListings": 4,
+      "zoneId": 9219,
+      "zoneName": "Upper Reserved Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 132.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 104.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 112.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 116.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 135.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40199,
+      "sectionName": "Sideline Club 115 - Rows 3-16",
+      "minTicketPrice": 501.0,
+      "maxTicketPrice": 746.0,
+      "medianTicketPrice": 623.5,
+      "averageTicketPrice": 623.5,
+      "maxTicketQuantity": 4,
+      "totalTickets": 6,
+      "totalListings": 2,
+      "zoneId": 9214,
+      "zoneName": "Sideline Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 733.75
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 501.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 623.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 623.50,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 746.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40205,
+      "sectionName": "Lower End Club 107",
+      "minTicketPrice": 239.6300048828125,
+      "maxTicketPrice": 569.0,
+      "medianTicketPrice": 404.31500244140625,
+      "averageTicketPrice": 404.31500244140625,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "zoneId": 88838,
+      "zoneName": "Lower End Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 552.5315002441406
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 239.63,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 404.32,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 404.32,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 569.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40216,
+      "sectionName": "Premium Lower Center 115",
+      "minTicketPrice": 220.0,
+      "maxTicketPrice": 449.5,
+      "medianTicketPrice": 252.0,
+      "averageTicketPrice": 307.1044447157118,
+      "maxTicketQuantity": 4,
+      "totalTickets": 25,
+      "totalListings": 9,
+      "zoneId": 9216,
+      "zoneName": "Premium Lower Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 434.09999999999997
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 220.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 252.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 307.10,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 449.50,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40394,
+      "sectionName": "Upper Reserved Corner 227",
+      "minTicketPrice": 105.0,
+      "maxTicketPrice": 132.61000061035156,
+      "medianTicketPrice": 108.0,
+      "averageTicketPrice": 115.20333353678386,
+      "maxTicketQuantity": 4,
+      "totalTickets": 9,
+      "totalListings": 3,
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 130.1490005493164
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 105.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 108.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 115.20,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 132.61,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022966,
+      "sectionName": "Chairman's Lounge 114",
+      "minTicketPrice": 449.7900085449219,
+      "maxTicketPrice": 525.3099975585938,
+      "medianTicketPrice": 487.5500030517578,
+      "averageTicketPrice": 487.5500030517578,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 521.5339981079102
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 449.79,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 487.55,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 487.55,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 525.31,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 452127,
+      "sectionName": "Upper Rim Corner 217",
+      "minTicketPrice": 249.0,
+      "maxTicketPrice": 249.0,
+      "medianTicketPrice": 249.0,
+      "averageTicketPrice": 249.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88841,
+      "zoneName": "Upper Rim Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 249.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 249.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 249.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 249.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 249.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40224,
+      "sectionName": "Lower Reserved Corner 104",
+      "minTicketPrice": 160.0,
+      "maxTicketPrice": 198.0,
+      "medianTicketPrice": 170.0,
+      "averageTicketPrice": 176.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 6,
+      "totalListings": 3,
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 195.2
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 160.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 170.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 176.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 198.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40370,
+      "sectionName": "Upper Reserved Center 215",
+      "minTicketPrice": 125.0,
+      "maxTicketPrice": 233.27999877929688,
+      "medianTicketPrice": 135.0,
+      "averageTicketPrice": 154.95125007629395,
+      "maxTicketQuantity": 8,
+      "totalTickets": 27,
+      "totalListings": 8,
+      "zoneId": 9219,
+      "zoneName": "Upper Reserved Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 222.58749771118164
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 125.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 135.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 154.95,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 233.28,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40336,
+      "sectionName": "Lower Reserved Goal 124",
+      "minTicketPrice": 145.0,
+      "maxTicketPrice": 169.97999572753906,
+      "medianTicketPrice": 165.0,
+      "averageTicketPrice": 161.24499893188477,
+      "maxTicketQuantity": 4,
+      "totalTickets": 12,
+      "totalListings": 4,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 169.8329963684082
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 145.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 165.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 161.24,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 169.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40389,
+      "sectionName": "Upper Reserved Goal 222",
+      "minTicketPrice": 97.0,
+      "maxTicketPrice": 99.0,
+      "medianTicketPrice": 98.0,
+      "averageTicketPrice": 98.0,
+      "maxTicketQuantity": 4,
+      "totalTickets": 6,
+      "totalListings": 2,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 98.9
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 97.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 98.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 98.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 99.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40208,
+      "sectionName": "Lower Corner Club 112",
+      "minTicketPrice": 275.0,
+      "maxTicketPrice": 275.0,
+      "medianTicketPrice": 275.0,
+      "averageTicketPrice": 275.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88837,
+      "zoneName": "Lower Corner Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 275.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 275.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 275.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 275.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 275.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40388,
+      "sectionName": "Upper Reserved Goal 221",
+      "minTicketPrice": 99.0,
+      "maxTicketPrice": 200.0,
+      "medianTicketPrice": 111.41500091552734,
+      "averageTicketPrice": 130.45750045776367,
+      "maxTicketQuantity": 4,
+      "totalTickets": 11,
+      "totalListings": 4,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 186.9245002746582
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 99.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 111.42,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 130.46,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 200.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40380,
+      "sectionName": "Upper Reserved Goal 210",
+      "minTicketPrice": 149.99000549316406,
+      "maxTicketPrice": 175.0,
+      "medianTicketPrice": 175.0,
+      "averageTicketPrice": 166.66333516438803,
+      "maxTicketQuantity": 2,
+      "totalTickets": 6,
+      "totalListings": 3,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 175.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 149.99,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 166.66,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40202,
+      "sectionName": "Lower Corner Club 103",
+      "minTicketPrice": 455.0,
+      "maxTicketPrice": 455.0,
+      "medianTicketPrice": 455.0,
+      "averageTicketPrice": 455.0,
+      "maxTicketQuantity": 6,
+      "totalTickets": 6,
+      "totalListings": 1,
+      "zoneId": 88837,
+      "zoneName": "Lower Corner Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 455.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 455.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 455.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 455.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 455.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40221,
+      "sectionName": "Premium Lower Goal 123",
+      "minTicketPrice": 175.0,
+      "maxTicketPrice": 199.0,
+      "medianTicketPrice": 189.0,
+      "averageTicketPrice": 187.66666666666666,
+      "maxTicketQuantity": 4,
+      "totalTickets": 8,
+      "totalListings": 3,
+      "zoneId": 9217,
+      "zoneName": "Premium Lower Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 198.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 189.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 187.67,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 199.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40376,
+      "sectionName": "Upper Reserved Goal 206",
+      "minTicketPrice": 105.0,
+      "maxTicketPrice": 190.0,
+      "medianTicketPrice": 109.5,
+      "averageTicketPrice": 124.16666666666667,
+      "maxTicketQuantity": 6,
+      "totalTickets": 20,
+      "totalListings": 6,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 173.75
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 105.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 109.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 124.17,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 190.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40372,
+      "sectionName": "Upper Reserved Center 228",
+      "minTicketPrice": 105.0,
+      "maxTicketPrice": 118.97000122070312,
+      "medianTicketPrice": 113.51000213623047,
+      "averageTicketPrice": 112.4933344523112,
+      "maxTicketQuantity": 4,
+      "totalTickets": 8,
+      "totalListings": 3,
+      "zoneId": 9219,
+      "zoneName": "Upper Reserved Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 118.42400131225585
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 105.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 113.51,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 112.49,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 118.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40207,
+      "sectionName": "Lower End Club 110",
+      "minTicketPrice": 292.0,
+      "maxTicketPrice": 292.0,
+      "medianTicketPrice": 292.0,
+      "averageTicketPrice": 292.0,
+      "maxTicketQuantity": 4,
+      "totalTickets": 7,
+      "totalListings": 2,
+      "zoneId": 88838,
+      "zoneName": "Lower End Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 292.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 292.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 292.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 292.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 292.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40203,
+      "sectionName": "Lower Corner Club 104",
+      "minTicketPrice": 367.0,
+      "maxTicketPrice": 499.0,
+      "medianTicketPrice": 440.0,
+      "averageTicketPrice": 435.3333333333333,
+      "maxTicketQuantity": 2,
+      "totalTickets": 6,
+      "totalListings": 3,
+      "zoneId": 88837,
+      "zoneName": "Lower Corner Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 493.1
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 367.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 440.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 435.33,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 499.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40214,
+      "sectionName": "Premium Lower Center 102",
+      "minTicketPrice": 366.0,
+      "maxTicketPrice": 366.0,
+      "medianTicketPrice": 366.0,
+      "averageTicketPrice": 366.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9216,
+      "zoneName": "Premium Lower Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 366.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 366.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 366.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 366.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 366.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40225,
+      "sectionName": "Lower Reserved Goal 106",
+      "minTicketPrice": 168.0,
+      "maxTicketPrice": 269.0,
+      "medianTicketPrice": 173.0,
+      "averageTicketPrice": 203.33333333333334,
+      "maxTicketQuantity": 8,
+      "totalTickets": 12,
+      "totalListings": 3,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 259.4
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 168.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 173.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 203.33,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 269.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 454360,
+      "sectionName": "Upper Reserved Corner 204",
+      "minTicketPrice": 133.0,
+      "maxTicketPrice": 165.0,
+      "medianTicketPrice": 149.0,
+      "averageTicketPrice": 149.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 163.4
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 133.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 149.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 149.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 165.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40235,
+      "sectionName": "Lower Reserved Goal 123",
+      "minTicketPrice": 148.0,
+      "maxTicketPrice": 296.0,
+      "medianTicketPrice": 160.0,
+      "averageTicketPrice": 187.25,
+      "maxTicketQuantity": 18,
+      "totalTickets": 32,
+      "totalListings": 6,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 272.3125
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 148.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 160.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 187.25,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 296.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40232,
+      "sectionName": "Lower Reserved Corner 118",
+      "minTicketPrice": 180.47999572753906,
+      "maxTicketPrice": 187.0,
+      "medianTicketPrice": 183.73999786376953,
+      "averageTicketPrice": 183.73999786376953,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 186.67399978637695
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 180.48,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 183.74,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 183.74,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 187.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40211,
+      "sectionName": "Lower Corner Club 126",
+      "minTicketPrice": 333.0,
+      "maxTicketPrice": 333.0,
+      "medianTicketPrice": 333.0,
+      "averageTicketPrice": 333.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88837,
+      "zoneName": "Lower Corner Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 333.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 333.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 333.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 333.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 333.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40200,
+      "sectionName": "Sideline Club 116 - Rows 4-16",
+      "minTicketPrice": 275.0,
+      "maxTicketPrice": 387.0,
+      "medianTicketPrice": 371.5,
+      "averageTicketPrice": 351.25,
+      "maxTicketQuantity": 2,
+      "totalTickets": 7,
+      "totalListings": 4,
+      "zoneId": 9214,
+      "zoneName": "Sideline Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 387.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 275.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 371.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 351.25,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 387.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40219,
+      "sectionName": "Premium Lower Goal 120",
+      "minTicketPrice": 205.0,
+      "maxTicketPrice": 205.0,
+      "medianTicketPrice": 205.0,
+      "averageTicketPrice": 205.0,
+      "maxTicketQuantity": 1,
+      "totalTickets": 1,
+      "totalListings": 1,
+      "zoneId": 9217,
+      "zoneName": "Premium Lower Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 205.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 205.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 205.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 205.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 205.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022969,
+      "sectionName": "Chairman's Lounge 103",
+      "minTicketPrice": 650.0,
+      "maxTicketPrice": 650.0,
+      "medianTicketPrice": 650.0,
+      "averageTicketPrice": 650.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 650.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 650.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 650.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 650.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 650.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40390,
+      "sectionName": "Upper Reserved Goal 223",
+      "minTicketPrice": 97.0,
+      "maxTicketPrice": 179.0,
+      "medianTicketPrice": 99.0,
+      "averageTicketPrice": 114.4,
+      "maxTicketQuantity": 4,
+      "totalTickets": 12,
+      "totalListings": 5,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 162.99999999999997
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 97.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 99.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 114.40,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 179.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022961,
+      "sectionName": "Chairman's Lounge 128",
+      "minTicketPrice": 515.0,
+      "maxTicketPrice": 1037.0,
+      "medianTicketPrice": 776.0,
+      "averageTicketPrice": 776.0,
+      "maxTicketQuantity": 5,
+      "totalTickets": 7,
+      "totalListings": 2,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 1010.9
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 515.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 776.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 776.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 1037.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40377,
+      "sectionName": "Upper Reserved Goal 207",
+      "minTicketPrice": 100.0,
+      "maxTicketPrice": 100.0,
+      "medianTicketPrice": 100.0,
+      "averageTicketPrice": 100.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 100.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 100.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 100.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 100.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 100.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40227,
+      "sectionName": "Lower Reserved Goal 109",
+      "minTicketPrice": 154.0,
+      "maxTicketPrice": 492.0,
+      "medianTicketPrice": 165.0,
+      "averageTicketPrice": 224.8000005086263,
+      "maxTicketQuantity": 9,
+      "totalTickets": 24,
+      "totalListings": 6,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 421.20000076293945
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 154.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 165.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 224.80,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 492.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40230,
+      "sectionName": "Lower Reserved Corner 113",
+      "minTicketPrice": 180.0,
+      "maxTicketPrice": 180.0,
+      "medianTicketPrice": 180.0,
+      "averageTicketPrice": 180.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 180.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 180.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 180.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 180.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 180.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40229,
+      "sectionName": "Lower Reserved Corner 112",
+      "minTicketPrice": 165.0,
+      "maxTicketPrice": 239.77999877929688,
+      "medianTicketPrice": 193.5,
+      "averageTicketPrice": 198.79666646321616,
+      "maxTicketQuantity": 4,
+      "totalTickets": 15,
+      "totalListings": 6,
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 237.58499908447266
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 165.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 193.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 198.80,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 239.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40228,
+      "sectionName": "Lower Reserved Goal 110",
+      "minTicketPrice": 198.0,
+      "maxTicketPrice": 248.9499969482422,
+      "medianTicketPrice": 230.0,
+      "averageTicketPrice": 225.6499989827474,
+      "maxTicketQuantity": 4,
+      "totalTickets": 12,
+      "totalListings": 3,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 247.05499725341798
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 198.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 230.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 225.65,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 248.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40378,
+      "sectionName": "Upper Reserved Goal 208",
+      "minTicketPrice": 96.77999877929688,
+      "maxTicketPrice": 180.0,
+      "medianTicketPrice": 155.0,
+      "averageTicketPrice": 143.92666625976562,
+      "maxTicketQuantity": 4,
+      "totalTickets": 8,
+      "totalListings": 3,
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 177.5
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 96.78,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 155.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 143.93,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 180.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 454362,
+      "sectionName": "Upper Reserved Corner 218",
+      "minTicketPrice": 100.0,
+      "maxTicketPrice": 103.0,
+      "medianTicketPrice": 101.5,
+      "averageTicketPrice": 101.5,
+      "maxTicketQuantity": 3,
+      "totalTickets": 5,
+      "totalListings": 2,
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 102.85
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 100.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 101.50,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 101.50,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 103.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 2022965,
+      "sectionName": "Chairman's Lounge 106",
+      "minTicketPrice": 489.0,
+      "maxTicketPrice": 489.0,
+      "medianTicketPrice": 489.0,
+      "averageTicketPrice": 489.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 489.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 489.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 489.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 489.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 489.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40198,
+      "sectionName": "Sideline Club 114 - Rows 4-16",
+      "minTicketPrice": 374.0,
+      "maxTicketPrice": 496.0,
+      "medianTicketPrice": 435.0,
+      "averageTicketPrice": 435.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "zoneId": 9214,
+      "zoneName": "Sideline Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 489.9
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 374.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 435.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 435.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 496.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40206,
+      "sectionName": "Lower End Club 109",
+      "minTicketPrice": 374.0,
+      "maxTicketPrice": 848.0,
+      "medianTicketPrice": 449.0,
+      "averageTicketPrice": 557.0,
+      "maxTicketQuantity": 3,
+      "totalTickets": 8,
+      "totalListings": 3,
+      "zoneId": 88838,
+      "zoneName": "Lower End Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 808.1
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 374.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 449.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 557.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 848.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40393,
+      "sectionName": "Upper Reserved Corner 226",
+      "minTicketPrice": 89.0,
+      "maxTicketPrice": 135.0,
+      "medianTicketPrice": 115.0,
+      "averageTicketPrice": 117.0,
+      "maxTicketQuantity": 17,
+      "totalTickets": 31,
+      "totalListings": 5,
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 134.6
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 89.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 115.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 117.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 135.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40212,
+      "sectionName": "Lower Corner Club 127",
+      "minTicketPrice": 215.0,
+      "maxTicketPrice": 302.0,
+      "medianTicketPrice": 267.1199951171875,
+      "averageTicketPrice": 262.80999755859375,
+      "maxTicketQuantity": 6,
+      "totalTickets": 16,
+      "totalListings": 4,
+      "zoneId": 88837,
+      "zoneName": "Lower Corner Club",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 297.79999999999995
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 215.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 267.12,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 262.81,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 302.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40367,
+      "sectionName": "Upper Reserved Center 201",
+      "minTicketPrice": 108.0,
+      "maxTicketPrice": 150.0,
+      "medianTicketPrice": 130.0,
+      "averageTicketPrice": 131.71428571428572,
+      "maxTicketQuantity": 7,
+      "totalTickets": 22,
+      "totalListings": 7,
+      "zoneId": 9219,
+      "zoneName": "Upper Reserved Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 149.7
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 108.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 130.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 131.71,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 150.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40215,
+      "sectionName": "Premium Lower Center 114",
+      "minTicketPrice": 265.0,
+      "maxTicketPrice": 345.0,
+      "medianTicketPrice": 310.29998779296875,
+      "averageTicketPrice": 308.71571132114957,
+      "maxTicketQuantity": 10,
+      "totalTickets": 30,
+      "totalListings": 7,
+      "zoneId": 9216,
+      "zoneName": "Premium Lower Center",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 340.1969970703125
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 265.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 310.30,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 308.72,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 345.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40337,
+      "sectionName": "Lower Reserved Corner 126",
+      "minTicketPrice": 157.0,
+      "maxTicketPrice": 195.0,
+      "medianTicketPrice": 179.7899932861328,
+      "averageTicketPrice": 177.55799865722656,
+      "maxTicketQuantity": 4,
+      "totalTickets": 16,
+      "totalListings": 5,
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 193.2
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 157.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 179.79,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 177.56,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 195.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "sectionId": 40226,
+      "sectionName": "Lower Reserved Goal 107",
+      "minTicketPrice": 165.0,
+      "maxTicketPrice": 230.0,
+      "medianTicketPrice": 173.0,
+      "averageTicketPrice": 189.33333333333334,
+      "maxTicketQuantity": 6,
+      "totalTickets": 12,
+      "totalListings": 3,
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "isGA": 0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 224.29999999999998
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 165.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 173.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 189.33,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 230.00,
+        "currency": "USD"
+      }
+    }
+  ],
+  "zoneStats": [
+    {
+      "zoneId": 88838,
+      "zoneName": "Lower End Club",
+      "minTicketPrice": 239.6300048828125,
+      "maxTicketPrice": 848.0,
+      "maxTicketQuantity": 4,
+      "totalTickets": 21,
+      "totalListings": 8,
+      "medianTicketPrice": 345.0,
+      "averageTicketPrice": 422.45375061035156,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 750.3499999999999
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 239.63,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 345.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 422.45,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 848.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9221,
+      "zoneName": "Upper Reserved Goal",
+      "minTicketPrice": 95.0,
+      "maxTicketPrice": 200.0,
+      "maxTicketQuantity": 9,
+      "totalTickets": 181,
+      "totalListings": 53,
+      "medianTicketPrice": 108.0,
+      "averageTicketPrice": 119.25358523962633,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 184.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 95.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 108.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 119.25,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 200.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 272062,
+      "zoneName": "Chairman's Lounge",
+      "minTicketPrice": 434.6099853515625,
+      "maxTicketPrice": 9456.0,
+      "maxTicketQuantity": 5,
+      "totalTickets": 39,
+      "totalListings": 15,
+      "medianTicketPrice": 524.0,
+      "averageTicketPrice": 1262.9806660970053,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 4258.499999999992
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 434.61,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 524.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 1262.98,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 9456.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 88943,
+      "zoneName": "Upper Reserved Corner",
+      "minTicketPrice": 89.0,
+      "maxTicketPrice": 165.0,
+      "maxTicketQuantity": 17,
+      "totalTickets": 61,
+      "totalListings": 16,
+      "medianTicketPrice": 114.0,
+      "averageTicketPrice": 119.36624956130981,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 145.23749542236328
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 89.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 114.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 119.37,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 165.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 88839,
+      "zoneName": "Lower Reserved Corner",
+      "minTicketPrice": 157.0,
+      "maxTicketPrice": 246.0,
+      "maxTicketQuantity": 4,
+      "totalTickets": 49,
+      "totalListings": 20,
+      "medianTicketPrice": 180.23999786376953,
+      "averageTicketPrice": 190.25249938964845,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 240.09099884033205
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 157.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 180.24,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 190.25,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 246.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 88841,
+      "zoneName": "Upper Rim Corner",
+      "minTicketPrice": 175.0,
+      "maxTicketPrice": 249.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "medianTicketPrice": 212.0,
+      "averageTicketPrice": 212.0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 245.29999999999998
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 212.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 212.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 249.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9211,
+      "zoneName": "VIP Club Glass Center",
+      "minTicketPrice": 439.0,
+      "maxTicketPrice": 999.989990234375,
+      "maxTicketQuantity": 2,
+      "totalTickets": 4,
+      "totalListings": 2,
+      "medianTicketPrice": 719.4949951171875,
+      "averageTicketPrice": 719.4949951171875,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 971.9404907226562
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 439.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 719.49,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 719.49,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 999.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9216,
+      "zoneName": "Premium Lower Center",
+      "minTicketPrice": 219.75,
+      "maxTicketPrice": 449.5,
+      "maxTicketQuantity": 10,
+      "totalTickets": 96,
+      "totalListings": 32,
+      "medianTicketPrice": 275.8699951171875,
+      "averageTicketPrice": 289.1371865272522,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 396.1170013427734
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 219.75,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 275.87,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 289.14,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 449.50,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9214,
+      "zoneName": "Sideline Club",
+      "minTicketPrice": 275.0,
+      "maxTicketPrice": 746.0,
+      "maxTicketQuantity": 5,
+      "totalTickets": 44,
+      "totalListings": 18,
+      "medianTicketPrice": 387.0,
+      "averageTicketPrice": 446.57611083984375,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 689.05
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 275.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 387.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 446.58,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 746.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9217,
+      "zoneName": "Premium Lower Goal",
+      "minTicketPrice": 175.0,
+      "maxTicketPrice": 274.0,
+      "maxTicketQuantity": 4,
+      "totalTickets": 15,
+      "totalListings": 7,
+      "medianTicketPrice": 199.0,
+      "averageTicketPrice": 208.14285714285714,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 260.79999999999995
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 175.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 199.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 208.14,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 274.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9219,
+      "zoneName": "Upper Reserved Center",
+      "minTicketPrice": 104.0,
+      "maxTicketPrice": 262.0,
+      "maxTicketQuantity": 9,
+      "totalTickets": 100,
+      "totalListings": 29,
+      "medianTicketPrice": 130.0,
+      "averageTicketPrice": 145.1596556038692,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 249.31199951171868
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 104.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 130.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 145.16,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 262.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 88837,
+      "zoneName": "Lower Corner Club",
+      "minTicketPrice": 215.0,
+      "maxTicketPrice": 499.0,
+      "maxTicketQuantity": 6,
+      "totalTickets": 34,
+      "totalListings": 11,
+      "medianTicketPrice": 315.0,
+      "averageTicketPrice": 339.5672718394886,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 477.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 215.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 315.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 339.57,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 499.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9218,
+      "zoneName": "Lower Reserved Goal",
+      "minTicketPrice": 145.0,
+      "maxTicketPrice": 492.0,
+      "maxTicketQuantity": 18,
+      "totalTickets": 151,
+      "totalListings": 39,
+      "medianTicketPrice": 168.0,
+      "averageTicketPrice": 189.60948689778647,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 271.70000000000005
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 145.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 168.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 189.61,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 492.00,
+        "currency": "USD"
+      }
+    },
+    {
+      "zoneId": 9212,
+      "zoneName": "VIP Club Glass Goal",
+      "minTicketPrice": 645.0,
+      "maxTicketPrice": 645.0,
+      "maxTicketQuantity": 2,
+      "totalTickets": 2,
+      "totalListings": 1,
+      "medianTicketPrice": 645.0,
+      "averageTicketPrice": 645.0,
+      "percentiles": [
+        {
+          "name": 95.0,
+          "value": 645.0
+        }
+      ],
+      "minTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      },
+      "medianTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      },
+      "averageTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      },
+      "maxTicketPriceWithCurrency": {
+        "amount": 645.00,
+        "currency": "USD"
+      }
+    }
+  ],
+  "pricingSummary": {
+    "minTicketPrice": 89.0,
+    "averageTicketPrice": 278.9964200030969,
+    "maxTicketPrice": 9456.0,
+    "totalListings": 257,
+    "minTicketPriceWithCurrency": {
+      "amount": 89.00,
+      "currency": "USD"
+    },
+    "medianTicketPriceWithCurrency": {
+      "amount": 180.00,
+      "currency": "USD"
+    },
+    "averageTicketPriceWithCurrency": {
+      "amount": 279.00,
+      "currency": "USD"
+    },
+    "maxTicketPriceWithCurrency": {
+      "amount": 9456.00,
+      "currency": "USD"
+    },
+    "percentiles": [
+      {
+        "name": 95.0,
+        "value": 534.0479980468745
+      }
+    ]
+  },
+  "eventPricingSummary": {
+    "minTicketPrice": 89.0,
+    "maxTicketPrice": 9456.0,
+    "totalListings": 253,
+    "percentiles": [
+      {
+        "name": 95.0,
+        "value": 542.7859985351553
+      }
+    ]
+  },
+  "eventLevelStats": {
+    "listingAttributeCategorySummary": [
+      {
+        "listingAttributeCategoryId": 6,
+        "totalListings": 8
+      }
+    ],
+    "quantitySummary": [
+      {
+        "quantity": 2,
+        "totalListings": 221
+      },
+      {
+        "quantity": 1,
+        "totalListings": 84
+      },
+      {
+        "quantity": 4,
+        "totalListings": 77
+      },
+      {
+        "quantity": 3,
+        "totalListings": 58
+      },
+      {
+        "quantity": 5,
+        "totalListings": 25
+      },
+      {
+        "quantity": 6,
+        "totalListings": 24
+      },
+      {
+        "quantity": 7,
+        "totalListings": 11
+      },
+      {
+        "quantity": 8,
+        "totalListings": 10
+      },
+      {
+        "quantity": 9,
+        "totalListings": 6
+      },
+      {
+        "quantity": 10,
+        "totalListings": 4
+      },
+      {
+        "quantity": 11,
+        "totalListings": 2
+      },
+      {
+        "quantity": 12,
+        "totalListings": 2
+      },
+      {
+        "quantity": 13,
+        "totalListings": 2
+      },
+      {
+        "quantity": 14,
+        "totalListings": 2
+      },
+      {
+        "quantity": 15,
+        "totalListings": 2
+      },
+      {
+        "quantity": 16,
+        "totalListings": 1
+      },
+      {
+        "quantity": 17,
+        "totalListings": 1
+      },
+      {
+        "quantity": 18,
+        "totalListings": 1
+      }
+    ]
+  },
+  "additionalEventLevelPriceInfo": [
+    {
+      "name": "eventBestValueTicket",
+      "price": 434.61,
+      "sectionIdList": [
+        2022964
+      ]
+    },
+    {
+      "name": "eventBestSeatTicket",
+      "price": 645.00,
+      "sectionIdList": [
+        40184
+      ]
+    },
+    {
+      "name": "eventMinPriceTicket",
+      "price": 89.00,
+      "sectionIdList": [
+        40393
+      ]
+    }
+  ]
+}

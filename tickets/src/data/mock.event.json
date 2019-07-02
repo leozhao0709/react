@@ -1,0 +1,1553 @@
+{
+  "id": 104011747,
+  "name": "Colorado Avalanche at San Jose Sharks (Home Game 4, Series Game 7): Western Conference Second Round Tickets",
+  "status": "active",
+  "expiredInd": false,
+  "locale": "en_US",
+  "currencyCode": "USD",
+  "eventDateUTC": "2019-05-09T01:00:00Z",
+  "eventDateLocal": "2019-05-08T18:00:00-07:00",
+  "timezone": "US/Pacific",
+  "bobId": "1",
+  "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-8-2019/event/104011747/",
+  "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-8-2019",
+  "seoURIs": [
+    {
+      "locale": "en_US",
+      "urlKey": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-8-2019"
+    }
+  ],
+  "categories": [
+    {
+      "id": 32,
+      "name": "Hockey Tickets",
+      "cleanName": "Hockey",
+      "webURI": "hockey-tickets/category/32/",
+      "seoURI": "hockey-tickets",
+      "locale": "en_US"
+    }
+  ],
+  "groupings": [
+    {
+      "id": 109519,
+      "name": "San Jose Sharks Playoff",
+      "cleanName": "San Jose Sharks Playoff",
+      "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+      "seoURI": "san-jose-sharks-playoff-tickets",
+      "locale": "en_US",
+      "dynamicAttributes": [
+        {
+          "name": "gameType",
+          "value": "playoff"
+        },
+        {
+          "name": "pageType",
+          "value": "bigsports"
+        },
+        {
+          "name": "allowedViewingDomain",
+          "value": "stubhub.com"
+        },
+        {
+          "name": "sportsTeam",
+          "value": "145"
+        }
+      ]
+    },
+    {
+      "id": 492296,
+      "name": "San Jose Sharks Schedule",
+      "cleanName": "San Jose Sharks Schedule",
+      "relationType": "SCHEDULE",
+      "webURI": "san-jose-sharks-schedule-tickets/grouping/492296/",
+      "seoURI": "san-jose-sharks-schedule-tickets",
+      "locale": "en_US"
+    },
+    {
+      "id": 109317,
+      "name": "Colorado Avalanche Playoff",
+      "cleanName": "Colorado Avalanche Playoff",
+      "relationType": "PLAYOFF",
+      "webURI": "colorado-avalanche-playoff-tickets/grouping/109317/",
+      "seoURI": "colorado-avalanche-playoff-tickets",
+      "locale": "en_US"
+    }
+  ],
+  "performers": [
+    {
+      "id": 145,
+      "name": "San Jose Sharks Tickets",
+      "cleanName": "San Jose Sharks",
+      "webURI": "san-jose-sharks-tickets/performer/145/",
+      "seoURI": "san-jose-sharks-tickets",
+      "locale": "en_US"
+    },
+    {
+      "id": 2768,
+      "name": "Colorado Avalanche Tickets",
+      "cleanName": "Colorado Avalanche",
+      "role": "AWAY_TEAM",
+      "webURI": "colorado-avalanche-tickets/performer/2768/",
+      "seoURI": "colorado-avalanche-tickets"
+    }
+  ],
+  "geography": {
+    "id": 81,
+    "name": "SF Bay Area",
+    "cleanName": "SF Bay Area",
+    "webURI": "sf-bay-area-tickets/geography/81/",
+    "seoURI": "sf-bay-area-tickets",
+    "locale": "en_US"
+  },
+  "ancestors": {
+    "categories": [
+      {
+        "id": 28,
+        "name": "Sports Tickets",
+        "cleanName": "Sports",
+        "url": "sports-tickets",
+        "webURI": "sports-tickets/category/28/",
+        "seoURI": "sports-tickets",
+        "locale": "en_US"
+      },
+      {
+        "id": 32,
+        "name": "Hockey Tickets",
+        "cleanName": "Hockey",
+        "url": "hockey-tickets",
+        "webURI": "hockey-tickets/category/32/",
+        "seoURI": "hockey-tickets",
+        "locale": "en_US"
+      }
+    ],
+    "groupings": [
+      {
+        "id": 144,
+        "name": "NHL Tickets",
+        "cleanName": "NHL",
+        "url": "nhl-tickets",
+        "webURI": "nhl-tickets/grouping/144/",
+        "seoURI": "nhl-tickets",
+        "locale": "en_US"
+      },
+      {
+        "id": 108319,
+        "name": "NHL Playoff Tickets",
+        "cleanName": "NHL Playoff",
+        "url": "nhl-playoff-tickets",
+        "webURI": "nhl-playoff-tickets/grouping/108319/",
+        "seoURI": "nhl-playoff-tickets",
+        "locale": "en_US"
+      },
+      {
+        "id": 109519,
+        "name": "San Jose Sharks Playoff",
+        "cleanName": "San Jose Sharks Playoff",
+        "url": "san-jose-sharks-playoff-tickets",
+        "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+        "seoURI": "san-jose-sharks-playoff-tickets",
+        "locale": "en_US"
+      }
+    ],
+    "performers": [
+      {
+        "id": 145,
+        "name": "San Jose Sharks Tickets",
+        "url": "san-jose-sharks-tickets",
+        "webURI": "san-jose-sharks-tickets/performer/145/",
+        "seoURI": "san-jose-sharks-tickets"
+      }
+    ],
+    "geographies": [
+      {
+        "id": 196976,
+        "name": "United States",
+        "cleanName": "United States",
+        "url": "united-states-tickets",
+        "webURI": "united-states-tickets/geography/196976/",
+        "seoURI": "united-states-tickets",
+        "locale": "en_US"
+      },
+      {
+        "id": 4,
+        "name": "California",
+        "cleanName": "California",
+        "url": "california-tickets",
+        "webURI": "california-tickets/geography/4/",
+        "seoURI": "california-tickets",
+        "locale": "en_US"
+      },
+      {
+        "id": 81,
+        "name": "SF Bay Area",
+        "cleanName": "SF Bay Area",
+        "url": "sf-bay-tickets",
+        "webURI": "sf-bay-area-tickets/geography/81/",
+        "seoURI": "sf-bay-area-tickets",
+        "locale": "en_US"
+      }
+    ]
+  },
+  "venue": {
+    "id": 88,
+    "name": "SAP Center",
+    "cleanName": "SAP Center",
+    "venueInfoUrl": "sap-center",
+    "venueEventsUrl": "sap-center-tickets",
+    "webURI": "sap-center-tickets/venue/88/",
+    "seoURI": "sap-center-tickets",
+    "address1": "525 West Santa Clara Street",
+    "locality": "San Jose",
+    "postalCode": "95113",
+    "state": "CA",
+    "country": "US",
+    "configurationId": "58",
+    "blendedIndicator": false,
+    "longitude": -121.900731,
+    "latitude": 37.332091
+  },
+  "seoMeta": {
+    "name": "Colorado Avalanche at San Jose Sharks (Home Game 4, Series Game 7): Western Conference Second Round Tickets",
+    "metaDescription": "San Jose Sharks - Colorado Avalanche Playoff Tickets - Buy and sell Colorado Avalanche vs San Jose Sharks Western Conference Second Round Tickets for May 8 at SAP Center in San Jose, CA on StubHub!",
+    "seoDescription": "Colorado Avalanche at San Jose Sharks",
+    "seoTitle": "Colorado Avalanche - San Jose Sharks Western Conference Second Round Tickets - 2019-5-8",
+    "title": "San Jose Sharks vs Colorado Avalanche [5/8/2019] Tickets on StubHub!",
+    "locale": "en_US"
+  },
+  "images": [
+    {
+      "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "3712",
+      "width": "5568",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/fPsAAOSwMA1cq86L/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "3526",
+      "width": "5282",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/tWQAAOSwwPtcq857/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "3264",
+      "width": "4896",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/hSYAAOSwck5c0H43/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "3264",
+      "width": "4896",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/mRkAAOSwtNdc0H43/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "3264",
+      "width": "4896",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/gJIAAOSwvSNcq86F/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2997",
+      "width": "4496",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/aUYAAOSwXSdcq86M/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "3194",
+      "width": "3992",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/93oAAOSwwmBcq86G/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2914",
+      "width": "3642",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/2F8AAOSwkClc0H48/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2593",
+      "width": "3890",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/cSQAAOSwrX1cq86F/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2519",
+      "width": "3778",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/K8sAAOSwsRlc0H46/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2379",
+      "width": "3569",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/drgAAOSwU4Fcq86B/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2135",
+      "width": "3202",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/kuMAAOSwsq1c0H44/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2066",
+      "width": "3099",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/r4IAAOSwpRpc0H41/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/6x4AAOSwiFhc0H48/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/z5EAAOSwkCZc0H8B/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/FIAAAOSwTGNcq85q/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/-UsAAOSwIfBcq851/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/JygAAOSwfyVc0H4z/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/Vc8AAOSw2Tdcq86A/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/2tIAAOSwVKhcq85s/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "2000",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/wwsAAOSwAvFc0H4s/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1999",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/YIAAAOSwxL1cq85o/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1999",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/lb0AAOSw3Ztc0H4s/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1999",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/tw8AAOSwpclcq85n/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1999",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/c4kAAOSwok9c0H4r/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1999",
+      "width": "3000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/yNYAAOSww4Bcq86A/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1930",
+      "width": "2895",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/l~4AAOSwccJcq85t/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1301",
+      "width": "2400",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/26QAAOSwph5cq85r/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1257",
+      "width": "2352",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/cmoAAOSww4Jcq85v/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1166",
+      "width": "2451",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/d10AAOSwcA1c0H4t/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1264",
+      "width": "2242",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/~QYAAOSwo~Vc0H4r/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1205",
+      "width": "1808",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "http://i.ebayimg.com/images/g/B28AAOSweW5VeKIZ/s-l1600.jpg",
+      "urlSsl": "https://ssli.ebayimg.com/images/g/B28AAOSweW5VeKIZ/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Corbis",
+      "source": "Corbis",
+      "primaryInd": false,
+      "height": "1000",
+      "width": "1600",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/wmoAAOSwQbpc0H4u/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "1008",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/W-EAAOSwuRRc0H4t/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "993",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/J7MAAOSwAmVc0H4t/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "937",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/B8AAAOSwXQpcq85v/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "937",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/u9EAAOSwfxtcq85x/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "924",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/uSsAAOSwvaBcq85t/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "913",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/JhAAAOSww5hc0H4u/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "864",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/mDUAAOSwoQpcq85s/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "668",
+      "width": "1000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/n1wAAOSwOdVc0H4q/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Six Degrees-ECHL",
+      "primaryInd": false,
+      "height": "668",
+      "width": "1000",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/gdgAAOSwPOhaaloh/s-l1600.jpg",
+      "type": "REGULAR",
+      "resizableInd": true,
+      "credit": "Adobe Stock",
+      "source": "Adobe Stock",
+      "primaryInd": false,
+      "height": "480",
+      "width": "1200",
+      "imgOptimizationStatus": "unprocessed",
+      "locale": "en_US"
+    }
+  ],
+  "seatTraits": [
+    {
+      "id": 16897,
+      "name": "Seats are located at the scorers table",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 5892,
+      "name": "Limited view of scoreboard (printed on ticket)",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 1029,
+      "name": "$10 food and beverage credit per ticket",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 2565,
+      "name": "Partial Suite (shared) - Reserved seating",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 2566,
+      "name": "Full Suite (not shared)",
+      "type": "Ticket Feature",
+      "locale": "en_US"
+    },
+    {
+      "id": 14854,
+      "name": "Behind backstop netting",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 15880,
+      "name": "You need to be a member to buy a ticket in this section.",
+      "type": "Listing Restrictions",
+      "categoryId": 7,
+      "category": "Partner Tickets",
+      "locale": "en_US"
+    },
+    {
+      "id": 16648,
+      "name": "Limited rear view (printed on ticket)",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 14857,
+      "name": "Actual Front Row Over Home Bullpen",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14858,
+      "name": "Actual Front Row Over Home Dugout",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14859,
+      "name": "Actual Front Row Over Visitor Bullpen",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14860,
+      "name": "Actual Front Row Over Visitor Dugout",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14861,
+      "name": "Actual Second Row Over Home Bullpen",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14862,
+      "name": "Actual Second Row Over Home Dugout",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14863,
+      "name": "Actual Second Row Over Visitor Bullpen",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14864,
+      "name": "Actual Second Row Over Visitor Dugout",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14865,
+      "name": "Actual Third Row Over Home Bullpen",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14866,
+      "name": "Actual Third Row Over Home Dugout",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14867,
+      "name": "Actual Third Row Over Visitor Bullpen",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14100,
+      "name": "Includes limited alcoholic beverages - beer, wine and liquor",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14868,
+      "name": "Actual Third Row Over Visitor Dugout",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14612,
+      "name": "Food and drink voucher included",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14101,
+      "name": "Includes limited complimentary food and non-alcoholic beverages",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 16923,
+      "name": "ADA Accessible",
+      "type": "Listing Disclosure",
+      "categoryId": 2,
+      "category": "Wheelchair accessible",
+      "locale": "en_US"
+    },
+    {
+      "id": 5919,
+      "name": "1st row behind penalty box",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 16928,
+      "name": "Fair Admission Not Included",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 14625,
+      "name": "Each ticket includes a parking pass",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5411,
+      "name": "21 and over section",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 15139,
+      "name": "Early Access",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15909,
+      "name": "18's only",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 15655,
+      "name": "Tickets and Hotel Package",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 13873,
+      "name": "Includes limited alcoholic beverages - beer and wine",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14131,
+      "name": "Includes unlimited food and drinks (beer and soft drinks)",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 2868,
+      "name": "Includes unlimited food and drinks (beer, wine and soft drinks)",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 309,
+      "name": "Home team shoots twice end",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 2869,
+      "name": "Includes unlimited food and soft drinks",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 310,
+      "name": "Under Overhang",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14646,
+      "name": "Wheelchair companion seats – No wheelchair required, seats are within accessible section",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 311,
+      "name": "Traditional hard tickets",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 13367,
+      "name": "Priority Entry",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 1086,
+      "name": "Within 10 rows of ice",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14657,
+      "name": "On the glass",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14403,
+      "name": "No Club Access",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 14150,
+      "name": "Tunnel Club access - Includes pregame food and beverage",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5451,
+      "name": "Limited mobility (printed on ticket)",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 15435,
+      "name": "Away Fans Section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15436,
+      "name": "Home Fans Section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5710,
+      "name": "Only Seats in Row",
+      "type": "Ticket Feature",
+      "locale": "en_US"
+    },
+    {
+      "id": 5459,
+      "name": "Semi-ambulatory seating",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 1108,
+      "name": "Actual 1st row of section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 854,
+      "name": "Alaska Airlines Club access",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 1111,
+      "name": "Last Row of Section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 2142,
+      "name": "Limited view of Jumbotron/video screen (printed on ticket)",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 16481,
+      "name": "Seller is a StubHub employee or contractor, or is acting on behalf of a StubHub employee or contractor",
+      "type": "Connected",
+      "locale": "en_US"
+    },
+    {
+      "id": 16482,
+      "name": "Seller is StubHub or a StubHub Group company",
+      "type": "Connected",
+      "locale": "en_US"
+    },
+    {
+      "id": 101,
+      "name": "Aisle",
+      "type": "Ticket Feature",
+      "categoryId": 6,
+      "category": "Aisle",
+      "locale": "en_US"
+    },
+    {
+      "id": 15717,
+      "name": "Tickets grant access to VIP private entrance, VIP club access and VIP private restrooms.",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 1126,
+      "name": "Behind home bench",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 102,
+      "name": "Parking Pass",
+      "type": "Ticket Feature",
+      "categoryId": 4,
+      "category": "Parking pass included",
+      "locale": "en_US"
+    },
+    {
+      "id": 1127,
+      "name": "Behind visitor bench",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15208,
+      "name": "General Admission - Access to all public areas",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15468,
+      "name": "Young Adult (18 to 21)",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 13934,
+      "name": "$15 food and beverage credit per ticket",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5494,
+      "name": "Full Suite - Includes private restroom",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 13688,
+      "name": "You will need to set up a Flash Seats account to access your tickets ( instructions will be included in order confirmation email )",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 14972,
+      "name": "1 child ticket",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 5501,
+      "name": "Directly beside the visitor bench",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14973,
+      "name": "2 child tickets",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 4990,
+      "name": "Partial Suite Standing Room Only - Not a reserved seat",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 14974,
+      "name": "3 child tickets",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 16511,
+      "name": "Directly over the visitors tunnel",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 16512,
+      "name": "BMW Lounge is a members-only club that includes seats in the first rows, access to the members-only lounge with a semi-private entrance, complimentary food and beverage with hand-crafted menus and a personal concierge service.",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 16513,
+      "name": "Seller is the organiser of the event, or is acting on behalf of the event organiser",
+      "type": "Connected",
+      "locale": "en_US"
+    },
+    {
+      "id": 4229,
+      "name": "Visiting team shoots twice end",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 3208,
+      "name": "Includes unlimited food and drinks (beer, wine and liquor)",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15240,
+      "name": "Partially Restricted View (printed on ticket)",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 5514,
+      "name": "Directly beside the home bench",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5518,
+      "name": "16-person suite",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15759,
+      "name": "Tickets give you access to a private VIP bar",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 15760,
+      "name": "These tickets include VIP seating and a meet and greet with Anthony Joshua",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 5525,
+      "name": "24-person suite",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5526,
+      "name": "12-person suite",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5532,
+      "name": "18-person suite",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15004,
+      "name": "Full Suite - Includes 12 fixed seats and 4 bar stools",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 15005,
+      "name": "$5 food and beverage credit per ticket",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14750,
+      "name": "No disclosure printed on the ticket",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 15265,
+      "name": "NCAA Experience – Includes limited open bar and soda, meet and greet with NCAA legend",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 13734,
+      "name": "Restricted view  (printed on ticket)",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 15018,
+      "name": "Above players entrance",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 949,
+      "name": "Standing room only (SRO)",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 5559,
+      "name": "14-person suite",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 952,
+      "name": "In-Seat Wait Service",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5560,
+      "name": "20-person suite",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 955,
+      "name": "Next to players' entrance",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 16828,
+      "name": "Full Suite - Includes 8 fixed seats and 4 bar stools",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 957,
+      "name": "Actual 2nd row of section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 958,
+      "name": "Actual 3rd row of section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 3006,
+      "name": "ADA wheelchair accessible only",
+      "type": "Listing Disclosure",
+      "categoryId": 2,
+      "category": "Wheelchair accessible",
+      "locale": "en_US"
+    },
+    {
+      "id": 959,
+      "name": "Actual 4th row of section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 960,
+      "name": "Actual 5th row of section",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 962,
+      "name": "Padded Seats",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 963,
+      "name": "Center ice",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 965,
+      "name": "1st row against the glass",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 201,
+      "name": "Limited or Obstructed View (printed on ticket)",
+      "type": "Listing Disclosure",
+      "categoryId": 1,
+      "category": "Exclude obstructed view",
+      "locale": "en_US"
+    },
+    {
+      "id": 202,
+      "name": "Wheelchair Only - Non-wheelchair users may be refused entry",
+      "type": "Listing Restrictions",
+      "categoryId": 2,
+      "category": "Wheelchair accessible",
+      "locale": "en_US"
+    },
+    {
+      "id": 203,
+      "name": "Alcohol-Free Seating",
+      "type": "Listing Disclosure",
+      "categoryId": 3,
+      "category": "Exclude alcohol-free sections",
+      "locale": "en_US"
+    },
+    {
+      "id": 14541,
+      "name": "Wheelchair and companion seat",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 13774,
+      "name": "Includes unlimited drinks (beer, wine and liquor)",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14542,
+      "name": "Food and Beverages Available for Purchase",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 975,
+      "name": "Behind protective net",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 14800,
+      "name": "Paperless Tickets. Instructions for entry will be included in order confirmation email.",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 2001,
+      "name": "Possible obstruction (printed on ticket)",
+      "type": "Listing Disclosure",
+      "categoryId": 1,
+      "category": "Exclude obstructed view",
+      "locale": "en_US"
+    },
+    {
+      "id": 2260,
+      "name": "Senior ticket (65 and older)",
+      "type": "Listing Restrictions",
+      "categoryId": 103,
+      "category": "Senior tickets",
+      "locale": "en_US"
+    },
+    {
+      "id": 15828,
+      "name": "Behind protective netting",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 14820,
+      "name": "VIP Parking Pass",
+      "type": "Ticket Feature",
+      "locale": "en_US"
+    },
+    {
+      "id": 2281,
+      "name": "North Preferred Lot parking",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 16874,
+      "name": "Child ticket ages 6-14",
+      "type": "Listing Restrictions",
+      "locale": "en_US"
+    },
+    {
+      "id": 6126,
+      "name": "Partial Suite (shared) - barstool seating",
+      "type": "Listing Disclosure",
+      "locale": "en_US"
+    },
+    {
+      "id": 16368,
+      "name": "Founders Club seats. Founders Club seats",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5875,
+      "name": "Purple garage parking",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5876,
+      "name": "Oversized parking",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 13818,
+      "name": "Directly beside the penalty box",
+      "type": "Seller Comments",
+      "locale": "en_US"
+    },
+    {
+      "id": 5370,
+      "name": "Partial view (printed on ticket)",
+      "type": "Listing Disclosure",
+      "categoryId": 1,
+      "category": "Exclude obstructed view",
+      "locale": "en_US"
+    },
+    {
+      "id": 14842,
+      "name": "Center aisle",
+      "type": "Ticket Feature",
+      "locale": "en_US"
+    }
+  ],
+  "eventAttributes": {
+    "gameType": "PLAYOFF",
+    "eventType": "Main",
+    "logisticsPath": "28/32/144/108319/109519",
+    "parkingEventId": [
+      104011748
+    ]
+  },
+  "relationships": [
+    {
+      "entityId": 104011748,
+      "type": "parking_event",
+      "bracketType": "add-on",
+      "entityType": "event"
+    }
+  ],
+  "displayAttributes": {
+    "title": "San Jose Sharks vs Colorado Avalanche [5/8/2019] Tickets on StubHub!",
+    "hiddenInd": false,
+    "locale": "en_US",
+    "integratedEventInd": false
+  },
+  "mobileAttributes": {},
+  "dynamicAttributes": [
+    {
+      "name": "defaultDomain",
+      "value": "stubhub.ca",
+      "type": "stubhub_catalog_attrib",
+      "status": "active",
+      "locale": "en_CA",
+      "dataType": "String"
+    },
+    {
+      "name": "seoTemplateAdditionalFields",
+      "value": "{\"sessionOrRound\":\"Western Conference Second Round\"}",
+      "type": "stubhub_display_attrib",
+      "status": "active",
+      "locale": "en_US",
+      "dataType": "Json"
+    },
+    {
+      "name": "event_type",
+      "value": "Main",
+      "type": "Others",
+      "status": "active",
+      "locale": "en_US",
+      "dataType": "List"
+    },
+    {
+      "name": "transferEmailAddress",
+      "value": "mobiletransfertickets@gmail.com",
+      "type": "mobile",
+      "status": "active",
+      "locale": "en_US",
+      "dataType": "String"
+    },
+    {
+      "name": "logistics_path",
+      "value": "28/32/144/108319/109519",
+      "type": "Others",
+      "status": "active",
+      "locale": "en_US",
+      "dataType": "String"
+    },
+    {
+      "name": "game_type",
+      "value": "PLAYOFF",
+      "type": "stubhub_catalog_attrib",
+      "status": "active",
+      "locale": "en_US",
+      "dataType": "String"
+    },
+    {
+      "name": "show_performer",
+      "value": "true",
+      "type": "stubhub_display_attrib",
+      "status": "active",
+      "locale": "en_US",
+      "dataType": "String"
+    }
+  ],
+  "eventPackageTypeId": 1,
+  "eventPackageType": "NONE",
+  "privateEvent": false,
+  "localTimeZone": "US/Pacific",
+  "dateLastChance": "2019-05-08T18:00:00-07:00",
+  "earlyInHandShipmentDisallowed": false,
+  "eTicketAllowed": false,
+  "unknownEventDateIndicator": false,
+  "unknownEventTimeIndicator": false,
+  "templateId": 781
+}

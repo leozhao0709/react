@@ -1,0 +1,2971 @@
+{
+  "numFound": 20,
+  "events": [
+    {
+      "id": 104011747,
+      "locale": "en_US",
+      "name": "Colorado Avalanche at San Jose Sharks (Home Game 4, Series Game 7): Western Conference Second Round",
+      "originalName": "Colorado Avalanche at San Jose Sharks (Home Game 4, Series Game 7): Western Conference Second Round Tickets",
+      "description": "San Jose Sharks - Colorado Avalanche Playoff Tickets - Buy and sell Colorado Avalanche vs San Jose Sharks Western Conference Second Round Tickets for May 8 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-8-2019/event/104011747/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-8-2019",
+      "eventDateLocal": "2019-05-08T18:00:00-0700",
+      "eventDateUTC": "2019-05-09T01:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 120.3,
+        "maxPrice": 11727.94,
+        "minListPrice": 95.0,
+        "maxListPrice": 9456.0,
+        "totalTickets": 784,
+        "totalPostings": 252,
+        "totalListings": 252,
+        "popularity": 973,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 120.30,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 11727.94,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 95.00,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 9456.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "urgencyMessage": {
+        "ticketsAtMinPrice": 9
+      },
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        },
+        {
+          "id": 2768,
+          "name": "Colorado Avalanche",
+          "url": "colorado-avalanche-tickets",
+          "webURI": "colorado-avalanche-tickets/performer/2768/",
+          "seoURI": "colorado-avalanche-tickets",
+          "role": "AWAY_TEAM"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "San Jose Sharks vs Colorado Avalanche"
+      },
+      "createdDate": "2019-01-11T23:40:48+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011748,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY Colorado Avalanche at San Jose Sharks (Home Game 4, Series Game 7): Western Conference Second Round",
+      "originalName": "PARKING PASSES ONLY Colorado Avalanche at San Jose Sharks (Home Game 4, Series Game 7): Western Conference Second Round Tickets",
+      "description": "PARKING PASSES ONLY San Jose Sharks - Colorado Avalanche Playoff Tickets - Buy and sell Colorado Avalanche vs San Jose Sharks Western Conference Second Round Tickets for May 8 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-8-2019/event/104011748/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-8-2019",
+      "eventDateLocal": "2019-05-08T18:01:00-0700",
+      "eventDateUTC": "2019-05-09T01:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 27.29,
+        "maxPrice": 75.66,
+        "minListPrice": 19.99,
+        "maxListPrice": 59.0,
+        "totalTickets": 15,
+        "totalPostings": 6,
+        "totalListings": 6,
+        "popularity": 37,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 27.29,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 75.66,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 19.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 59.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        },
+        {
+          "id": 2768,
+          "name": "Colorado Avalanche",
+          "url": "colorado-avalanche-tickets",
+          "webURI": "colorado-avalanche-tickets/performer/2768/",
+          "seoURI": "colorado-avalanche-tickets",
+          "role": "AWAY_TEAM"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": true,
+        "primaryName": "San Jose Sharks vs Colorado Avalanche"
+      },
+      "createdDate": "2019-01-11T23:40:49+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011750,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 1, If Necessary): Western Conference Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 1, If Necessary): Western Conference Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 10 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-9-2019/event/104011750/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-9-2019",
+      "eventDateLocal": "2019-05-09T13:00:00-0700",
+      "eventDateUTC": "2019-05-09T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 192.54,
+        "maxPrice": 3412.5,
+        "minListPrice": 153.26,
+        "maxListPrice": 2750.0,
+        "totalTickets": 1501,
+        "totalPostings": 388,
+        "totalListings": 388,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 192.54,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 3412.50,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 153.26,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 2750.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:41:57+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104010500,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 1, If Necessary): Western Conference Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 1, If Necessary): Western Conference Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 10 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-9-2019/event/104010500/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-9-2019",
+      "eventDateLocal": "2019-05-09T13:01:00-0700",
+      "eventDateUTC": "2019-05-09T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 62.01,
+        "minListPrice": 39.99,
+        "maxListPrice": 47.99,
+        "totalTickets": 16,
+        "totalPostings": 4,
+        "totalListings": 4,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 62.01,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 47.99,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:41:57+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011751,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 2, If Necessary): Western Conference Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 2, If Necessary): Western Conference Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 13 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-11-2019/event/104011751/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-11-2019",
+      "eventDateLocal": "2019-05-11T13:00:00-0700",
+      "eventDateUTC": "2019-05-11T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 182.92,
+        "maxPrice": 3412.5,
+        "minListPrice": 145.5,
+        "maxListPrice": 2750.0,
+        "totalTickets": 1524,
+        "totalPostings": 387,
+        "totalListings": 387,
+        "popularity": 4,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 182.92,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 3412.50,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 145.50,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 2750.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:42:57+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104012501,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 2, If Necessary): Western Conference Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 2, If Necessary): Western Conference Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 12 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-11-2019/event/104012501/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-11-2019",
+      "eventDateLocal": "2019-05-11T13:01:00-0700",
+      "eventDateUTC": "2019-05-11T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 150.06,
+        "minListPrice": 39.99,
+        "maxListPrice": 119.0,
+        "totalTickets": 23,
+        "totalPostings": 7,
+        "totalListings": 7,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 150.06,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 119.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:42:59+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011752,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 3, If Necessary): Western Conference Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 3, If Necessary): Western Conference Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 18 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-17-2019/event/104011752/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-17-2019",
+      "eventDateLocal": "2019-05-17T13:00:00-0700",
+      "eventDateUTC": "2019-05-17T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 305.2,
+        "maxPrice": 3722.44,
+        "minListPrice": 244.11,
+        "maxListPrice": 2999.95,
+        "totalTickets": 1054,
+        "totalPostings": 283,
+        "totalListings": 283,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 305.20,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 3722.44,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 244.11,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 2999.95,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:43:20+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011753,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 3, If Necessary): Western Conference Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 3, If Necessary): Western Conference Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 18 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-18-2019/event/104011753/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-18-2019",
+      "eventDateLocal": "2019-05-17T13:01:00-0700",
+      "eventDateUTC": "2019-05-17T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 150.06,
+        "minListPrice": 39.99,
+        "maxListPrice": 119.0,
+        "totalTickets": 23,
+        "totalPostings": 7,
+        "totalListings": 7,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 150.06,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 119.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:43:21+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011754,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 4, If Necessary): Western Conference Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 4, If Necessary): Western Conference Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 22 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-21-2019/event/104011754/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-21-2019",
+      "eventDateLocal": "2019-05-21T13:00:00-0700",
+      "eventDateUTC": "2019-05-21T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 326.23,
+        "maxPrice": 3722.44,
+        "minListPrice": 261.07,
+        "maxListPrice": 2999.95,
+        "totalTickets": 852,
+        "totalPostings": 226,
+        "totalListings": 226,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 326.23,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 3722.44,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 261.07,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 2999.95,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:43:31+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104012502,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 4, If Necessary): Western Conference Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 4, If Necessary): Western Conference Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Western Conference Finals Tickets for May 22 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-21-2019/event/104012502/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-21-2019",
+      "eventDateLocal": "2019-05-21T13:01:00-0700",
+      "eventDateUTC": "2019-05-21T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 150.06,
+        "minListPrice": 39.99,
+        "maxListPrice": 119.0,
+        "totalTickets": 23,
+        "totalPostings": 7,
+        "totalListings": 7,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 150.06,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 119.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:43:32+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011755,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 1, If Necessary): Stanley Cup Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 1, If Necessary): Stanley Cup Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for May 27 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-27-2019/event/104011755/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-27-2019",
+      "eventDateLocal": "2019-05-27T13:00:00-0700",
+      "eventDateUTC": "2019-05-27T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 791.0,
+        "maxPrice": 6945.26,
+        "minListPrice": 635.89,
+        "maxListPrice": 5599.0,
+        "totalTickets": 796,
+        "totalPostings": 206,
+        "totalListings": 206,
+        "popularity": 2,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 791.00,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 6945.26,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 635.89,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 5599.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:45:27+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011756,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 1, If Necessary): Stanley Cup Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 1, If Necessary): Stanley Cup Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for May 27 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-27-2019/event/104011756/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-27-2019",
+      "eventDateLocal": "2019-05-27T13:01:00-0700",
+      "eventDateUTC": "2019-05-27T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 150.06,
+        "minListPrice": 39.99,
+        "maxListPrice": 119.0,
+        "totalTickets": 23,
+        "totalPostings": 7,
+        "totalListings": 7,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 150.06,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 119.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:45:27+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011757,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 2, If Necessary): Stanley Cup Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 2, If Necessary): Stanley Cup Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for May 30 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-30-2019/event/104011757/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-5-30-2019",
+      "eventDateLocal": "2019-05-30T13:00:00-0700",
+      "eventDateUTC": "2019-05-30T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 791.0,
+        "maxPrice": 6201.26,
+        "minListPrice": 635.89,
+        "maxListPrice": 4999.0,
+        "totalTickets": 652,
+        "totalPostings": 171,
+        "totalListings": 171,
+        "popularity": 2,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 791.00,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 6201.26,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 635.89,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 4999.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:45:42+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011758,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 2, If Necessary): Stanley Cup Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 2, If Necessary): Stanley Cup Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for May 30 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-30-2019/event/104011758/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-5-30-2019",
+      "eventDateLocal": "2019-05-30T13:01:00-0700",
+      "eventDateUTC": "2019-05-30T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 150.06,
+        "minListPrice": 39.99,
+        "maxListPrice": 119.0,
+        "totalTickets": 23,
+        "totalPostings": 7,
+        "totalListings": 7,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 150.06,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 119.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:45:44+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104012504,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 3, If Necessary): Stanley Cup Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 3, If Necessary): Stanley Cup Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for Jun 6 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-6-5-2019/event/104012504/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-6-5-2019",
+      "eventDateLocal": "2019-06-05T13:00:00-0700",
+      "eventDateUTC": "2019-06-05T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 1045.96,
+        "maxPrice": 7162.26,
+        "minListPrice": 841.5,
+        "maxListPrice": 5774.0,
+        "totalTickets": 597,
+        "totalPostings": 154,
+        "totalListings": 154,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 1045.96,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 7162.26,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 841.50,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 5774.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:45:56+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104011759,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 3, If Necessary): Stanley Cup Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 3, If Necessary): Stanley Cup Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for Jun 6 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-6-6-2019/event/104011759/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-6-6-2019",
+      "eventDateLocal": "2019-06-05T13:01:00-0700",
+      "eventDateUTC": "2019-06-05T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 157.5,
+        "minListPrice": 39.99,
+        "maxListPrice": 125.0,
+        "totalTickets": 23,
+        "totalPostings": 7,
+        "totalListings": 7,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 157.50,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 125.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:45:57+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104012506,
+      "locale": "en_US",
+      "name": "TBD at San Jose Sharks (Home Game 4, If Necessary): Stanley Cup Finals",
+      "originalName": "TBD at San Jose Sharks (Home Game 4, If Necessary): Stanley Cup Finals Tickets",
+      "description": "Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for Jun 10 at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-6-9-2019/event/104012506/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-6-9-2019",
+      "eventDateLocal": "2019-06-09T13:00:00-0700",
+      "eventDateUTC": "2019-06-09T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 1163.14,
+        "maxPrice": 12401.26,
+        "minListPrice": 936.0,
+        "maxListPrice": 9999.0,
+        "totalTickets": 598,
+        "totalPostings": 160,
+        "totalListings": 160,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 1163.14,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 12401.26,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 936.00,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 9999.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 109519,
+          "name": "San Jose Sharks Playoff",
+          "url": "san-jose-sharks-playoff-tickets",
+          "webURI": "san-jose-sharks-playoff-tickets/grouping/109519/",
+          "seoURI": "san-jose-sharks-playoff-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:49:48+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104012507,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 4, If Necessary): Stanley Cup Finals",
+      "originalName": "PARKING PASSES ONLY TBD at San Jose Sharks (Home Game 4, If Necessary): Stanley Cup Finals Tickets",
+      "description": "PARKING PASSES ONLY Sharks - TBD Playoff Tickets - Buy and sell TBD vs San Jose Sharks Stanley Cup Finals Tickets for Jun 10 at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-6-10-2019/event/104012507/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-6-10-2019",
+      "eventDateLocal": "2019-06-09T13:01:00-0700",
+      "eventDateUTC": "2019-06-09T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 52.09,
+        "maxPrice": 182.3,
+        "minListPrice": 39.99,
+        "maxListPrice": 145.0,
+        "totalTickets": 23,
+        "totalPostings": 7,
+        "totalListings": 7,
+        "popularity": 0,
+        "currencyCode": "USD",
+        "minPriceWithCurrencyCode": {
+          "amount": 52.09,
+          "currency": "USD"
+        },
+        "maxPriceWithCurrencyCode": {
+          "amount": 182.30,
+          "currency": "USD"
+        },
+        "minListPriceWithCurrencyCode": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "maxListPriceWithCurrencyCode": {
+          "amount": 145.00,
+          "currency": "USD"
+        }
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108319,
+          "name": "NHL Playoff",
+          "url": "nhl-playoff-tickets",
+          "webURI": "nhl-playoff-tickets/grouping/108319/",
+          "seoURI": "nhl-playoff-tickets"
+        },
+        {
+          "id": 50022114,
+          "name": "NHL Playoff Parking Passes",
+          "webURI": "nhl-playoff-parking-passes-tickets/grouping/50022114/",
+          "seoURI": "nhl-playoff-parking-passes-tickets"
+        },
+        {
+          "id": 50025025,
+          "name": "San Jose Sharks Playoff Parking Passes",
+          "webURI": "san-jose-sharks-playoff-parking-passes-tickets/grouping/50025025/",
+          "seoURI": "san-jose-sharks-playoff-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "Sharks vs TBD"
+      },
+      "createdDate": "2019-01-11T23:49:50+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104135959,
+      "locale": "en_US",
+      "name": "2019 San Jose Sharks Season Tickets - Season Package (Includes Tickets for all Regular Season Home Games)",
+      "originalName": "2019 San Jose Sharks Season Tickets - Season Package (Includes Tickets for all Regular Season Home Games)",
+      "description": "San Jose Sharks Season Tickets - Buy and sell 2019 San Jose Sharks Season Tickets at SAP Center in San Jose, CA on StubHub!",
+      "webURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-10-3-2019/event/104135959/",
+      "seoURI": "san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-10-3-2019",
+      "eventDateLocal": "2019-10-03T13:00:00-0700",
+      "eventDateUTC": "2019-10-03T20:00:00+0000",
+      "venue": {
+        "id": 88,
+        "name": "SAP Center",
+        "url": "sap-center-tickets",
+        "webURI": "sap-center-tickets/venue/88/",
+        "seoURI": "sap-center-tickets",
+        "venueUrl": "sap-center-tickets",
+        "latitude": 37.332091,
+        "longitude": -121.900731,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 58
+      },
+      "venueConfiguration": {
+        "id": 58,
+        "name": "Hockey - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 0.0,
+        "maxPrice": 0.0,
+        "minListPrice": 0.0,
+        "maxListPrice": 0.0,
+        "totalTickets": 0,
+        "totalPostings": 0,
+        "totalListings": 0,
+        "popularity": 0,
+        "currencyCode": "USD"
+      },
+      "sourceId": "0",
+      "eventType": "Main",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 108518,
+          "name": "NHL Regular Season",
+          "url": "nhl-regular-season-tickets",
+          "webURI": "nhl-regular-season-tickets/grouping/108518/",
+          "seoURI": "nhl-regular-season-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "San Jose Sharks Season Tickets"
+      },
+      "createdDate": "2019-05-01T22:52:44+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    },
+    {
+      "id": 104135960,
+      "locale": "en_US",
+      "name": "PARKING PASSES ONLY 2019 San Jose Sharks Season Tickets - Season Package (Includes Tickets for all Regular Season Home Games)",
+      "originalName": "PARKING PASSES ONLY 2019 San Jose Sharks Season Tickets - Season Package (Includes Tickets for all Regular Season Home Games)",
+      "description": "PARKING PASSES ONLY San Jose Sharks Season Tickets - Buy and sell 2019 San Jose Sharks Season Tickets at SAP Center Parking Lots in San Jose, CA on StubHub!",
+      "webURI": "parking-passes-only-san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-10-3-2019/event/104135960/",
+      "seoURI": "parking-passes-only-san-jose-sharks-tickets-san-jose-sharks-san-jose-sap-center-parking-lots-10-3-2019",
+      "eventDateLocal": "2019-10-03T13:01:00-0700",
+      "eventDateUTC": "2019-10-03T20:01:00+0000",
+      "venue": {
+        "id": 440379,
+        "name": "SAP Center Parking Lots",
+        "url": "sap-center-parking-lots-tickets",
+        "webURI": "sap-center-parking-lots-tickets/venue/440379/",
+        "seoURI": "sap-center-parking-lots-tickets",
+        "venueUrl": "sap-center-parking-lots-tickets",
+        "latitude": 37.33279,
+        "longitude": -121.902137,
+        "timezone": "PDT",
+        "jdkTimezone": "US/Pacific",
+        "address1": "525 West Santa Clara Street",
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95113",
+        "country": "US",
+        "venueConfigId": 1228614
+      },
+      "venueConfiguration": {
+        "id": 1228614,
+        "name": "Parking Lots - Dynamic",
+        "gaIndicator": false
+      },
+      "ticketInfo": {
+        "minPrice": 0.0,
+        "maxPrice": 0.0,
+        "minListPrice": 0.0,
+        "maxListPrice": 0.0,
+        "totalTickets": 0,
+        "totalPostings": 0,
+        "totalListings": 0,
+        "popularity": 0,
+        "currencyCode": "USD"
+      },
+      "sourceId": "0",
+      "eventType": "Parking",
+      "associatedEvents": [],
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 28,
+          "name": "Sports",
+          "url": "sports-tickets",
+          "webURI": "sports-tickets/category/28/",
+          "seoURI": "sports-tickets"
+        },
+        {
+          "id": 32,
+          "name": "Hockey",
+          "url": "hockey-tickets",
+          "webURI": "hockey-tickets/category/32/",
+          "seoURI": "hockey-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 144,
+          "name": "NHL",
+          "url": "nhl-tickets",
+          "webURI": "nhl-tickets/grouping/144/",
+          "seoURI": "nhl-tickets"
+        },
+        {
+          "id": 732299,
+          "name": "NHL Parking Pass",
+          "url": "nhl-parking-pass-tickets",
+          "webURI": "nhl-parking-pass-tickets/grouping/732299/",
+          "seoURI": "nhl-parking-pass-tickets"
+        },
+        {
+          "id": 1499824,
+          "name": "San Jose Sharks Parking Passes",
+          "url": "san-jose-sharks-parking-passes-tickets",
+          "webURI": "san-jose-sharks-parking-passes-tickets/grouping/1499824/",
+          "seoURI": "san-jose-sharks-parking-passes-tickets"
+        }
+      ],
+      "performers": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 145,
+          "name": "San Jose Sharks",
+          "url": "san-jose-sharks-tickets",
+          "webURI": "san-jose-sharks-tickets/performer/145/",
+          "seoURI": "san-jose-sharks-tickets"
+        }
+      ],
+      "imageUrl": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+      "images": [
+        {
+          "url": "https://i.ebayimg.com/images/g/gpYAAOSwa81cq85x/s-l1600.jpg",
+          "isResizable": true,
+          "height": 3712,
+          "width": 5568,
+          "credit": "Six Degrees-ECHL"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": true,
+        "hideEventTime": true,
+        "primaryName": "San Jose Sharks Season Tickets"
+      },
+      "createdDate": "2019-05-01T22:52:45+0000",
+      "defaultLocale": "en_US",
+      "eventExternalUrls": []
+    }
+  ],
+  "metaInfos": {}
+}

@@ -11,19 +11,21 @@ import Header from './components/header/Header';
 const App: React.FC = () => {
   return (
     <React.Fragment>
-      <main className="ui container">
+      <div className="ui container">
         <HashRouter>
           <Header />
-          <Switch>
-            <Route path="/" exact component={StreamList} />
-            <Route path="/stream/new" component={StreamCreate} />
-            <Route path="/stream/edit" component={StreamEdit} />
-            <Route path="/stream/delete" component={StreamDelete} />
-            <Route path="/stream/show" component={StreamShow} />
-            <Redirect to="/" />
-          </Switch>
+          <main>
+            <Switch>
+              <Route path="/" exact render={() => <StreamList className="StreamList" />} />
+              <Route path="/stream/new" component={StreamCreate} />
+              <Route path="/stream/edit" component={StreamEdit} />
+              <Route path="/stream/delete" component={StreamDelete} />
+              <Route path="/stream/show" component={StreamShow} />
+              <Redirect to="/" />
+            </Switch>
+          </main>
         </HashRouter>
-      </main>
+      </div>
     </React.Fragment>
   );
 };

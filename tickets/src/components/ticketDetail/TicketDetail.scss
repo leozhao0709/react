@@ -1,0 +1,14 @@
+.TicketDetail {
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    font-size: 14px;
+    color: #5C6570;
+    border: 1px solid #ccc;
+
+    &-Section {}
+
+    &-Row {}
+
+    &-Proce {}
+}
