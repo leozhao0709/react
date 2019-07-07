@@ -1,8 +1,8 @@
 import * as React from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import { CommentsActions } from '../actions/commentsAction';
 import { withRouter, RouteComponentProps } from 'react-router';
-import { StoreState } from '../store';
+import { useAuth } from '../hooks/useAuth';
 
 interface CommentsBoxProps extends React.HtmlHTMLAttributes<{}>, RouteComponentProps<{}> {}
 
@@ -10,13 +10,7 @@ const CommentsBox: React.FC<CommentsBoxProps> = (props: CommentsBoxProps) => {
   const [comment, setComment] = React.useState('');
   const dispatch = useDispatch();
 
-  const authState = useSelector((storeState: StoreState) => storeState.authState);
-
-  React.useEffect(() => {
-    if (!authState.isLoggedIn) {
-      props.history.push('/');
-    }
-  }, [authState.isLoggedIn, props.history]);
+  useAuth(props);
 
   const handleCommentOnChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     setComment(e.target.value);
