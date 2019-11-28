@@ -1,5 +1,5 @@
 import React from 'react';
-import HomePage from './pages/homepage';
+import HomePage from './pages/home/homepage';
 import { Switch, Route, HashRouter } from 'react-router-dom';
 
 const App: React.FC = () => {
