@@ -1,4 +1,5 @@
 import * as React from 'react';
+import styles from './collection-item.module.scss';
 
 export interface collectionItem {
   id: number;
@@ -11,11 +12,11 @@ interface CollectionItemProps extends collectionItem {}
 
 const CollectionItem: React.FC<CollectionItemProps> = (props: CollectionItemProps) => {
   return (
-    <div>
-      <div className="image"></div>
-      <div className="footer">
+    <div className={styles.collectionItem}>
+      <div className={styles.image} style={{ backgroundImage: `url(${props.imageUrl})` }}></div>
+      <div className={styles.footer}>
         <div className="name">{props.name}</div>
-        <div className="price">{props.price}</div>
+        <div className="price">${props.price}</div>
       </div>
     </div>
   );

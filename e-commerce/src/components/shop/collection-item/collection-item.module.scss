@@ -1,0 +1,21 @@
+.collectionItem {
+    font-size: 1.8rem;
+    flex: 1 1 30rem;
+
+    &:not(:last-child) {
+        margin-right: 1rem;
+    }
+
+    .image {
+        background-size: cover;
+        height: 35rem;
+        width: 30rem;
+        width: 100%;
+    }
+
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        color: #666;
+    }
+}

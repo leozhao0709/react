@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+
+    .navItems {
+        font-size: 2rem;
+
+        .navItem:not(:last-child) {
+            margin-right: 4rem;
+        }
+    }
+}

@@ -1,5 +1,6 @@
 import * as React from 'react';
 import CollectionItem, { collectionItem } from './collection-item/collection-item';
+import styles from './collection-preview.module.scss';
 
 interface CollectionPreviewProps {
   id?: number;
@@ -10,12 +11,14 @@ interface CollectionPreviewProps {
 
 const CollectionPreview: React.FC<CollectionPreviewProps> = (props: CollectionPreviewProps) => {
   return (
-    <div>
-      <h1 className="title">{props.title.toLocaleUpperCase()}</h1>
-      <div className="items">
-        {props.items.map(item => (
-          <CollectionItem key={item.id} {...item} />
-        ))}
+    <div className={styles.collectionPreview}>
+      <div className={styles.title}>{props.title}</div>
+      <div className={styles.items}>
+        {props.items
+          .filter((_, index) => index < 4)
+          .map(item => (
+            <CollectionItem key={item.id} {...item} />
+          ))}
       </div>
     </div>
   );
