@@ -8398,10 +8398,10 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.10.1.tgz#0612786bf19df406502d935494f0450b40b8294f"
   integrity sha512-BXUMf9sIOPXXZWqr7+c5SeOKJykyVr2u0UDzEf4LNGc6taGkQe1A9DFD07umCIXz45RLr9oAAwZbAJ0Pkknfaw==
 
-react-milhouse@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/react-milhouse/-/react-milhouse-0.0.3.tgz#a48d5dd6d953aac1caf37316e40a62264168806d"
-  integrity sha512-uCM0GIJBKnf+h+ThDKry1NXlAaApL04bO6ULlY8YMD+u8EPX5hEQX5rd3LCuSsbIrchI+7zyjTcm7M2ii1yDiQ==
+react-milhouse@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/react-milhouse/-/react-milhouse-0.0.4.tgz#1d5e6dcb590205c785be14801e8c0f609e340650"
+  integrity sha512-xq5ZTGNWw7WzAO/V8bf9UwpzqKEPu8t5PhdWF5J7+UwNuChBQZUcdidxZ8lSKU1REs+ffNDjmDkacNqLjNFGOQ==
   dependencies:
     react "^16.12.0"
     react-router-dom "^5.1.2"
