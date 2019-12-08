@@ -1,8 +1,8 @@
 import React from 'react';
-import HomePage from './pages/home/homepage';
+import HomePage from './pages/HomePage';
 import { Switch, Route, HashRouter } from 'react-router-dom';
-import ShopPage from './pages/shop/shoppage';
-import Header from './components/header/header';
+import ShopPage from './pages/ShopPage';
+import Header from './components/Header/index';
 
 const App: React.FC = () => {
   return (

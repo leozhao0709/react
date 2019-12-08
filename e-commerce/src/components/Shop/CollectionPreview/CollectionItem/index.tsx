@@ -1,5 +1,5 @@
 import * as React from 'react';
-import styles from './collection-item.module.scss';
+import styles from './CollectionItem.module.scss';
 
 export interface collectionItem {
   id: number;

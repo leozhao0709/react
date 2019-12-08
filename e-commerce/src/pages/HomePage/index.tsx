@@ -1,6 +1,6 @@
 import * as React from 'react';
-import styles from './homepage.module.scss';
-import Categories from '../../components/home/categories';
+import styles from './HomePage.module.scss';
+import Categories from '../../components/Home/Categories';
 
 interface HomePageProps extends React.HtmlHTMLAttributes<{}> {}
 

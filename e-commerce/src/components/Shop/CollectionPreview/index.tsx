@@ -1,6 +1,6 @@
 import * as React from 'react';
-import CollectionItem, { collectionItem } from './collection-item/collection-item';
-import styles from './collection-preview.module.scss';
+import CollectionItem, { collectionItem } from './CollectionItem';
+import styles from './CollectionPreview.module.scss';
 
 interface CollectionPreviewProps {
   id?: number;

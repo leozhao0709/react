@@ -1,5 +1,5 @@
 import * as React from 'react';
-import styles from './header.module.scss';
+import styles from './Header.module.scss';
 import { Link } from 'react-router-dom';
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import styles from './category_item.module.scss';
+import styles from './CategoryItem.module.scss';
 
 interface CategoryItemProps extends React.HtmlHTMLAttributes<{}> {
   title: string;

@@ -1,6 +1,6 @@
 import * as React from 'react';
-import styles from './categories.module.scss';
-import CategoryItem from './category-item/category_item';
+import styles from './Categories.module.scss';
+import CategoryItem from './CategoryItem';
 
 interface CategoriesProps extends React.HtmlHTMLAttributes<{}> {}
 

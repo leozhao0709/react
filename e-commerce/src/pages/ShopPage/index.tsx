@@ -1,7 +1,7 @@
 import * as React from 'react';
 import SHOP_DATA from '../../data/shop.data';
-import CollectionPreview from '../../components/shop/collection-preview';
-import styles from './shoppage.module.scss';
+import CollectionPreview from '../../components/Shop/CollectionPreview';
+import styles from './ShopPage.module.scss';
 
 interface ShopPageProps extends React.HtmlHTMLAttributes<{}> {}
 
