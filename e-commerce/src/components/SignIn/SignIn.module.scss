@@ -1,0 +1,43 @@
+.signIn {
+  flex: 1;
+
+  .title {
+    font-size: 4rem;
+    color: #101d2c;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  .subtitle {
+    font-size: 2.5rem;
+    color: #777;
+  }
+
+  .signInForm {
+    padding: 2rem 0;
+    margin-top: 3rem;
+
+    .formControl {
+      padding: 0.5rem 0rem;
+      font-size: 3rem;
+    }
+
+    .formLabel {
+      font-size: 2.5rem;
+    }
+
+    .submitBtn {
+      background-color: #000;
+      color: #f4f2f2;
+      padding: 2.5rem 12rem;
+      font-size: 2.5rem;
+      border: 1px solid #000;
+      font-weight: bolder;
+
+      &:hover {
+        background-color: #f4f2f2;
+        color: #000;
+      }
+    }
+  }
+}
