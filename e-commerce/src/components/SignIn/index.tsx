@@ -1,6 +1,7 @@
 import * as React from 'react';
 import styles from './SignIn.module.scss';
 import { FormInput, Button } from 'react-milhouse';
+import { signInWithGoogle } from '../../utils/firebase.util';
 
 interface SignInProps {}
 
@@ -20,7 +21,15 @@ export const SignIn: React.FC<SignInProps> = (props: SignInProps) => {
           required
         />
 
-        <Button className={styles.submitBtn} type="submit" text="SIGN IN" />
+        <div className={styles.signInBtnGroup}>
+          <Button className={styles.signInBtn} type="submit" text="SIGN IN" />
+          <Button
+            className={styles.signInWithGoogleBtn}
+            type="button"
+            text="SIGN IN WITH GOOGLE"
+            onClick={() => signInWithGoogle()}
+          />
+        </div>
       </form>
     </div>
   );

@@ -4,7 +4,13 @@
     padding: 2rem 0;
 
     .navItems {
+        display: flex;
         font-size: 2rem;
+
+        .navItem {
+            cursor: pointer;
+            color: #666;
+        }
 
         .navItem:not(:last-child) {
             margin-right: 4rem;
