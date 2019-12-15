@@ -22,9 +22,9 @@ export const SignIn: React.FC<SignInProps> = (props: SignInProps) => {
         />
 
         <div className={styles.signInBtnGroup}>
-          <Button className={styles.signInBtn} type="submit" text="SIGN IN" />
+          <Button className={[styles.btn, styles.signInBtn].join(' ')} type="submit" text="SIGN IN" />
           <Button
-            className={styles.signInWithGoogleBtn}
+            className={[styles.btn, styles.signInWithGoogleBtn].join(' ')}
             type="button"
             text="SIGN IN WITH GOOGLE"
             onClick={() => signInWithGoogle()}
