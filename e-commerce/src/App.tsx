@@ -4,15 +4,21 @@ import { Switch, Route, HashRouter } from 'react-router-dom';
 import ShopPage from './pages/ShopPage';
 import Header from './components/Header';
 import SignInAndSignUpPage from './pages/SignInAndSignUpPage';
-import { auth } from './utils/firebase.util';
+import { auth, createUserProfileDocument } from './utils/firebase.util';
 
 const App: React.FC = () => {
-  const [currentUser, setCurrentUser] = useState<firebase.User | null>(null);
+  const [currentUser, setCurrentUser] = useState<User | null>(null);
   useEffect(() => {
-    return auth.onAuthStateChanged(user => {
-      setCurrentUser(user);
-
-      console.log(user);
+    return auth.onAuthStateChanged(async user => {
+      if (user) {
+        const userRef = await createUserProfileDocument(user);
+        if (userRef) {
+          const snapshot = await userRef.get();
+          setCurrentUser(snapshot.data() as User);
+        }
+      } else {
+        setCurrentUser(null);
+      }
     });
   }, []);
 

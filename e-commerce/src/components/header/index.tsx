@@ -5,7 +5,7 @@ import { ReactComponent as Logo } from '../../assets/crown.svg';
 import { auth } from '../../utils/firebase.util';
 
 interface HeaderProps {
-  currentUser: firebase.User | null;
+  currentUser: User | null;
 }
 
 const Header: React.FC<HeaderProps> = (props: HeaderProps) => {
