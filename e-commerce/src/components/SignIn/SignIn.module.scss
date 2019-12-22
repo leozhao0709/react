@@ -1,67 +1,73 @@
+@import '../../../node_modules/react-milhouse/dist/scss/size';
+
 .signIn {
-    flex: 1;
+  flex: 1;
 
-    .title {
-        font-size: 4rem;
-        color: #101d2c;
-        font-weight: bold;
-        margin-bottom: 1rem;
+  .title {
+    font-size: 4rem;
+    color: #101d2c;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  .subtitle {
+    font-size: 2.5rem;
+    color: #777;
+  }
+
+  .signInForm {
+    padding: 2rem 0;
+    margin-top: 3rem;
+
+    .formControl {
+      padding: 0.5rem 0rem;
+      font-size: 3rem;
     }
 
-    .subtitle {
-        font-size: 2.5rem;
-        color: #777;
+    .formLabel {
+      font-size: 2.5rem;
     }
 
-    .signInForm {
-        padding: 2rem 0;
-        margin-top: 3rem;
+    .signInBtnGroup {
+      $signBtnColor: #000;
+      $signWithGoogleBtnColor: #2998ff;
 
-        .formControl {
-            padding: 0.5rem 0rem;
-            font-size: 3rem;
+      display: flex;
+      justify-content: center;
+      font-size: 2.5rem;
+      font-weight: bolder;
+      flex-wrap: wrap;
+
+      @media #{$screen-desktop} {
+        justify-content: space-between;
+      }
+
+      .btn {
+        width: 25rem;
+        height: 8rem;
+        margin: 1rem;
+      }
+
+      .signInBtn {
+        border: 1px solid $signBtnColor;
+        background-color: $signBtnColor;
+        color: #f4f2f2;
+
+        &:hover {
+          background-color: #f4f2f2;
+          color: $signBtnColor;
         }
+      }
 
-        .formLabel {
-            font-size: 2.5rem;
+      .signInWithGoogleBtn {
+        border: 1px solid $signWithGoogleBtnColor;
+        background-color: $signWithGoogleBtnColor;
+        color: #f4f2f2;
+
+        &:hover {
+          background-color: lighten($color: $signWithGoogleBtnColor, $amount: 5%);
         }
-
-        .signInBtnGroup {
-            display: flex;
-            justify-content: space-between;
-            font-size: 2.5rem;
-            font-weight: bolder;
-            flex-wrap: wrap;
-
-            $signBtnColor: #000;
-            $signWithGoogleBtnColor: #2998ff;
-
-            .btn {
-                width: 25rem;
-                height: 8rem;
-                margin: 1rem;
-            }
-
-            .signInBtn {
-                border: 1px solid $signBtnColor;
-                background-color: $signBtnColor;
-                color: #f4f2f2;
-
-                &:hover {
-                    background-color: #f4f2f2;
-                    color: $signBtnColor;
-                }
-            }
-
-            .signInWithGoogleBtn {
-                border: 1px solid $signWithGoogleBtnColor;
-                background-color: $signWithGoogleBtnColor;
-                color: #f4f2f2;
-
-                &:hover {
-                    background-color: lighten($color: $signWithGoogleBtnColor, $amount: 5%);
-                }
-            }
-        }
+      }
     }
+  }
 }

@@ -12,11 +12,11 @@ export const SignIn: React.FC<SignInProps> = (props: SignInProps) => {
       <div className={styles.subtitle}>Sign in with your email and password</div>
 
       <form className={styles.signInForm}>
-        <FormInput labelClass={styles.formLabel} className={styles.formControl} label="email" type="email" required />
+        <FormInput labelClass={styles.formLabel} className={styles.formControl} label="Email" type="email" required />
         <FormInput
           labelClass={styles.formLabel}
           className={styles.formControl}
-          label="password"
+          label="Password"
           type="password"
           required
         />
