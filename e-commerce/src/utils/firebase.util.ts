@@ -19,7 +19,7 @@ export const firestore = firebase.firestore();
 
 export const createUserProfileDocument = async (user: firebase.User | null, additionalInfo?: any) => {
   if (!user) {
-    return;
+    throw Error('User is invalid error!');
   }
 
   const userRef = firestore.doc(`users/${user.uid}`);

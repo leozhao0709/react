@@ -25,5 +25,22 @@
     .formLabel {
       font-size: 2.5rem;
     }
+
+    .signUpBtn {
+      $btnTextColor: #f4f2f2;
+      $signUpBtnBgColor: #000;
+
+      width: 25rem;
+      height: 8rem;
+      margin: 1rem;
+      border: 1px solid $signUpBtnBgColor;
+      background-color: $signUpBtnBgColor;
+      color: $btnTextColor;
+
+      &:hover {
+        background-color: $btnTextColor;
+        color: $signUpBtnBgColor;
+      }
+    }
   }
 }

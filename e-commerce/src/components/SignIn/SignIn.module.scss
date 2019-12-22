@@ -29,8 +29,13 @@
     }
 
     .signInBtnGroup {
-      $signBtnColor: #000;
-      $signWithGoogleBtnColor: #2998ff;
+      $btnTextColor: #f4f2f2;
+      $signInBtnBgColor: #000;
+      $signInWithGoogleBtnBgColor: #2998ff;
+      $signInWithGoogleBtnBgHoverColor: lighten(
+        $color: $signInWithGoogleBtnBgColor,
+        $amount: 5%
+      );
 
       display: flex;
       justify-content: center;
@@ -49,23 +54,23 @@
       }
 
       .signInBtn {
-        border: 1px solid $signBtnColor;
-        background-color: $signBtnColor;
-        color: #f4f2f2;
+        border: 1px solid $signInBtnBgColor;
+        background-color: $signInBtnBgColor;
+        color: $btnTextColor;
 
         &:hover {
-          background-color: #f4f2f2;
-          color: $signBtnColor;
+          background-color: $btnTextColor;
+          color: $signInBtnBgColor;
         }
       }
 
       .signInWithGoogleBtn {
-        border: 1px solid $signWithGoogleBtnColor;
-        background-color: $signWithGoogleBtnColor;
-        color: #f4f2f2;
+        border: 1px solid $signInWithGoogleBtnBgColor;
+        background-color: $signInWithGoogleBtnBgColor;
+        color: $btnTextColor;
 
         &:hover {
-          background-color: lighten($color: $signWithGoogleBtnColor, $amount: 5%);
+          background-color: $signInWithGoogleBtnBgHoverColor;
         }
       }
     }
