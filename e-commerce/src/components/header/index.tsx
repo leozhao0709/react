@@ -3,13 +3,13 @@ import styles from './Header.module.scss';
 import { Link } from 'react-router-dom';
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 import { auth } from '../../utils/firebase.util';
+import { useSelector } from 'react-redux';
+import { StoreState } from '../../redux/store';
 
-interface HeaderProps {
-  currentUser: User | null;
-}
+interface HeaderProps {}
 
 const Header: React.FC<HeaderProps> = (props: HeaderProps) => {
-  const { currentUser } = props;
+  const currentUser = useSelector((state: StoreState) => state.userState.currentUser);
 
   return (
     <nav className={styles.header}>
