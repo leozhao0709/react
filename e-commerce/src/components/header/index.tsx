@@ -1,10 +1,11 @@
 import * as React from 'react';
 import styles from './Header.module.scss';
 import { Link } from 'react-router-dom';
-import { ReactComponent as Logo } from '../../assets/crown.svg';
 import { auth } from '../../utils/firebase.util';
 import { useSelector } from 'react-redux';
 import { StoreState } from '../../redux/store';
+import { CrownIcon as Logo } from 'react-milhouse';
+import CartIcon from './CartIcon';
 
 interface HeaderProps {}
 
@@ -24,9 +25,12 @@ const Header: React.FC<HeaderProps> = (props: HeaderProps) => {
           CONTACT
         </Link>
         {currentUser ? (
-          <div className={styles.navItem} onClick={() => auth.signOut()}>
-            SIGN OUT
-          </div>
+          <React.Fragment>
+            <div className={styles.navItem} onClick={() => auth.signOut()}>
+              SIGN OUT
+            </div>
+            <CartIcon className={styles.navItem} />
+          </React.Fragment>
         ) : (
           <Link className={styles.navItem} to="/signin">
             SIGN IN

@@ -1,5 +1,6 @@
 import * as React from 'react';
 import styles from './CollectionItem.module.scss';
+import { Button } from 'react-milhouse';
 
 export interface collectionItem {
   id: number;
@@ -18,6 +19,7 @@ const CollectionItem: React.FC<CollectionItemProps> = (props: CollectionItemProp
         <div className="name">{props.name}</div>
         <div className="price">${props.price}</div>
       </div>
+      <Button type="button" text="ADD TO CART" className={styles.addToCartBtn} />
     </div>
   );
 };
