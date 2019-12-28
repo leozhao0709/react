@@ -1,0 +1,19 @@
+.cartItem {
+  display: flex;
+  margin-bottom: 2rem;
+
+  .cartItemImg {
+    width: 8rem;
+    height: 10rem;
+  }
+
+  .cartItemDetail {
+    color: #aaa;
+    font-size: 1.8rem;
+    margin-left: 2rem;
+    .cartItemName {
+    }
+    .cartItemPrice {
+    }
+  }
+}

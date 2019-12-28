@@ -1,0 +1,21 @@
+.cartDropDown {
+  border: 1px solid #000;
+  width: 25rem;
+  background-color: #fff;
+  padding: 2rem;
+
+  .cartItems {
+    margin-bottom: 2rem;
+    max-height: 30rem;
+    overflow: scroll;
+  }
+
+  .checkoutBtn {
+    background-color: #101d2c;
+    color: #fff;
+    width: 80%;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+  }
+}

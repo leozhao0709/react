@@ -5,7 +5,7 @@ import { auth } from '../../utils/firebase.util';
 import { useSelector } from 'react-redux';
 import { StoreState } from '../../redux/store';
 import { CrownIcon as Logo } from 'react-milhouse';
-import CartIcon from './CartIcon';
+import Cart from './Cart';
 
 interface HeaderProps {}
 
@@ -29,7 +29,7 @@ const Header: React.FC<HeaderProps> = (props: HeaderProps) => {
             <div className={styles.navItem} onClick={() => auth.signOut()}>
               SIGN OUT
             </div>
-            <CartIcon className={styles.navItem} />
+            <Cart />
           </React.Fragment>
         ) : (
           <Link className={styles.navItem} to="/signin">

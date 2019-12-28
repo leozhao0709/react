@@ -1,0 +1,15 @@
+.cart {
+  position: relative;
+
+  .cartIcon {
+    cursor: pointer;
+    color: #666;
+  }
+
+  .dropDown {
+    position: absolute;
+    z-index: 99;
+    right: 0;
+    top: 4rem;
+  }
+}

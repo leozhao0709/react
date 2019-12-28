@@ -3,9 +3,11 @@ import { composeWithDevTools } from 'redux-devtools-extension';
 import { UserState } from './reducers/user/userReducer';
 import { rootReducer } from './reducers/rootReducer';
 import logger from 'redux-logger';
+import { CartState } from './reducers/cart/cartReducer';
 
 export interface StoreState {
   userState: UserState;
+  cartState: CartState;
 }
 
 const middlewares: Middleware[] = [];
