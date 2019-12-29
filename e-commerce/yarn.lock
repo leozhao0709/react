@@ -9033,10 +9033,10 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.10.1.tgz#0612786bf19df406502d935494f0450b40b8294f"
   integrity sha512-BXUMf9sIOPXXZWqr7+c5SeOKJykyVr2u0UDzEf4LNGc6taGkQe1A9DFD07umCIXz45RLr9oAAwZbAJ0Pkknfaw==
 
-react-milhouse@^0.0.15:
-  version "0.0.15"
-  resolved "https://registry.yarnpkg.com/react-milhouse/-/react-milhouse-0.0.15.tgz#0990c34fb094553870cd334717fb5c0a7ad1a839"
-  integrity sha512-wOFVt2d7yVEnKiSSyh8UT2dMhLkqvGTmdcrmb83RjPoo/u6PPkmQacrkP5ELwG25cFgAAQqsQeASUACkU3xZig==
+react-milhouse@^0.0.16:
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/react-milhouse/-/react-milhouse-0.0.16.tgz#0601addef409148e27ba71ddb4b39874c7329e18"
+  integrity sha512-u8Ezio6Ob2hzRt1c5HUNcWKBVfM2tjSk5msAnosxRvB6fUIFy/JPNIxly4/at9cp5z00P/jLfgQX2btosnaGnA==
   dependencies:
     live-server "^1.2.1"
     react "^16.12.0"

@@ -5,7 +5,9 @@ import { useSelector } from 'react-redux';
 import { StoreState } from '../../../../redux/store';
 import CartItem from './CartItem';
 
-interface CartDropDownProps extends React.HTMLAttributes<HTMLDivElement> {}
+interface CartDropDownProps extends React.HTMLAttributes<HTMLDivElement> {
+  onCheckoutBtnClick: () => void;
+}
 
 export const CartDropDown: React.FC<CartDropDownProps> = (props: CartDropDownProps) => {
   const cartItems = useSelector((storeState: StoreState) => storeState.cartState.cartItems);
@@ -19,7 +21,9 @@ export const CartDropDown: React.FC<CartDropDownProps> = (props: CartDropDownPro
           <div className={styles.emptyMsg}> You cart is empty </div>
         )}
       </div>
-      <Button className={styles.checkoutBtn}>GO TO CHECK OUT</Button>
+      <Button className={styles.checkoutBtn} onClick={() => props.onCheckoutBtnClick()}>
+        GO TO CHECK OUT
+      </Button>
     </div>
   );
 };

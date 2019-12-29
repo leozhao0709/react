@@ -8,6 +8,7 @@ import { auth, createUserProfileDocument } from './utils/firebase.util';
 import { useDispatch, useSelector } from 'react-redux';
 import { UserActions } from './redux/actions/userActions';
 import { StoreState } from './redux/store';
+import CheckoutPage from './pages/CheckoutPage';
 
 const App: React.FC = () => {
   const dispatch = useDispatch();
@@ -35,6 +36,7 @@ const App: React.FC = () => {
       <Switch>
         <Route exact path="/" component={HomePage} />
         <Route path="/shop" component={ShopPage} />
+        <Route path="/checkout" component={CheckoutPage} />
         <Route path="/signin" render={() => (currentUser ? <Redirect to="/" /> : <SignInAndSignUpPage />)} />
         <Redirect to="/" />
       </Switch>
