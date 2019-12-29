@@ -8,14 +8,16 @@ import CartItem from './CartItem';
 interface CartDropDownProps extends React.HTMLAttributes<HTMLDivElement> {}
 
 export const CartDropDown: React.FC<CartDropDownProps> = (props: CartDropDownProps) => {
-  const cartItems = useSelector((storeState: StoreState) => storeState.cartState).cartItems;
+  const cartItems = useSelector((storeState: StoreState) => storeState.cartState.cartItems);
 
   return (
     <div className={styles.cartDropDown}>
       <div className={styles.cartItems}>
-        {cartItems.map(cartItem => (
-          <CartItem key={cartItem.id} cartItem={cartItem} />
-        ))}
+        {cartItems.length > 0 ? (
+          cartItems.map(cartItem => <CartItem key={cartItem.id} cartItem={cartItem} />)
+        ) : (
+          <div className={styles.emptyMsg}> You cart is empty </div>
+        )}
       </div>
       <Button className={styles.checkoutBtn}>GO TO CHECK OUT</Button>
     </div>

@@ -8,6 +8,12 @@
     margin-bottom: 2rem;
     max-height: 30rem;
     overflow: scroll;
+
+    .emptyMsg {
+      display: flex;
+      justify-content: center;
+      color: #aaa;
+    }
   }
 
   .checkoutBtn {

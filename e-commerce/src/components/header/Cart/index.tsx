@@ -11,7 +11,6 @@ export const Cart: React.FC<CartProps> = (props: CartProps) => {
   const [showCartDropDown, setShowCartDropDown] = React.useState(false);
   const cartState = useSelector((state: StoreState) => state.cartState);
   const cartItemsCount = cartState.cartItems.reduce((prev, curr) => prev + curr.quantity, 0);
-
   const toggleCartDropDown = () => {
     setShowCartDropDown(prevshowCartDropDown => !prevshowCartDropDown);
   };
@@ -19,7 +18,7 @@ export const Cart: React.FC<CartProps> = (props: CartProps) => {
   return (
     <div className={styles.cart}>
       <CartIcon cartItemsCount={cartItemsCount} className={styles.cartIcon} onClick={() => toggleCartDropDown()} />
-      {showCartDropDown && cartItemsCount > 0 && (
+      {showCartDropDown && (
         <div className={styles.dropDown}>
           <CartDropDown />
         </div>
