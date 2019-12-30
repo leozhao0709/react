@@ -1,5 +1,5 @@
 import * as React from 'react';
-import CollectionItem, { collectionItem } from './CollectionItem';
+import CollectionItem, { collectionItem } from '../../CollectionItem';
 import styles from './CollectionPreview.module.scss';
 
 interface CollectionPreviewProps {

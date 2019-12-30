@@ -2,7 +2,7 @@ import * as React from 'react';
 import styles from './CollectionItem.module.scss';
 import { Button } from 'react-milhouse';
 import { useDispatch } from 'react-redux';
-import { CartActions } from '../../../../redux/actions/cartActions';
+import { CartActions } from '../../../redux/actions/cartActions';
 
 export interface collectionItem {
   id: number;

@@ -4,10 +4,14 @@ import { UserState } from './reducers/user/userReducer';
 import { rootReducer } from './reducers/rootReducer';
 import logger from 'redux-logger';
 import { CartState } from './reducers/cart/cartReducer';
+import { CategoryState } from './reducers/category/categoryReducer';
+import { CollectionState } from './reducers/collection/collectionReducer';
 
 export interface StoreState {
   userState: UserState;
   cartState: CartState;
+  categoryState: CategoryState;
+  collectionState: CollectionState;
 }
 
 const middlewares: Middleware[] = [];

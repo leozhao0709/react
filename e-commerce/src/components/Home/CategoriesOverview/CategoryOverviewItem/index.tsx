@@ -1,12 +1,12 @@
 import * as React from 'react';
-import styles from './CategoryItem.module.scss';
+import styles from './CategoryOverviewItem.module.scss';
 
-interface CategoryItemProps extends React.HtmlHTMLAttributes<{}> {
+interface CategoryOverviewItemProps extends React.HtmlHTMLAttributes<{}> {
   title: string;
   imageUrl: string;
 }
 
-const CategoryItem: React.FC<CategoryItemProps> = (props: CategoryItemProps) => {
+const CategoryOverviewItem: React.FC<CategoryOverviewItemProps> = (props: CategoryOverviewItemProps) => {
   return (
     <div className={styles.categoryItem}>
       <div
@@ -23,6 +23,6 @@ const CategoryItem: React.FC<CategoryItemProps> = (props: CategoryItemProps) => 
   );
 };
 
-CategoryItem.defaultProps = {};
+CategoryOverviewItem.defaultProps = {};
 
-export default CategoryItem;
+export default CategoryOverviewItem;

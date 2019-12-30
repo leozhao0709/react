@@ -1,11 +1,11 @@
-import * as React from 'react';
-import styles from './Categories.module.scss';
-import CategoryItem from './CategoryItem';
+import { CategoryAction } from '../../actions/categoryAction';
 
-interface CategoriesProps extends React.HtmlHTMLAttributes<{}> {}
+export interface CategoryState {
+  overview: Category[];
+}
 
-const Categories: React.FC<CategoriesProps> = (props: CategoriesProps) => {
-  const categories = [
+const initialState: CategoryState = {
+  overview: [
     {
       title: 'hats',
       imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
@@ -33,17 +33,14 @@ const Categories: React.FC<CategoriesProps> = (props: CategoriesProps) => {
       size: 'large',
       id: 5
     }
-  ];
-
-  return (
-    <div className={styles.categories}>
-      {categories.map(({ id, title, imageUrl }) => (
-        <CategoryItem key={id} title={title} imageUrl={imageUrl} />
-      ))}
-    </div>
-  );
+  ]
 };
 
-Categories.defaultProps = {};
+const CategoryReducer = (state = initialState, action: CategoryAction): CategoryState => {
+  switch (action.type) {
+    default:
+      return state;
+  }
+};
 
-export default Categories;
+export default CategoryReducer;
