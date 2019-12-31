@@ -1,7 +1,9 @@
 .collectionItem {
   font-size: 1.8rem;
-  flex: 1 1 0;
+  flex: 1 1 20rem;
   position: relative;
+
+  $margin: 1rem;
 
   $imageHeight: 35rem;
 
@@ -16,13 +18,12 @@
   }
 
   &:not(:last-child) {
-    margin-right: 1rem;
+    margin-right: $margin;
   }
 
   .image {
     background-size: cover;
     height: $imageHeight;
-    min-width: 20rem;
   }
 
   .footer {
