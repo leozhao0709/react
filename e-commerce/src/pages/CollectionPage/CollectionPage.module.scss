@@ -1,7 +1,6 @@
-.collectionPreview {
+.collectionPage {
   display: flex;
   flex-direction: column;
-  margin-bottom: 2rem;
 
   .title {
     font-size: 2.5rem;
@@ -12,6 +11,5 @@
   .items {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
   }
 }
