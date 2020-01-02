@@ -20,9 +20,14 @@ const App: React.FC = () => {
         const userRef = await createUserProfileDocument(user);
 
         if (userRef) {
-          const snapshot = await userRef.get();
-          const currentUser = snapshot.data() as User;
-          dispatch(UserActions.setCurrentUser(currentUser));
+          // const snapshot = await userRef.get();
+          // const currentUser = snapshot.data() as User;
+          // dispatch(UserActions.setCurrentUser(currentUser));
+
+          userRef.onSnapshot(snapshot => {
+            const currentUser = snapshot.data() as User;
+            dispatch(UserActions.setCurrentUser(currentUser));
+          });
         }
       } else {
         dispatch(UserActions.setCurrentUser(null));
