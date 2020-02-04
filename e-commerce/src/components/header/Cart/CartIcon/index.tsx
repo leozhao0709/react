@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ShoppingBagIcon } from 'react-milhouse';
+import { ShoppingBagIcon } from '@leozhao0709/react-milhouse';
 import styles from './CartIcon.module.scss';
 
 interface CartIconProps extends React.HTMLAttributes<HTMLDivElement> {

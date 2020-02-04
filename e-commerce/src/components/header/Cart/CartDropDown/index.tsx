@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styles from './CartDropDown.module.scss';
-import { Button } from 'react-milhouse';
+import { Button } from '@leozhao0709/react-milhouse';
 import { useSelector } from 'react-redux';
 import { StoreState } from '../../../../redux/store';
 import CartItem from './CartItem';

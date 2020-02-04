@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import { auth } from '../../utils/firebase.util';
 import { useSelector } from 'react-redux';
 import { StoreState } from '../../redux/store';
-import { CrownIcon as Logo } from 'react-milhouse';
+import { CrownIcon as Logo } from '@leozhao0709/react-milhouse';
 import Cart from './Cart';
 
 interface HeaderProps {}
