@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styles from './CollectionItem.module.scss';
-import { Button } from '@leozhao0709/react-milhouse';
+import { Button } from '@leozhao0709/react-millhouse';
 import { useDispatch } from 'react-redux';
 import { CartActions } from '../../../redux/actions/cartActions';
 

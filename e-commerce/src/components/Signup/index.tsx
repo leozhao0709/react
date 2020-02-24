@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styles from './Signup.module.scss';
-import { FormInput, Button } from '@leozhao0709/react-milhouse';
+import { FormInput, Button } from '@leozhao0709/react-millhouse';
 import { auth, createUserProfileDocument } from '../../utils/firebase.util';
 
 interface SignUpProps {}

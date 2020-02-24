@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styles from './SignIn.module.scss';
-import { FormInput, Button } from '@leozhao0709/react-milhouse';
+import { FormInput, Button } from '@leozhao0709/react-millhouse';
 import { signInWithGoogle, auth } from '../../utils/firebase.util';
 
 interface SignInProps {}

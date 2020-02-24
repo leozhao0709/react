@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styles from './CheckoutItem.module.scss';
-import { LeftArrowIcon, RightArrowIcon, CloseIcon } from '@leozhao0709/react-milhouse';
+import { LeftArrowIcon, RightArrowIcon, CloseIcon } from '@leozhao0709/react-millhouse';
 import { useDispatch } from 'react-redux';
 import { CartActions } from '../../../redux/actions/cartActions';
 

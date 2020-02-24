@@ -1,75 +1,78 @@
-@import "../../../node_modules/@leozhao0709/react-milhouse/dist/scss/size";
+@import '../../../node_modules/@leozhao0709/react-millhouse/dist/scss/size';
 
 .signIn {
-    flex: 1;
+  flex: 1;
 
-    .title {
-        font-size: 4rem;
-        color: #101d2c;
-        font-weight: bold;
-        margin-bottom: 1rem;
+  .title {
+    font-size: 4rem;
+    color: #101d2c;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  .subtitle {
+    font-size: 2.5rem;
+    color: #777;
+  }
+
+  .signInForm {
+    padding: 2rem 0;
+    margin-top: 3rem;
+
+    .formControl {
+      padding: 0.5rem 0rem;
+      font-size: 3rem;
     }
 
-    .subtitle {
-        font-size: 2.5rem;
-        color: #777;
+    .formLabel {
+      font-size: 2.5rem;
     }
 
-    .signInForm {
-        padding: 2rem 0;
-        margin-top: 3rem;
+    .signInBtnGroup {
+      $btnTextColor: #f4f2f2;
+      $signInBtnBgColor: #000;
+      $signInWithGoogleBtnBgColor: #2998ff;
+      $signInWithGoogleBtnBgHoverColor: lighten(
+        $color: $signInWithGoogleBtnBgColor,
+        $amount: 5%
+      );
 
-        .formControl {
-            padding: 0.5rem 0rem;
-            font-size: 3rem;
+      display: flex;
+      justify-content: center;
+      font-size: 2.5rem;
+      font-weight: bolder;
+      flex-wrap: wrap;
+
+      @media #{$screen-desktop} {
+        justify-content: space-between;
+      }
+
+      .btn {
+        width: 25rem;
+        height: 8rem;
+        margin: 1rem;
+      }
+
+      .signInBtn {
+        border: 1px solid $signInBtnBgColor;
+        background-color: $signInBtnBgColor;
+        color: $btnTextColor;
+
+        &:hover {
+          background-color: $btnTextColor;
+          color: $signInBtnBgColor;
         }
+      }
 
-        .formLabel {
-            font-size: 2.5rem;
+      .signInWithGoogleBtn {
+        border: 1px solid $signInWithGoogleBtnBgColor;
+        background-color: $signInWithGoogleBtnBgColor;
+        color: $btnTextColor;
+
+        &:hover {
+          background-color: $signInWithGoogleBtnBgHoverColor;
         }
-
-        .signInBtnGroup {
-            $btnTextColor: #f4f2f2;
-            $signInBtnBgColor: #000;
-            $signInWithGoogleBtnBgColor: #2998ff;
-            $signInWithGoogleBtnBgHoverColor: lighten($color: $signInWithGoogleBtnBgColor, $amount: 5%);
-
-            display: flex;
-            justify-content: center;
-            font-size: 2.5rem;
-            font-weight: bolder;
-            flex-wrap: wrap;
-
-            @media #{$screen-desktop} {
-                justify-content: space-between;
-            }
-
-            .btn {
-                width: 25rem;
-                height: 8rem;
-                margin: 1rem;
-            }
-
-            .signInBtn {
-                border: 1px solid $signInBtnBgColor;
-                background-color: $signInBtnBgColor;
-                color: $btnTextColor;
-
-                &:hover {
-                    background-color: $btnTextColor;
-                    color: $signInBtnBgColor;
-                }
-            }
-
-            .signInWithGoogleBtn {
-                border: 1px solid $signInWithGoogleBtnBgColor;
-                background-color: $signInWithGoogleBtnBgColor;
-                color: $btnTextColor;
-
-                &:hover {
-                    background-color: $signInWithGoogleBtnBgHoverColor;
-                }
-            }
-        }
+      }
     }
+  }
 }

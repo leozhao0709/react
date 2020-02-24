@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@leozhao0709/react-milhouse": "0.0.16",
+    "@leozhao0709/react-millhouse": "0.0.16",
     "@types/jest": "24.0.23",
     "@types/node": "12.12.12",
     "@types/react": "16.9.13",
