@@ -6,7 +6,8 @@ module.exports = {
     'eslint:recommended',
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
-    'prettier/@typescript-eslint'
+    'prettier/@typescript-eslint',
+    'plugin:react/recommended'
   ],
   rules: {
     'no-console': 1,
@@ -16,6 +17,12 @@ module.exports = {
     '@typescript-eslint/no-var-requires': 0,
     'no-undef': 0,
     '@typescript-eslint/no-non-null-assertion': 0,
-    '@typescript-eslint/no-empty-interface': 0
+    '@typescript-eslint/no-empty-interface': 0,
+    '@typescript-eslint/explicit-function-return-type': 0
+  },
+  settings: {
+    react: {
+      version: 'detected'
+    }
   }
 };

@@ -9,4 +9,4 @@ coverage
 .vscode
 *-error.log
 *-debug.log
-.next
+/.next
