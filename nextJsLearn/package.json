@@ -1,0 +1,39 @@
+{
+  "name": "nextJsLearn",
+  "version": "1.0.0",
+  "main": "",
+  "author": "Lei Zhao <lei.zhao@coupa.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.3",
+    "@types/react": "^16.9.25",
+    "@typescript-eslint/eslint-plugin": "^2.25.0",
+    "@typescript-eslint/parser": "^2.25.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.3"
+  },
+  "types": "",
+  "scripts": {
+    "start": "next",
+    "test": "yarn lint && jest --coverage",
+    "test:watch": "jest --watch",
+    "build": "yarn build:clean && next build",
+    "build:clean": "rm -rf .next",
+    "clean": "rm -rf node_modules .next coverage yarn.lock",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "next": "next start"
+  },
+  "files": [
+    ".next/**/*"
+  ],
+  "keywords": [],
+  "dependencies": {
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
