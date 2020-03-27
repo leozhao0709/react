@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import { auth } from '../../utils/firebase.util';
 import { useSelector } from 'react-redux';
 import { StoreState } from '../../redux/store';
-import { CrownIcon as Logo } from '@leozhao0709/react-millhouse';
+// import { CrownIcon as Logo } from '@leozhao0709/react-millhouse';
 import Cart from './Cart';
 
 interface HeaderProps {}
@@ -15,7 +15,7 @@ const Header: React.FC<HeaderProps> = (props: HeaderProps) => {
   return (
     <nav className={styles.header}>
       <Link className={styles.logo} to="/">
-        <Logo />
+        {/* <Logo /> */}
       </Link>
       <div className={styles.navItems}>
         <Link className={styles.navItem} to="/shop">

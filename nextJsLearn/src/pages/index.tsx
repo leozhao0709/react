@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { NextPage } from 'next';
 import axios from 'axios';
+// import { Button } from '@leozhao0709/react-millhouse';
 
 interface HomeProps extends React.HTMLAttributes<HTMLDivElement> {
   shows: any[];
@@ -16,7 +17,21 @@ const Home: NextPage<HomeProps> = (props: HomeProps) => {
   const { shows } = props;
   const renderShows = () => shows.map(showItem => <li key={showItem.id}>{showItem.show.name}</li>);
 
-  return <ul>{renderShows()}</ul>;
+  let AddButton;
+  const renderAddButton = () => {
+    if (typeof window !== 'undefined') {
+      AddButton = import('@leozhao0709/react-millhouse').then(mod => mod.AddButton);
+    }
+
+    return AddButton;
+  };
+
+  return (
+    <ul>
+      {renderShows()}
+      {renderAddButton()}
+    </ul>
+  );
 };
 
 export const getStaticProps = async () => {
