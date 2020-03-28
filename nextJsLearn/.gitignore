@@ -3,9 +3,9 @@ node_modules
 /dist
 /.nyc_output
 /lib
-/package-lock.json
 /tmp
 coverage
 .vscode
 *-error.log
 *-debug.log
+*.lock
