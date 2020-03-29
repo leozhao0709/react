@@ -1,17 +1,24 @@
 import React from 'react';
-import { NextPage, GetStaticProps } from 'next';
+import { NextPage, GetStaticProps, GetStaticPaths } from 'next';
 import styles from './index.module.scss';
 import axios from 'axios';
+import { useRouter } from 'next/router';
 
 interface CountryDetailProps extends React.HTMLAttributes<HTMLDivElement> {
   show: any;
 }
 
 const CountryDetail: NextPage<CountryDetailProps> = (props: CountryDetailProps) => {
+  const { show } = props;
+  const route = useRouter();
+  if (route.isFallback) {
+    return <div>Loading...</div>;
+  }
+
   return (
-    <div className={styles.showDetails}>
-      <div></div>
-      <h1>Country Detail</h1>
+    <div className={styles.countryDetails}>
+      <div className={styles.poster} style={{ backgroundImage: `url(${show.image.original})` }}></div>
+      <h1>{show.name}</h1>
     </div>
   );
 };
@@ -23,6 +30,14 @@ export const getStaticProps: GetStaticProps = async ctx => {
     props: {
       show
     }
+  };
+};
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const paths = [{ params: { country: 'us', showId: '1' } }];
+  return {
+    paths,
+    fallback: true
   };
 };
 
