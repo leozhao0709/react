@@ -1,20 +1,25 @@
 import React from 'react';
-import { NextPage } from 'next';
 import styles from './index.module.scss';
+import Link from 'next/link';
 
 interface ThumbnailProps extends React.HTMLAttributes<HTMLDivElement> {
   imageUrl: string;
   caption: string;
+  href: string;
+  as: string;
 }
 
-const Thumbnail: NextPage<ThumbnailProps> = (props: ThumbnailProps) => {
-  const { imageUrl, caption } = props;
+const Thumbnail: React.FC<ThumbnailProps> = (props: ThumbnailProps) => {
+  const { imageUrl, caption, href, as } = props;
+  const imagePlaceHolder = 'http://placeimg.com/200/150/any';
 
   return (
-    <div className={styles.thumnail}>
-      <img src={imageUrl} className={styles.image} />
-      <h4 className={styles.caption}>{caption}</h4>
-    </div>
+    <Link href={href} as={as}>
+      <a className={styles.thumnail}>
+        <img src={imageUrl || imagePlaceHolder} className={styles.image} />
+        <h4 className={styles.caption}>{caption}</h4>
+      </a>
+    </Link>
   );
 };
 

@@ -6,6 +6,7 @@ import Thumbnail from '../../components/thumbnail';
 
 interface HomeProps extends React.HTMLAttributes<HTMLDivElement> {
   shows: any[];
+  country: string;
 }
 
 const Home: NextPage<HomeProps> = (props: HomeProps) => {
@@ -18,12 +19,14 @@ const Home: NextPage<HomeProps> = (props: HomeProps) => {
   const { shows } = props;
   const renderShows = () =>
     shows.map(showItem => {
-      if (!showItem.show.image) {
-        return;
-      }
       return (
         <li key={showItem.id}>
-          <Thumbnail caption={showItem.show.name} imageUrl={showItem.show.image.medium} />
+          <Thumbnail
+            caption={showItem.show.name}
+            imageUrl={showItem.show.image && showItem.show.image.medium}
+            href="/[country]/[showId]"
+            as={`/${props.country}/${showItem.id}`}
+          />
         </li>
       );
     });
@@ -33,13 +36,14 @@ const Home: NextPage<HomeProps> = (props: HomeProps) => {
 
 export const getStaticProps: GetStaticProps = async ctx => {
   const { params } = ctx;
-
-  const res = await axios.get(`http://api.tvmaze.com/schedule?country=${params!.country}&date=2014-12-01`);
+  const country = params!.country;
+  const res = await axios.get(`http://api.tvmaze.com/schedule?country=${country}&date=2014-12-01`);
   const shows = res.data;
 
   return {
     props: {
-      shows
+      shows,
+      country
     }
   };
 };
