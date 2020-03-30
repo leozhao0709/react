@@ -4,6 +4,7 @@ import styles from './index.module.scss';
 import axios from 'axios';
 import { useRouter } from 'next/router';
 import parse from 'html-react-parser';
+import Casts from '../../../components/casts';
 
 interface CountryDetailProps extends React.HTMLAttributes<HTMLDivElement> {
   show: any;
@@ -21,12 +22,15 @@ const CountryDetail: NextPage<CountryDetailProps> = (props: CountryDetailProps) 
       <div className={styles.poster} style={{ backgroundImage: `url(${show.image.original})` }}></div>
       <h1>{show.name}</h1>
       {parse(show.summary)}
+      {show._embedded && show._embedded.cast.length > 0 && <Casts casts={show._embedded.cast} />}
     </div>
   );
 };
 
 export const getStaticProps: GetStaticProps = async ctx => {
-  const req = await axios.get('http://api.tvmaze.com/shows/1?embed=cast');
+  const { params } = ctx;
+  const showId = params && params.showId;
+  const req = await axios.get(`http://api.tvmaze.com/shows/${showId}?embed=cast`);
   const show = req.data;
   return {
     props: {

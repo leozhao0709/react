@@ -1,0 +1,17 @@
+.casts {
+    .castList {
+        list-style: none;
+        display: flex;
+        overflow: scroll;
+        padding: 0;
+
+        li {
+            margin: 10px;
+
+            img {
+                width: 150px;
+                min-height: 211px;
+            }
+        }
+    }
+}

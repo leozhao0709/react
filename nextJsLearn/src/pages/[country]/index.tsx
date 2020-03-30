@@ -3,6 +3,7 @@ import { NextPage, GetStaticPaths, GetStaticProps } from 'next';
 import { useRouter } from 'next/router';
 import axios from 'axios';
 import Thumbnail from '../../components/thumbnail';
+import styles from './index.module.scss';
 
 interface HomeProps extends React.HTMLAttributes<HTMLDivElement> {
   shows: any[];
@@ -25,13 +26,13 @@ const Home: NextPage<HomeProps> = (props: HomeProps) => {
             caption={showItem.show.name}
             imageUrl={showItem.show.image && showItem.show.image.medium}
             href="/[country]/[showId]"
-            as={`/${props.country}/${showItem.id}`}
+            as={`/${props.country}/${showItem.show.id}`}
           />
         </li>
       );
     });
 
-  return <ul>{renderShows()}</ul>;
+  return <ul className={styles.list}>{renderShows()}</ul>;
 };
 
 export const getStaticProps: GetStaticProps = async ctx => {
