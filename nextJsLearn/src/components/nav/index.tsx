@@ -1,21 +1,37 @@
-import React from 'react';
-import Link from 'next/link';
+import React, { FormEvent, useState } from 'react';
+import styles from './index.module.scss';
+import { useRouter } from 'next/router';
 
-interface NacProps extends React.HTMLAttributes<HTMLDivElement> {}
+interface NavProps extends React.HTMLAttributes<HTMLDivElement> {}
 
-const Nac: React.FC<NacProps> = (props: NacProps) => {
+const countries = [
+  { name: 'United States', route: 'us' },
+  { name: 'Brazil', route: 'br' }
+];
+
+const Nav: React.FC<NavProps> = (props: NavProps) => {
+  const router = useRouter();
+  const [selectedCountry, setSelectedCountry] = useState(router.query.country);
+
+  const selectCountry = (e: FormEvent<HTMLSelectElement>) => {
+    const countryValue = e.currentTarget.value;
+    setSelectedCountry(countryValue);
+    router.push('/[country]', `/${countryValue}`);
+  };
+
   return (
-    <nav>
-      <Link href={'/'}>
-        <button>Home</button>
-      </Link>
-      <Link href={'/about'}>
-        <a>About</a>
-      </Link>
+    <nav className={styles.nav}>
+      <select onChange={selectCountry} value={selectedCountry}>
+        {countries.map(country => (
+          <option key={country.route} value={country.route}>
+            {country.name}
+          </option>
+        ))}
+      </select>
     </nav>
   );
 };
 
-Nac.defaultProps = {};
+Nav.defaultProps = {};
 
-export default Nac;
+export default Nav;

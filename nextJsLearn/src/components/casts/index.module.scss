@@ -1,17 +1,28 @@
 .casts {
-    .castList {
-        list-style: none;
-        display: flex;
-        overflow: scroll;
-        padding: 0;
+  padding: 1rem;
 
-        li {
-            margin: 10px;
+  h3 {
+    font-size: 2rem;
+  }
+  .castList {
+    display: flex;
+    overflow: scroll;
 
-            img {
-                width: 150px;
-                min-height: 211px;
-            }
-        }
+    li {
+      margin: 10px;
+
+      &:first-child {
+        margin-left: 0;
+      }
+
+      img {
+        width: 150px;
+        min-height: 211px;
+      }
+
+      h4 {
+        font-size: 1.5rem;
+      }
     }
+  }
 }
