@@ -1,7 +1,7 @@
 import React from 'react';
 import { AppProps } from 'next/app';
-import './_app.scss';
 import Layout from '../components/layout';
+import './_app.scss';
 
 if (process.env.NODE_ENV === 'development' && module.hot) {
   module.hot.addStatusHandler(status => {

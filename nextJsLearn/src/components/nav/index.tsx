@@ -1,6 +1,7 @@
 import React, { FormEvent, useState } from 'react';
 import styles from './index.module.scss';
 import { useRouter } from 'next/router';
+import Link from 'next/link';
 
 interface NavProps extends React.HTMLAttributes<HTMLDivElement> {}
 
@@ -28,6 +29,9 @@ const Nav: React.FC<NavProps> = (props: NavProps) => {
           </option>
         ))}
       </select>
+      <Link href="/">
+        <a>Home</a>
+      </Link>
     </nav>
   );
 };
