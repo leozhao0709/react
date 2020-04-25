@@ -1,6 +1,6 @@
-const withSass = require('@zeit/next-sass');
+// const withSass = require('@zeit/next-sass');
 
-module.exports = withSass({
-  distDir: 'dist',
-  cssModules: true
-});
+// module.exports = withSass({
+//   distDir: 'dist',
+//   cssModules: true
+// });

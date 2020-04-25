@@ -12,14 +12,13 @@
     "@types/webpack-env": "^1.15.1",
     "@typescript-eslint/eslint-plugin": "^2.25.0",
     "@typescript-eslint/parser": "^2.25.0",
-    "@zeit/next-sass": "^1.0.1",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.1",
     "eslint-plugin-react": "^7.19.0",
     "jest": "^25.2.3",
-    "node-sass": "^4.13.1",
     "ts-jest": "^25.2.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "sass": "^1.26.5"
   },
   "types": "",
   "scripts": {
@@ -40,7 +39,7 @@
     "@leozhao0709/react-millhouse": "0.0.16",
     "axios": "^0.19.2",
     "html-react-parser": "^0.10.3",
-    "next": "^9.3.2",
+    "next": "^9.3.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
