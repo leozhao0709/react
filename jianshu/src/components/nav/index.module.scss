@@ -56,6 +56,11 @@
         border: none;
         outline: none;
         font-size: 14px;
+        transition: width 0.5s;
+
+        &.focused {
+          width: 240px;
+        }
 
         &::placeholder {
           color: #999;

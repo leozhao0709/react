@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import styles from './index.module.scss';
 import Link from 'next/link';
 import classNames from 'classnames';
@@ -6,6 +6,11 @@ import classNames from 'classnames';
 interface NavProps extends React.HTMLAttributes<HTMLDivElement> {}
 
 const Nav: React.FC<NavProps> = (props: NavProps) => {
+  const [focused, setFocus] = useState(false);
+
+  const onFocus = () => setFocus(true);
+  const onBlur = () => setFocus(false);
+
   return (
     <nav className={styles.nav}>
       <Link href="/" as="/">
@@ -19,7 +24,12 @@ const Nav: React.FC<NavProps> = (props: NavProps) => {
           <Link href="/" as="/">
             <a>下载App</a>
           </Link>
-          <input className={styles.search} placeholder="搜索" />
+          <input
+            className={classNames(styles.search, { [styles.focused]: focused })}
+            placeholder="搜索"
+            onFocus={onFocus}
+            onBlur={onBlur}
+          />
         </div>
         <div className={styles.middleRightItems}>
           <Link href="/" as="/">
