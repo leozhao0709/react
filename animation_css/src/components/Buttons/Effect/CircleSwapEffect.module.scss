@@ -1,0 +1,25 @@
+.Effect {
+  border-color: tomato;
+  color: tomato;
+  overflow: hidden;
+  &::before {
+    content: '';
+    display: block;
+    background-color: tomato;
+    width: 100%;
+    height: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    border-radius: 0 0 50% 50%;
+    transition: height 0.5s;
+  }
+
+  &:hover {
+    color: #fff;
+    &::before {
+      height: 190%;
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.buttonsContainer {
+  border: 1px dashed #000;
+  padding: 2rem;
+  min-height: calc(100vh - 4rem);
+
+  display: flex;
+  flex-direction: column;
+
+  & > button {
+    margin: 1rem 0;
+  }
+}

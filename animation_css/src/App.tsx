@@ -1,14 +1,11 @@
 import React from 'react';
 import styles from './App.module.scss';
-import img1 from '/assets/images/smallImage.png';
-import svg1 from '/assets/svg/svg1.svg';
+import ButtonsContainer from './components/Buttons';
 
 const App: React.FC = () => {
   return (
     <div className={styles.App}>
-      <h1>mycli generated react project</h1>
-      <img src={img1} alt="img1" />
-      <img src={svg1} alt="svg1" />
+      <ButtonsContainer />
     </div>
   );
 };

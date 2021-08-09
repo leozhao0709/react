@@ -1,0 +1,23 @@
+.Effect {
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    background-color: #ffb900;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    transform-origin: left bottom;
+    transform: rotate(-90deg);
+    transition: transform 0.8s;
+    z-index: -1;
+  }
+
+  &:hover {
+    &::before {
+      transform: rotate(0);
+    }
+  }
+}

@@ -46,21 +46,6 @@ module.exports = merge(commonConfig, {
           },
         ],
       },
-      {
-        test: /\.(png|jpg|jpeg|gif|ttf|svg)$/i,
-        type: 'asset/resource',
-        // // url-loader and file-loader is deprecated since webpack 5 and css-loader 6
-        // use: [
-        //   {
-        //     loader: 'url-loader',
-        //     options: {
-        //       limit: 10 * 1024, // 10kb,
-        //       outputPath: '/assets/',
-        //       // publicPath: 'https://cdn.abc.com'
-        //     },
-        //   },
-        // ],
-      },
     ],
   },
   plugins: [

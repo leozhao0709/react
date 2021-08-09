@@ -1,0 +1,38 @@
+.Effect {
+  background-color: #c47135;
+  color: white;
+  border: none;
+
+  &::after,
+  &::before {
+    content: '';
+    display: block;
+    width: 3rem;
+    height: 3rem;
+    background-color: transparent;
+    position: absolute;
+    transition: 0.25s;
+  }
+
+  &::before {
+    left: -3px;
+    top: -3px;
+    border-top: 2px solid #c47135;
+    border-left: 2px solid #c47135;
+  }
+
+  &::after {
+    right: -3px;
+    bottom: -3px;
+    border-bottom: 2px solid #c47135;
+    border-right: 2px solid #c47135;
+  }
+
+  &:hover {
+    &::after,
+    &::before {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
