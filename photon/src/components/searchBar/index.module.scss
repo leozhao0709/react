@@ -1,12 +1,15 @@
 .SearchBar {
   display: flex;
-  width: 59rem;
+  max-width: 59rem;
+  width: 100%;
+  min-width: 30rem;
   border: 1px solid #ccc;
   margin: 0 auto;
   font-size: 1.8rem;
 
   .textField {
     width: 100%;
+    min-width: 30rem;
     padding: 0 0.5rem;
     border: none;
     color: #333;
@@ -17,5 +20,6 @@
     border: none;
     color: #fff;
     padding: 1rem;
+    cursor: pointer;
   }
 }

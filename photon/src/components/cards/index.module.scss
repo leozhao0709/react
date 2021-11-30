@@ -1,0 +1,10 @@
+.Cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 52px;
+
+  @media (max-width: 660px) {
+    justify-content: center;
+  }
+}

@@ -1,0 +1,27 @@
+.Card {
+  height: 50rem;
+  flex: 1 0 33rem;
+  padding: 0.9rem;
+  .Header {
+    display: flex;
+    justify-content: space-between;
+    color: #b9b9b9;
+
+    .Author,
+    .Download {
+      font-weight: bold;
+      font-size: 14px;
+      color: #b9b9b9;
+      text-decoration: none;
+    }
+  }
+
+  .ImageContainer {
+    height: 468px;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
