@@ -1,10 +1,14 @@
 .Cards {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  // display: flex;
+  // justify-content: space-between;
+  // flex-wrap: wrap;
   margin-top: 52px;
 
-  @media (max-width: 660px) {
-    justify-content: center;
-  }
+  // @media (max-width: 660px) {
+  //   justify-content: center;
+  // }
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(33rem, 1fr));
+  width: 100%;
 }
