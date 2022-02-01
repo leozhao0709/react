@@ -1,16 +1,11 @@
 import React from 'react';
 import styles from './App.module.scss';
-import img1 from './assets/images/smallImage.png';
-import svg1 from './assets/svg/svg1.svg';
+import { AppProps } from './App.props';
+import { AppWrapper } from './App.style';
 
-const App: React.FC = () => {
-  return (
-    <div className={styles.App}>
-      <h1>mycli generated react project</h1>
-      <img src={img1} alt="img1" />
-      <img src={svg1} alt="svg1" />
-    </div>
-  );
+const App: React.FC<AppProps> = (props) => {
+  // return <div className={styles.App}></div>;
+  return <AppWrapper {...props} />;
 };
 
 export default App;

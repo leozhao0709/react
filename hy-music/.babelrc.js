@@ -10,7 +10,10 @@ module.exports = {
         corejs: 3,
       },
     ],
-    '@babel/preset-react',
+    [
+      '@babel/preset-react',
+      { runtime: 'automatic', importSource: '@emotion/react' },
+    ], // add plugin here
     '@babel/preset-typescript',
   ],
   plugins: [
