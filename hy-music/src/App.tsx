@@ -1,12 +1,15 @@
 import React from 'react';
 import styles from './App.module.scss';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import renderRoutes from './router/index';
 
 const App: React.FC = () => {
   return (
     <div className={styles.App}>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ab nisi
-      optio possimus, non culpa labore vitae impedit at facere nam obcaecati
-      adipisci corrupti voluptatem ratione, laboriosam vero? Tempora, optio.
+      <Header />
+      {renderRoutes()}
+      <Footer />
     </div>
   );
 };

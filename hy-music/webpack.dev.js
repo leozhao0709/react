@@ -15,6 +15,7 @@ module.exports = merge(commonConfig, {
     host: 'localhost',
     port: 9001,
     hot: true,
+    historyApiFallback: true,
     // // 设置代理
     // proxy: {
     //   // 将本地 /api/xxx 代理到 localhost:3000/api/xxx

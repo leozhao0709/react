@@ -1,0 +1,29 @@
+.header {
+  height: 70px;
+  background-color: #242424;
+
+  .container {
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+
+    .leftSection {
+      display: flex;
+      justify-content: space-between;
+
+      .navItem {
+        font-size: 14px;
+        padding: 20px;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        color: #ccc;
+        &.active,
+        &:hover {
+          background-color: #000;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
