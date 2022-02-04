@@ -1,0 +1,111 @@
+.nav {
+  height: 70px;
+  background-color: #242424;
+
+  .container {
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    height: 100%;
+    color: #ccc;
+
+    .leftSection {
+      height: 100%;
+      display: flex;
+      justify-content: space-between;
+
+      .navItem {
+        font-size: 14px;
+        padding: 0 19px;
+        text-decoration: none;
+        display: flex;
+        color: #ccc;
+        align-items: center;
+        position: relative;
+
+        &.active,
+        &:hover {
+          background-color: #000;
+          color: #fff;
+        }
+
+        &.active {
+          &::after {
+            content: '';
+            width: 12px;
+            height: 7px;
+            background-image: url('@app/assets/images/sprite_01.png');
+            background-position: -105px -70px;
+            background-size: 120px auto;
+            position: absolute;
+            bottom: -1px;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+        }
+
+        .hot {
+          background-image: url('@app/assets/images/sprite_01.png');
+          width: 28px;
+          height: 19px;
+          background-position: -190px 0;
+          position: absolute;
+          left: 100px;
+          top: 20px;
+        }
+      }
+    }
+
+    .rightSection {
+      margin-left: auto;
+      margin-right: 22px;
+      display: flex;
+      justify-content: space-between;
+
+      .search {
+        display: flex;
+        align-items: center;
+
+        &Container {
+          display: flex;
+          align-items: center;
+          color: #333;
+          background-color: #fff;
+          width: 158px;
+          height: 32px;
+          border-radius: 32px;
+          padding-left: 5px;
+
+          .searchInput {
+            font-size: 12px;
+            border: none;
+            margin-left: 5px;
+          }
+        }
+      }
+
+      .authorCenter {
+        align-self: center;
+        border-radius: 32px;
+        font-size: 12px;
+        padding: 6px 15px;
+        border: 1px solid #4f4f4f;
+        margin-left: 12px;
+
+        &:hover {
+          border: 1px solid #ccc;
+        }
+      }
+
+      .logIn {
+        margin-left: 20px;
+        color: #787878;
+        align-self: center;
+        font-size: 12px;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

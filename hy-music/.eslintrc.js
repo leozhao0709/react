@@ -23,6 +23,7 @@ module.exports = {
     '@typescript-eslint/explicit-function-return-type': 0,
     '@typescript-eslint/explicit-module-boundary-types': 0,
     'react/prop-types': 0,
+    'import/no-unresolved': 0,
     'import/no-cycle': [2, { ignoreExternal: true }],
   },
   settings: {

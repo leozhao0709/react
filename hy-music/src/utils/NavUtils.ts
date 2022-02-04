@@ -17,6 +17,7 @@ const NavUtils = {
       title: '下载客户端',
       path: 'https://music.163.com/#/download',
       isLink: true,
+      isHot: true,
     },
   ],
 };
