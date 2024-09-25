@@ -12,7 +12,7 @@
     "typeCheck": "tsc --noEmit",
     "eslint": "eslint --config build-tools/.eslintrc.js --ext .ts,.tsx,.js,.jsx src/ tests/",
     "lintStaged": "lint-staged --config build-tools/.lint-staged.config.js",
-    "dev": "vite --config build-tools/vite.config.mts",
+    "dev": "vite --config build-tools/vite.config.mts --force",
     "preview": "vite --config build-tools/vite.config.mts preview",
     "vitest": "vitest --config build-tools/vitest.config.mts run --coverage",
     "vitest:dev": "vitest --config build-tools/vitest.config.mts",
@@ -69,13 +69,14 @@
     "webpack-merge": "^6.0.1"
   },
   "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
     "lodash": "^4.17.21",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.53.0",
-    "zod": "link:@hookform/resolvers/zod"
+    "zod": "^3.23.8"
   },
   "files": [
     "dist/**/*"
